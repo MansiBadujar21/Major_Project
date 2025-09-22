@@ -1,6 +1,6 @@
 🚀 Freelancing Portfolio - AI-Powered HR Assistant
 👨‍💻 Professional Freelancer Profile
-Himanshu Kishor Salunke - Data Science Specialist & AI Solutions Developer
+
 Transforming businesses through innovative AI-powered applications and data-driven insights
 
 📋 Project Showcase: Jio-Chatbot
