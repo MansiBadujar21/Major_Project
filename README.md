@@ -222,7 +222,27 @@ chatbot_project/
 - Google Gemini API key
 - Git
 
-### Frontend Setup
+### 🎯 Unified Development Setup (Recommended)
+
+**Start both frontend and backend with a single command:**
+
+```bash
+# First time setup - install all dependencies
+npm run setup
+
+# Start development (both frontend and backend)
+npm run dev
+```
+
+This will start:
+- **Frontend**: Next.js development server on `http://localhost:3000`
+- **Backend**: FastAPI server on `http://localhost:8000`
+
+### Alternative: Manual Setup
+
+If you prefer to set up frontend and backend separately:
+
+#### Frontend Setup
 ```bash
 # Install dependencies
 npm install
@@ -232,10 +252,10 @@ cp .env.example .env.local
 # Add your Google Gemini API key to .env.local
 
 # Start development server
-npm run dev
+npm run dev:frontend
 ```
 
-### Backend Setup
+#### Backend Setup
 ```bash
 # Navigate to backend directory
 cd backend
@@ -251,8 +271,21 @@ pip install -r requirements.txt
 export GOOGLE_GEMINI_API_KEY="your-api-key-here"
 
 # Start FastAPI server
-uvicorn app.main:app --reload --host 0.0.0.0 --port 8000
+npm run dev:backend
 ```
+
+### 🛠️ Available Scripts
+
+| Command | Description |
+|---------|-------------|
+| `npm run dev` | Start both frontend and backend together |
+| `npm run dev:frontend` | Start only the Next.js frontend |
+| `npm run dev:backend` | Start only the FastAPI backend |
+| `npm run setup` | Install all dependencies (first time setup) |
+| `npm run install:backend` | Install only Python backend dependencies |
+| `npm run build` | Build the Next.js frontend for production |
+| `npm run start` | Start the production Next.js server |
+| `npm run lint` | Run ESLint on the frontend code |
 
 **Note**: AI models (Sentence Transformers) will be automatically downloaded on first run (~100MB). This may take a few minutes depending on your internet connection.
 

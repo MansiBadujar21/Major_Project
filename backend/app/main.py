@@ -10,11 +10,11 @@ project_root = Path(__file__).parent.parent.parent
 env_path = project_root / ".env"
 if env_path.exists():
     load_dotenv(env_path)
-    print(f"✅ Loaded environment from: {env_path}")
+    print(f"[OK] Loaded environment from: {env_path}")
 else:
     # Fallback to current directory
     load_dotenv()
-    print("⚠️ Using fallback environment loading")
+    print("[WARNING] Using fallback environment loading")
 
 from .routers import chat, documents, certificates, health, gemini_documents, advanced_qa, document_requests, auth
 from .services.db import db_service

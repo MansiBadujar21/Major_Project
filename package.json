@@ -3,10 +3,15 @@
   "version": "0.1.0",
   "private": true,
   "scripts": {
-    "dev": "next dev",
+    "dev": "concurrently \"npm run dev:backend\" \"npm run dev:frontend\" --names \"Backend,Frontend\" --prefix-colors \"cyan,magenta\"",
+    "dev:frontend": "next dev",
+    "dev:backend": "node scripts/start-backend.js",
     "build": "next build",
     "start": "next start",
-    "lint": "next lint"
+    "lint": "next lint",
+    "install:backend": "pip install -r requirements.txt",
+    "setup": "npm install && npm run install:backend",
+    "test:setup": "node scripts/test-setup.js"
   },
   "dependencies": {
     "axios": "^1.7.4",
@@ -27,6 +32,7 @@
     "@types/react": "^18.3.4",
     "@types/react-dom": "^18.3.0",
     "autoprefixer": "^10.4.20",
+    "concurrently": "^9.2.1",
     "eslint": "^9.0.0",
     "globals": "^15.0.0",
     "postcss": "^8.4.41",
