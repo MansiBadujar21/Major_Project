@@ -1,0 +1,1062 @@
+
+=== DOCUMENT REQUEST NOTIFICATION ===
+Time: 2025-08-11 14:07:06
+Request ID: DOC_20250811_140706
+Document: Promotion Letter
+User: anonymous
+Details: {"employeeName":"Nicholas Ortiz","employeeId":"EMP0001","designation":"Admin Officer","department":"Product","promotionDate":"2021-07-14","newDesignation":"Software Engineer"}
+Status: completed
+=====================================
+
+=== DOCUMENT REQUEST NOTIFICATION ===
+Time: 2025-08-11 14:11:28
+Request ID: DOC_20250811_141128
+Document: Offer Letter Copy
+User: anonymous
+Details: {"employeeName":"Nicholas Ortiz","employeeId":"EMP0001","designation":"Admin Officer","department":"Product","joiningDate":"2021-07-14"}
+Status: completed
+=====================================
+
+=== DOCUMENT REQUEST NOTIFICATION ===
+Time: 2025-08-11 15:23:03
+Request ID: DOC_20250811_152303
+Document: Experience Certificate
+User: anonymous
+Details: {"employeeName":"Randy Drake","employeeId":"EMP0002","designation":"Marketing Specialist","department":"Admin","joiningDate":"2015-12-26","relievingDate":"2025-08-11","purpose":"New Job"}
+Status: completed
+=====================================
+
+=== DOCUMENT REQUEST NOTIFICATION ===
+Time: 2025-08-11 15:23:57
+Request ID: DOC_20250811_152357
+Document: Bonafide / Employment Verification Letter
+User: anonymous
+Details: {"employeeName":"Randy Drake","employeeId":"EMP0002","designation":"Marketing Specialist","department":"Admin","joiningDate":"2015-12-26","issueDate":"2025-08-11"}
+Status: completed
+=====================================
+
+=== DOCUMENT REQUEST NOTIFICATION ===
+Time: 2025-08-11 15:50:18
+Request ID: DOC_20250811_155018
+Document: Offer Letter Copy
+User: anonymous
+Details: {"employeeName":"Nicholas Ortiz","employeeId":"EMP0001","designation":"Admin Officer","department":"Product","joiningDate":"2021-07-14"}
+Status: completed
+=====================================
+
+=== DOCUMENT REQUEST NOTIFICATION ===
+Time: 2025-08-11 16:05:57
+Request ID: DOC_20250811_160557
+Document: Bonafide / Employment Verification Letter
+User: anonymous
+Details: {"employeeName":"Nicholas Ortiz","employeeId":"EMP0001","designation":"Admin Officer","department":"Product","joiningDate":"2021-07-14","issueDate":"2025-08-11"}
+Status: completed
+=====================================
+
+=== DOCUMENT REQUEST NOTIFICATION ===
+Time: 2025-08-11 16:17:03
+Request ID: DOC_20250811_161703
+Document: Bonafide / Employment Verification Letter
+User: anonymous
+Details: {"employeeName":"Randy Drake","employeeId":"EMP0002","designation":"Marketing Specialist","department":"Admin","joiningDate":"2015-12-26","issueDate":"2025-08-11"}
+Status: completed
+=====================================
+
+=== DOCUMENT REQUEST NOTIFICATION ===
+Time: 2025-08-11 16:21:10
+Request ID: DOC_20250811_162110
+Document: Bonafide / Employment Verification Letter
+User: anonymous
+Details: {"employeeName":"Randy Drake","employeeId":"EMP0002","designation":"Marketing Specialist","department":"Admin","joiningDate":"2015-12-26","issueDate":"2025-08-11"}
+Status: completed
+=====================================
+
+=== DOCUMENT REQUEST NOTIFICATION ===
+Time: 2025-08-11 16:37:09
+Request ID: DOC_20250811_163709
+Document: Bonafide / Employment Verification Letter
+User: anonymous
+Details: {"employeeName":"Nicholas Ortiz","employeeId":"EMP0001","designation":"Admin Officer","department":"Product","joiningDate":"2021-07-14","issueDate":"2025-08-11"}
+Status: completed
+=====================================
+
+=== DOCUMENT REQUEST NOTIFICATION ===
+Time: 2025-08-11 16:40:23
+Request ID: DOC_20250811_164023
+Document: Bonafide / Employment Verification Letter
+User: anonymous
+Details: {"employeeName":"Nicholas Ortiz","employeeId":"EMP0001","designation":"Admin Officer","department":"Product","joiningDate":"2021-07-14","issueDate":"2025-08-11"}
+Status: completed
+=====================================
+
+=== DOCUMENT REQUEST NOTIFICATION ===
+Time: 2025-08-11 16:44:36
+Request ID: DOC_20250811_164436
+Document: Relieving Letter
+User: anonymous
+Details: {"employeeName":"Nicholas Ortiz","employeeId":"EMP0001","designation":"Admin Officer","department":"Product","joiningDate":"2021-07-14","relievingDate":"2025-08-11"}
+Status: completed
+=====================================
+
+=== DOCUMENT REQUEST NOTIFICATION ===
+Time: 2025-08-11 16:50:51
+Request ID: DOC_20250811_165051
+Document: Bonafide / Employment Verification Letter
+User: anonymous
+Details: {"employeeName":"Nicholas Ortiz","employeeId":"EMP0001","designation":"Admin Officer","department":"Product","joiningDate":"2021-07-14","issueDate":"2025-08-11"}
+Status: completed
+=====================================
+
+=== DOCUMENT REQUEST NOTIFICATION ===
+Time: 2025-08-11 17:02:24
+Request ID: DOC_20250811_170224
+Document: Promotion Letter
+User: test_user
+Details: {"employeeName": "Nicholas Ortiz", "employeeId": "EMP0001", "designation": "Admin Officer", "department": "Product", "joiningDate": "2021-07-14", "promotionDate": "2024-01-15", "newDesignation": "Senior Admin Officer"}
+Status: completed
+=====================================
+
+=== DOCUMENT REQUEST NOTIFICATION ===
+Time: 2025-08-11 17:23:06
+Request ID: DOC_20250811_172306
+Document: Bonafide / Employment Verification Letter
+User: test_user
+Details: {"employeeName": "Nicholas Ortiz", "employeeId": "EMP0001", "designation": "Admin Officer", "department": "Product", "joiningDate": "2021-07-14", "issueDate": "2025-08-11", "relievingDate": "2024-12-31", "salaryAmount": "75000", "purpose": "Official verification", "nocPurpose": "Business travel", "destination": "United States", "duration": "2 weeks", "promotionDate": "2023-06-15", "newDesignation": "Senior Admin Officer"}
+Status: completed
+=====================================
+
+=== DOCUMENT REQUEST NOTIFICATION ===
+Time: 2025-08-11 17:23:10
+Request ID: DOC_20250811_172310
+Document: Experience Certificate
+User: test_user
+Details: {"employeeName": "Nicholas Ortiz", "employeeId": "EMP0001", "designation": "Admin Officer", "department": "Product", "joiningDate": "2021-07-14", "issueDate": "2025-08-11", "relievingDate": "2024-12-31", "salaryAmount": "75000", "purpose": "Official verification", "nocPurpose": "Business travel", "destination": "United States", "duration": "2 weeks", "promotionDate": "2023-06-15", "newDesignation": "Senior Admin Officer"}
+Status: completed
+=====================================
+
+=== DOCUMENT REQUEST NOTIFICATION ===
+Time: 2025-08-11 17:23:14
+Request ID: DOC_20250811_172314
+Document: Offer Letter Copy
+User: test_user
+Details: {"employeeName": "Nicholas Ortiz", "employeeId": "EMP0001", "designation": "Admin Officer", "department": "Product", "joiningDate": "2021-07-14", "issueDate": "2025-08-11", "relievingDate": "2024-12-31", "salaryAmount": "75000", "purpose": "Official verification", "nocPurpose": "Business travel", "destination": "United States", "duration": "2 weeks", "promotionDate": "2023-06-15", "newDesignation": "Senior Admin Officer"}
+Status: completed
+=====================================
+
+=== DOCUMENT REQUEST NOTIFICATION ===
+Time: 2025-08-11 17:23:18
+Request ID: DOC_20250811_172318
+Document: Appointment Letter Copy
+User: test_user
+Details: {"employeeName": "Nicholas Ortiz", "employeeId": "EMP0001", "designation": "Admin Officer", "department": "Product", "joiningDate": "2021-07-14", "issueDate": "2025-08-11", "relievingDate": "2024-12-31", "salaryAmount": "75000", "purpose": "Official verification", "nocPurpose": "Business travel", "destination": "United States", "duration": "2 weeks", "promotionDate": "2023-06-15", "newDesignation": "Senior Admin Officer"}
+Status: completed
+=====================================
+
+=== DOCUMENT REQUEST NOTIFICATION ===
+Time: 2025-08-11 17:23:23
+Request ID: DOC_20250811_172323
+Document: Promotion Letter
+User: test_user
+Details: {"employeeName": "Nicholas Ortiz", "employeeId": "EMP0001", "designation": "Admin Officer", "department": "Product", "joiningDate": "2021-07-14", "issueDate": "2025-08-11", "relievingDate": "2024-12-31", "salaryAmount": "75000", "purpose": "Official verification", "nocPurpose": "Business travel", "destination": "United States", "duration": "2 weeks", "promotionDate": "2023-06-15", "newDesignation": "Senior Admin Officer"}
+Status: completed
+=====================================
+
+=== DOCUMENT REQUEST NOTIFICATION ===
+Time: 2025-08-11 17:23:27
+Request ID: DOC_20250811_172327
+Document: Relieving Letter
+User: test_user
+Details: {"employeeName": "Nicholas Ortiz", "employeeId": "EMP0001", "designation": "Admin Officer", "department": "Product", "joiningDate": "2021-07-14", "issueDate": "2025-08-11", "relievingDate": "2024-12-31", "salaryAmount": "75000", "purpose": "Official verification", "nocPurpose": "Business travel", "destination": "United States", "duration": "2 weeks", "promotionDate": "2023-06-15", "newDesignation": "Senior Admin Officer"}
+Status: completed
+=====================================
+
+=== DOCUMENT REQUEST NOTIFICATION ===
+Time: 2025-08-11 17:23:31
+Request ID: DOC_20250811_172331
+Document: Salary Slips
+User: test_user
+Details: {"employeeName": "Nicholas Ortiz", "employeeId": "EMP0001", "designation": "Admin Officer", "department": "Product", "joiningDate": "2021-07-14", "issueDate": "2025-08-11", "relievingDate": "2024-12-31", "salaryAmount": "75000", "purpose": "Official verification", "nocPurpose": "Business travel", "destination": "United States", "duration": "2 weeks", "promotionDate": "2023-06-15", "newDesignation": "Senior Admin Officer"}
+Status: completed
+=====================================
+
+=== DOCUMENT REQUEST NOTIFICATION ===
+Time: 2025-08-11 17:23:35
+Request ID: DOC_20250811_172335
+Document: Form 16 / Tax Documents
+User: test_user
+Details: {"employeeName": "Nicholas Ortiz", "employeeId": "EMP0001", "designation": "Admin Officer", "department": "Product", "joiningDate": "2021-07-14", "issueDate": "2025-08-11", "relievingDate": "2024-12-31", "salaryAmount": "75000", "purpose": "Official verification", "nocPurpose": "Business travel", "destination": "United States", "duration": "2 weeks", "promotionDate": "2023-06-15", "newDesignation": "Senior Admin Officer"}
+Status: completed
+=====================================
+
+=== DOCUMENT REQUEST NOTIFICATION ===
+Time: 2025-08-11 17:23:39
+Request ID: DOC_20250811_172339
+Document: Salary Certificate
+User: test_user
+Details: {"employeeName": "Nicholas Ortiz", "employeeId": "EMP0001", "designation": "Admin Officer", "department": "Product", "joiningDate": "2021-07-14", "issueDate": "2025-08-11", "relievingDate": "2024-12-31", "salaryAmount": "75000", "purpose": "Official verification", "nocPurpose": "Business travel", "destination": "United States", "duration": "2 weeks", "promotionDate": "2023-06-15", "newDesignation": "Senior Admin Officer"}
+Status: completed
+=====================================
+
+=== DOCUMENT REQUEST NOTIFICATION ===
+Time: 2025-08-11 17:23:43
+Request ID: DOC_20250811_172343
+Document: PF Statement / UAN details
+User: test_user
+Details: {"employeeName": "Nicholas Ortiz", "employeeId": "EMP0001", "designation": "Admin Officer", "department": "Product", "joiningDate": "2021-07-14", "issueDate": "2025-08-11", "relievingDate": "2024-12-31", "salaryAmount": "75000", "purpose": "Official verification", "nocPurpose": "Business travel", "destination": "United States", "duration": "2 weeks", "promotionDate": "2023-06-15", "newDesignation": "Senior Admin Officer"}
+Status: completed
+=====================================
+
+=== DOCUMENT REQUEST NOTIFICATION ===
+Time: 2025-08-11 17:23:54
+Request ID: DOC_20250811_172354
+Document: Medical Insurance Card Copy
+User: test_user
+Details: {"employeeName": "Nicholas Ortiz", "employeeId": "EMP0001", "designation": "Admin Officer", "department": "Product", "joiningDate": "2021-07-14", "issueDate": "2025-08-11", "relievingDate": "2024-12-31", "salaryAmount": "75000", "purpose": "Official verification", "nocPurpose": "Business travel", "destination": "United States", "duration": "2 weeks", "promotionDate": "2023-06-15", "newDesignation": "Senior Admin Officer"}
+Status: completed
+=====================================
+
+=== DOCUMENT REQUEST NOTIFICATION ===
+Time: 2025-08-11 17:24:00
+Request ID: DOC_20250811_172400
+Document: Visa Support Letter
+User: test_user
+Details: {"employeeName": "Nicholas Ortiz", "employeeId": "EMP0001", "designation": "Admin Officer", "department": "Product", "joiningDate": "2021-07-14", "issueDate": "2025-08-11", "relievingDate": "2024-12-31", "salaryAmount": "75000", "purpose": "Official verification", "nocPurpose": "Business travel", "destination": "United States", "duration": "2 weeks", "promotionDate": "2023-06-15", "newDesignation": "Senior Admin Officer"}
+Status: completed
+=====================================
+
+=== DOCUMENT REQUEST NOTIFICATION ===
+Time: 2025-08-11 17:24:04
+Request ID: DOC_20250811_172404
+Document: Promotion Letter
+User: test_user
+Details: {"employeeName": "Nicholas Ortiz", "employeeId": "EMP0001", "designation": "Admin Officer", "department": "Product", "joiningDate": "2021-07-14", "issueDate": "2025-08-11", "relievingDate": "2024-12-31", "salaryAmount": "75000", "purpose": "Official verification", "nocPurpose": "Business travel", "destination": "United States", "duration": "2 weeks", "promotionDate": "2023-06-15", "newDesignation": "Senior Admin Officer"}
+Status: completed
+=====================================
+
+=== DOCUMENT REQUEST NOTIFICATION ===
+Time: 2025-08-11 17:27:58
+Request ID: DOC_20250811_172758
+Document: Bonafide / Employment Verification Letter
+User: test_user
+Details: {"employeeName": "Nicholas Ortiz", "employeeId": "EMP0001", "designation": "Admin Officer", "department": "Product", "joiningDate": "2021-07-14", "issueDate": "2025-08-11", "relievingDate": "2024-12-31", "salaryAmount": "75000", "purpose": "Official verification", "nocPurpose": "Business travel", "destination": "United States", "duration": "2 weeks", "promotionDate": "2023-06-15", "newDesignation": "Senior Admin Officer", "effectiveDate": "2024-01-15", "signingDate": "2024-01-20", "reasonForReplacement": "Lost ID card", "travelDate": "2024-02-15"}
+Status: completed
+=====================================
+
+=== DOCUMENT REQUEST NOTIFICATION ===
+Time: 2025-08-11 17:28:02
+Request ID: DOC_20250811_172802
+Document: Experience Certificate
+User: test_user
+Details: {"employeeName": "Nicholas Ortiz", "employeeId": "EMP0001", "designation": "Admin Officer", "department": "Product", "joiningDate": "2021-07-14", "issueDate": "2025-08-11", "relievingDate": "2024-12-31", "salaryAmount": "75000", "purpose": "Official verification", "nocPurpose": "Business travel", "destination": "United States", "duration": "2 weeks", "promotionDate": "2023-06-15", "newDesignation": "Senior Admin Officer", "effectiveDate": "2024-01-15", "signingDate": "2024-01-20", "reasonForReplacement": "Lost ID card", "travelDate": "2024-02-15"}
+Status: completed
+=====================================
+
+=== DOCUMENT REQUEST NOTIFICATION ===
+Time: 2025-08-11 17:28:06
+Request ID: DOC_20250811_172806
+Document: Offer Letter Copy
+User: test_user
+Details: {"employeeName": "Nicholas Ortiz", "employeeId": "EMP0001", "designation": "Admin Officer", "department": "Product", "joiningDate": "2021-07-14", "issueDate": "2025-08-11", "relievingDate": "2024-12-31", "salaryAmount": "75000", "purpose": "Official verification", "nocPurpose": "Business travel", "destination": "United States", "duration": "2 weeks", "promotionDate": "2023-06-15", "newDesignation": "Senior Admin Officer", "effectiveDate": "2024-01-15", "signingDate": "2024-01-20", "reasonForReplacement": "Lost ID card", "travelDate": "2024-02-15"}
+Status: completed
+=====================================
+
+=== DOCUMENT REQUEST NOTIFICATION ===
+Time: 2025-08-11 17:28:10
+Request ID: DOC_20250811_172810
+Document: Appointment Letter Copy
+User: test_user
+Details: {"employeeName": "Nicholas Ortiz", "employeeId": "EMP0001", "designation": "Admin Officer", "department": "Product", "joiningDate": "2021-07-14", "issueDate": "2025-08-11", "relievingDate": "2024-12-31", "salaryAmount": "75000", "purpose": "Official verification", "nocPurpose": "Business travel", "destination": "United States", "duration": "2 weeks", "promotionDate": "2023-06-15", "newDesignation": "Senior Admin Officer", "effectiveDate": "2024-01-15", "signingDate": "2024-01-20", "reasonForReplacement": "Lost ID card", "travelDate": "2024-02-15"}
+Status: completed
+=====================================
+
+=== DOCUMENT REQUEST NOTIFICATION ===
+Time: 2025-08-11 17:28:14
+Request ID: DOC_20250811_172814
+Document: Promotion Letter
+User: test_user
+Details: {"employeeName": "Nicholas Ortiz", "employeeId": "EMP0001", "designation": "Admin Officer", "department": "Product", "joiningDate": "2021-07-14", "issueDate": "2025-08-11", "relievingDate": "2024-12-31", "salaryAmount": "75000", "purpose": "Official verification", "nocPurpose": "Business travel", "destination": "United States", "duration": "2 weeks", "promotionDate": "2023-06-15", "newDesignation": "Senior Admin Officer", "effectiveDate": "2024-01-15", "signingDate": "2024-01-20", "reasonForReplacement": "Lost ID card", "travelDate": "2024-02-15"}
+Status: completed
+=====================================
+
+=== DOCUMENT REQUEST NOTIFICATION ===
+Time: 2025-08-11 17:28:19
+Request ID: DOC_20250811_172819
+Document: Relieving Letter
+User: test_user
+Details: {"employeeName": "Nicholas Ortiz", "employeeId": "EMP0001", "designation": "Admin Officer", "department": "Product", "joiningDate": "2021-07-14", "issueDate": "2025-08-11", "relievingDate": "2024-12-31", "salaryAmount": "75000", "purpose": "Official verification", "nocPurpose": "Business travel", "destination": "United States", "duration": "2 weeks", "promotionDate": "2023-06-15", "newDesignation": "Senior Admin Officer", "effectiveDate": "2024-01-15", "signingDate": "2024-01-20", "reasonForReplacement": "Lost ID card", "travelDate": "2024-02-15"}
+Status: completed
+=====================================
+
+=== DOCUMENT REQUEST NOTIFICATION ===
+Time: 2025-08-11 17:28:23
+Request ID: DOC_20250811_172823
+Document: Salary Slips
+User: test_user
+Details: {"employeeName": "Nicholas Ortiz", "employeeId": "EMP0001", "designation": "Admin Officer", "department": "Product", "joiningDate": "2021-07-14", "issueDate": "2025-08-11", "relievingDate": "2024-12-31", "salaryAmount": "75000", "purpose": "Official verification", "nocPurpose": "Business travel", "destination": "United States", "duration": "2 weeks", "promotionDate": "2023-06-15", "newDesignation": "Senior Admin Officer", "effectiveDate": "2024-01-15", "signingDate": "2024-01-20", "reasonForReplacement": "Lost ID card", "travelDate": "2024-02-15"}
+Status: completed
+=====================================
+
+=== DOCUMENT REQUEST NOTIFICATION ===
+Time: 2025-08-11 17:28:27
+Request ID: DOC_20250811_172827
+Document: Form 16 / Tax Documents
+User: test_user
+Details: {"employeeName": "Nicholas Ortiz", "employeeId": "EMP0001", "designation": "Admin Officer", "department": "Product", "joiningDate": "2021-07-14", "issueDate": "2025-08-11", "relievingDate": "2024-12-31", "salaryAmount": "75000", "purpose": "Official verification", "nocPurpose": "Business travel", "destination": "United States", "duration": "2 weeks", "promotionDate": "2023-06-15", "newDesignation": "Senior Admin Officer", "effectiveDate": "2024-01-15", "signingDate": "2024-01-20", "reasonForReplacement": "Lost ID card", "travelDate": "2024-02-15"}
+Status: completed
+=====================================
+
+=== DOCUMENT REQUEST NOTIFICATION ===
+Time: 2025-08-11 17:28:31
+Request ID: DOC_20250811_172831
+Document: Salary Certificate
+User: test_user
+Details: {"employeeName": "Nicholas Ortiz", "employeeId": "EMP0001", "designation": "Admin Officer", "department": "Product", "joiningDate": "2021-07-14", "issueDate": "2025-08-11", "relievingDate": "2024-12-31", "salaryAmount": "75000", "purpose": "Official verification", "nocPurpose": "Business travel", "destination": "United States", "duration": "2 weeks", "promotionDate": "2023-06-15", "newDesignation": "Senior Admin Officer", "effectiveDate": "2024-01-15", "signingDate": "2024-01-20", "reasonForReplacement": "Lost ID card", "travelDate": "2024-02-15"}
+Status: completed
+=====================================
+
+=== DOCUMENT REQUEST NOTIFICATION ===
+Time: 2025-08-11 17:28:35
+Request ID: DOC_20250811_172835
+Document: PF Statement / UAN details
+User: test_user
+Details: {"employeeName": "Nicholas Ortiz", "employeeId": "EMP0001", "designation": "Admin Officer", "department": "Product", "joiningDate": "2021-07-14", "issueDate": "2025-08-11", "relievingDate": "2024-12-31", "salaryAmount": "75000", "purpose": "Official verification", "nocPurpose": "Business travel", "destination": "United States", "duration": "2 weeks", "promotionDate": "2023-06-15", "newDesignation": "Senior Admin Officer", "effectiveDate": "2024-01-15", "signingDate": "2024-01-20", "reasonForReplacement": "Lost ID card", "travelDate": "2024-02-15"}
+Status: completed
+=====================================
+
+=== DOCUMENT REQUEST NOTIFICATION ===
+Time: 2025-08-11 17:28:39
+Request ID: DOC_20250811_172839
+Document: No Objection Certificate (NOC)
+User: test_user
+Details: {"employeeName": "Nicholas Ortiz", "employeeId": "EMP0001", "designation": "Admin Officer", "department": "Product", "joiningDate": "2021-07-14", "issueDate": "2025-08-11", "relievingDate": "2024-12-31", "salaryAmount": "75000", "purpose": "Official verification", "nocPurpose": "Business travel", "destination": "United States", "duration": "2 weeks", "promotionDate": "2023-06-15", "newDesignation": "Senior Admin Officer", "effectiveDate": "2024-01-15", "signingDate": "2024-01-20", "reasonForReplacement": "Lost ID card", "travelDate": "2024-02-15"}
+Status: completed
+=====================================
+
+=== DOCUMENT REQUEST NOTIFICATION ===
+Time: 2025-08-11 17:28:44
+Request ID: DOC_20250811_172844
+Document: Non-Disclosure Agreement Copy
+User: test_user
+Details: {"employeeName": "Nicholas Ortiz", "employeeId": "EMP0001", "designation": "Admin Officer", "department": "Product", "joiningDate": "2021-07-14", "issueDate": "2025-08-11", "relievingDate": "2024-12-31", "salaryAmount": "75000", "purpose": "Official verification", "nocPurpose": "Business travel", "destination": "United States", "duration": "2 weeks", "promotionDate": "2023-06-15", "newDesignation": "Senior Admin Officer", "effectiveDate": "2024-01-15", "signingDate": "2024-01-20", "reasonForReplacement": "Lost ID card", "travelDate": "2024-02-15"}
+Status: completed
+=====================================
+
+=== DOCUMENT REQUEST NOTIFICATION ===
+Time: 2025-08-11 17:28:50
+Request ID: DOC_20250811_172850
+Document: Medical Insurance Card Copy
+User: test_user
+Details: {"employeeName": "Nicholas Ortiz", "employeeId": "EMP0001", "designation": "Admin Officer", "department": "Product", "joiningDate": "2021-07-14", "issueDate": "2025-08-11", "relievingDate": "2024-12-31", "salaryAmount": "75000", "purpose": "Official verification", "nocPurpose": "Business travel", "destination": "United States", "duration": "2 weeks", "promotionDate": "2023-06-15", "newDesignation": "Senior Admin Officer", "effectiveDate": "2024-01-15", "signingDate": "2024-01-20", "reasonForReplacement": "Lost ID card", "travelDate": "2024-02-15"}
+Status: completed
+=====================================
+
+=== DOCUMENT REQUEST NOTIFICATION ===
+Time: 2025-08-11 17:28:54
+Request ID: DOC_20250811_172854
+Document: Business Travel Authorization Letter
+User: test_user
+Details: {"employeeName": "Nicholas Ortiz", "employeeId": "EMP0001", "designation": "Admin Officer", "department": "Product", "joiningDate": "2021-07-14", "issueDate": "2025-08-11", "relievingDate": "2024-12-31", "salaryAmount": "75000", "purpose": "Official verification", "nocPurpose": "Business travel", "destination": "United States", "duration": "2 weeks", "promotionDate": "2023-06-15", "newDesignation": "Senior Admin Officer", "effectiveDate": "2024-01-15", "signingDate": "2024-01-20", "reasonForReplacement": "Lost ID card", "travelDate": "2024-02-15"}
+Status: completed
+=====================================
+
+=== DOCUMENT REQUEST NOTIFICATION ===
+Time: 2025-08-11 17:28:58
+Request ID: DOC_20250811_172858
+Document: Visa Support Letter
+User: test_user
+Details: {"employeeName": "Nicholas Ortiz", "employeeId": "EMP0001", "designation": "Admin Officer", "department": "Product", "joiningDate": "2021-07-14", "issueDate": "2025-08-11", "relievingDate": "2024-12-31", "salaryAmount": "75000", "purpose": "Official verification", "nocPurpose": "Business travel", "destination": "United States", "duration": "2 weeks", "promotionDate": "2023-06-15", "newDesignation": "Senior Admin Officer", "effectiveDate": "2024-01-15", "signingDate": "2024-01-20", "reasonForReplacement": "Lost ID card", "travelDate": "2024-02-15"}
+Status: completed
+=====================================
+
+=== DOCUMENT REQUEST NOTIFICATION ===
+Time: 2025-08-11 17:29:02
+Request ID: DOC_20250811_172902
+Document: Promotion Letter
+User: test_user
+Details: {"employeeName": "Nicholas Ortiz", "employeeId": "EMP0001", "designation": "Admin Officer", "department": "Product", "joiningDate": "2021-07-14", "issueDate": "2025-08-11", "relievingDate": "2024-12-31", "salaryAmount": "75000", "purpose": "Official verification", "nocPurpose": "Business travel", "destination": "United States", "duration": "2 weeks", "promotionDate": "2023-06-15", "newDesignation": "Senior Admin Officer", "effectiveDate": "2024-01-15", "signingDate": "2024-01-20", "reasonForReplacement": "Lost ID card", "travelDate": "2024-02-15"}
+Status: completed
+=====================================
+
+=== DOCUMENT REQUEST NOTIFICATION ===
+Time: 2025-08-11 17:33:18
+Request ID: DOC_20250811_173318
+Document: Bonafide / Employment Verification Letter
+User: test_user
+Details: {"employeeName": "Nicholas Ortiz", "employeeId": "EMP0001", "designation": "Admin Officer", "department": "Product", "joiningDate": "2021-07-14", "issueDate": "2025-08-11"}
+Status: completed
+=====================================
+
+=== DOCUMENT REQUEST NOTIFICATION ===
+Time: 2025-08-11 17:33:18
+Request ID: DOC_20250811_173318
+Document: Bonafide / Employment Verification Letter
+User: test_user
+Details: {"employeeName": "Nicholas Ortiz", "employeeId": "EMP0001", "designation": "Admin Officer", "department": "Product", "joiningDate": "2021-07-14", "issueDate": "2025-08-11", "relievingDate": "2024-12-31", "salaryAmount": "75000", "purpose": "Official verification", "nocPurpose": "Business travel", "destination": "United States", "duration": "2 weeks", "promotionDate": "2023-06-15", "newDesignation": "Senior Admin Officer", "effectiveDate": "2024-01-15", "signingDate": "2024-01-20", "reason": "Lost ID card", "travelDate": "2024-02-15"}
+Status: completed
+=====================================
+
+=== DOCUMENT REQUEST NOTIFICATION ===
+Time: 2025-08-11 17:33:22
+Request ID: DOC_20250811_173322
+Document: Experience Certificate
+User: test_user
+Details: {"employeeName": "Nicholas Ortiz", "employeeId": "EMP0001", "designation": "Admin Officer", "department": "Product", "joiningDate": "2021-07-14", "issueDate": "2025-08-11", "relievingDate": "2024-12-31", "salaryAmount": "75000", "purpose": "Official verification", "nocPurpose": "Business travel", "destination": "United States", "duration": "2 weeks", "promotionDate": "2023-06-15", "newDesignation": "Senior Admin Officer", "effectiveDate": "2024-01-15", "signingDate": "2024-01-20", "reason": "Lost ID card", "travelDate": "2024-02-15"}
+Status: completed
+=====================================
+
+=== DOCUMENT REQUEST NOTIFICATION ===
+Time: 2025-08-11 17:38:12
+Request ID: DOC_20250811_173812
+Document: Bonafide / Employment Verification Letter
+User: test_user
+Details: {"employeeName": "Nicholas Ortiz", "employeeId": "EMP0001", "designation": "Admin Officer", "department": "Product", "joiningDate": "2021-07-14", "issueDate": "2025-08-11", "relievingDate": "2024-12-31", "salaryAmount": "75000", "purpose": "Official verification", "nocPurpose": "Business travel", "destination": "United States", "duration": "2 weeks", "promotionDate": "2023-06-15", "newDesignation": "Senior Admin Officer", "effectiveDate": "2024-01-15", "signingDate": "2024-01-20", "reason": "Lost ID card", "travelDate": "2024-02-15"}
+Status: completed
+=====================================
+
+=== DOCUMENT REQUEST NOTIFICATION ===
+Time: 2025-08-11 17:38:16
+Request ID: DOC_20250811_173816
+Document: Experience Certificate
+User: test_user
+Details: {"employeeName": "Nicholas Ortiz", "employeeId": "EMP0001", "designation": "Admin Officer", "department": "Product", "joiningDate": "2021-07-14", "issueDate": "2025-08-11", "relievingDate": "2024-12-31", "salaryAmount": "75000", "purpose": "Official verification", "nocPurpose": "Business travel", "destination": "United States", "duration": "2 weeks", "promotionDate": "2023-06-15", "newDesignation": "Senior Admin Officer", "effectiveDate": "2024-01-15", "signingDate": "2024-01-20", "reason": "Lost ID card", "travelDate": "2024-02-15"}
+Status: completed
+=====================================
+
+=== DOCUMENT REQUEST NOTIFICATION ===
+Time: 2025-08-11 17:38:20
+Request ID: DOC_20250811_173820
+Document: Offer Letter Copy
+User: test_user
+Details: {"employeeName": "Nicholas Ortiz", "employeeId": "EMP0001", "designation": "Admin Officer", "department": "Product", "joiningDate": "2021-07-14", "issueDate": "2025-08-11", "relievingDate": "2024-12-31", "salaryAmount": "75000", "purpose": "Official verification", "nocPurpose": "Business travel", "destination": "United States", "duration": "2 weeks", "promotionDate": "2023-06-15", "newDesignation": "Senior Admin Officer", "effectiveDate": "2024-01-15", "signingDate": "2024-01-20", "reason": "Lost ID card", "travelDate": "2024-02-15"}
+Status: completed
+=====================================
+
+=== DOCUMENT REQUEST NOTIFICATION ===
+Time: 2025-08-11 17:38:25
+Request ID: DOC_20250811_173825
+Document: Appointment Letter Copy
+User: test_user
+Details: {"employeeName": "Nicholas Ortiz", "employeeId": "EMP0001", "designation": "Admin Officer", "department": "Product", "joiningDate": "2021-07-14", "issueDate": "2025-08-11", "relievingDate": "2024-12-31", "salaryAmount": "75000", "purpose": "Official verification", "nocPurpose": "Business travel", "destination": "United States", "duration": "2 weeks", "promotionDate": "2023-06-15", "newDesignation": "Senior Admin Officer", "effectiveDate": "2024-01-15", "signingDate": "2024-01-20", "reason": "Lost ID card", "travelDate": "2024-02-15"}
+Status: completed
+=====================================
+
+=== DOCUMENT REQUEST NOTIFICATION ===
+Time: 2025-08-11 17:38:29
+Request ID: DOC_20250811_173829
+Document: Promotion Letter
+User: test_user
+Details: {"employeeName": "Nicholas Ortiz", "employeeId": "EMP0001", "designation": "Admin Officer", "department": "Product", "joiningDate": "2021-07-14", "issueDate": "2025-08-11", "relievingDate": "2024-12-31", "salaryAmount": "75000", "purpose": "Official verification", "nocPurpose": "Business travel", "destination": "United States", "duration": "2 weeks", "promotionDate": "2023-06-15", "newDesignation": "Senior Admin Officer", "effectiveDate": "2024-01-15", "signingDate": "2024-01-20", "reason": "Lost ID card", "travelDate": "2024-02-15"}
+Status: completed
+=====================================
+
+=== DOCUMENT REQUEST NOTIFICATION ===
+Time: 2025-08-11 17:38:33
+Request ID: DOC_20250811_173833
+Document: Relieving Letter
+User: test_user
+Details: {"employeeName": "Nicholas Ortiz", "employeeId": "EMP0001", "designation": "Admin Officer", "department": "Product", "joiningDate": "2021-07-14", "issueDate": "2025-08-11", "relievingDate": "2024-12-31", "salaryAmount": "75000", "purpose": "Official verification", "nocPurpose": "Business travel", "destination": "United States", "duration": "2 weeks", "promotionDate": "2023-06-15", "newDesignation": "Senior Admin Officer", "effectiveDate": "2024-01-15", "signingDate": "2024-01-20", "reason": "Lost ID card", "travelDate": "2024-02-15"}
+Status: completed
+=====================================
+
+=== DOCUMENT REQUEST NOTIFICATION ===
+Time: 2025-08-11 17:38:37
+Request ID: DOC_20250811_173837
+Document: Salary Slips
+User: test_user
+Details: {"employeeName": "Nicholas Ortiz", "employeeId": "EMP0001", "designation": "Admin Officer", "department": "Product", "joiningDate": "2021-07-14", "issueDate": "2025-08-11", "relievingDate": "2024-12-31", "salaryAmount": "75000", "purpose": "Official verification", "nocPurpose": "Business travel", "destination": "United States", "duration": "2 weeks", "promotionDate": "2023-06-15", "newDesignation": "Senior Admin Officer", "effectiveDate": "2024-01-15", "signingDate": "2024-01-20", "reason": "Lost ID card", "travelDate": "2024-02-15"}
+Status: completed
+=====================================
+
+=== DOCUMENT REQUEST NOTIFICATION ===
+Time: 2025-08-11 17:38:41
+Request ID: DOC_20250811_173841
+Document: Form 16 / Tax Documents
+User: test_user
+Details: {"employeeName": "Nicholas Ortiz", "employeeId": "EMP0001", "designation": "Admin Officer", "department": "Product", "joiningDate": "2021-07-14", "issueDate": "2025-08-11", "relievingDate": "2024-12-31", "salaryAmount": "75000", "purpose": "Official verification", "nocPurpose": "Business travel", "destination": "United States", "duration": "2 weeks", "promotionDate": "2023-06-15", "newDesignation": "Senior Admin Officer", "effectiveDate": "2024-01-15", "signingDate": "2024-01-20", "reason": "Lost ID card", "travelDate": "2024-02-15"}
+Status: completed
+=====================================
+
+=== DOCUMENT REQUEST NOTIFICATION ===
+Time: 2025-08-11 17:38:45
+Request ID: DOC_20250811_173845
+Document: Salary Certificate
+User: test_user
+Details: {"employeeName": "Nicholas Ortiz", "employeeId": "EMP0001", "designation": "Admin Officer", "department": "Product", "joiningDate": "2021-07-14", "issueDate": "2025-08-11", "relievingDate": "2024-12-31", "salaryAmount": "75000", "purpose": "Official verification", "nocPurpose": "Business travel", "destination": "United States", "duration": "2 weeks", "promotionDate": "2023-06-15", "newDesignation": "Senior Admin Officer", "effectiveDate": "2024-01-15", "signingDate": "2024-01-20", "reason": "Lost ID card", "travelDate": "2024-02-15"}
+Status: completed
+=====================================
+
+=== DOCUMENT REQUEST NOTIFICATION ===
+Time: 2025-08-11 17:38:50
+Request ID: DOC_20250811_173850
+Document: PF Statement / UAN details
+User: test_user
+Details: {"employeeName": "Nicholas Ortiz", "employeeId": "EMP0001", "designation": "Admin Officer", "department": "Product", "joiningDate": "2021-07-14", "issueDate": "2025-08-11", "relievingDate": "2024-12-31", "salaryAmount": "75000", "purpose": "Official verification", "nocPurpose": "Business travel", "destination": "United States", "duration": "2 weeks", "promotionDate": "2023-06-15", "newDesignation": "Senior Admin Officer", "effectiveDate": "2024-01-15", "signingDate": "2024-01-20", "reason": "Lost ID card", "travelDate": "2024-02-15"}
+Status: completed
+=====================================
+
+=== DOCUMENT REQUEST NOTIFICATION ===
+Time: 2025-08-11 17:38:54
+Request ID: DOC_20250811_173854
+Document: No Objection Certificate (NOC)
+User: test_user
+Details: {"employeeName": "Nicholas Ortiz", "employeeId": "EMP0001", "designation": "Admin Officer", "department": "Product", "joiningDate": "2021-07-14", "issueDate": "2025-08-11", "relievingDate": "2024-12-31", "salaryAmount": "75000", "purpose": "Official verification", "nocPurpose": "Business travel", "destination": "United States", "duration": "2 weeks", "promotionDate": "2023-06-15", "newDesignation": "Senior Admin Officer", "effectiveDate": "2024-01-15", "signingDate": "2024-01-20", "reason": "Lost ID card", "travelDate": "2024-02-15"}
+Status: completed
+=====================================
+
+=== DOCUMENT REQUEST NOTIFICATION ===
+Time: 2025-08-11 17:38:58
+Request ID: DOC_20250811_173858
+Document: Non-Disclosure Agreement Copy
+User: test_user
+Details: {"employeeName": "Nicholas Ortiz", "employeeId": "EMP0001", "designation": "Admin Officer", "department": "Product", "joiningDate": "2021-07-14", "issueDate": "2025-08-11", "relievingDate": "2024-12-31", "salaryAmount": "75000", "purpose": "Official verification", "nocPurpose": "Business travel", "destination": "United States", "duration": "2 weeks", "promotionDate": "2023-06-15", "newDesignation": "Senior Admin Officer", "effectiveDate": "2024-01-15", "signingDate": "2024-01-20", "reason": "Lost ID card", "travelDate": "2024-02-15"}
+Status: completed
+=====================================
+
+=== DOCUMENT REQUEST NOTIFICATION ===
+Time: 2025-08-11 17:39:02
+Request ID: DOC_20250811_173902
+Document: ID Card Replacement
+User: test_user
+Details: {"employeeName": "Nicholas Ortiz", "employeeId": "EMP0001", "designation": "Admin Officer", "department": "Product", "joiningDate": "2021-07-14", "issueDate": "2025-08-11", "relievingDate": "2024-12-31", "salaryAmount": "75000", "purpose": "Official verification", "nocPurpose": "Business travel", "destination": "United States", "duration": "2 weeks", "promotionDate": "2023-06-15", "newDesignation": "Senior Admin Officer", "effectiveDate": "2024-01-15", "signingDate": "2024-01-20", "reason": "Lost ID card", "travelDate": "2024-02-15"}
+Status: completed
+=====================================
+
+=== DOCUMENT REQUEST NOTIFICATION ===
+Time: 2025-08-11 17:39:06
+Request ID: DOC_20250811_173906
+Document: Medical Insurance Card Copy
+User: test_user
+Details: {"employeeName": "Nicholas Ortiz", "employeeId": "EMP0001", "designation": "Admin Officer", "department": "Product", "joiningDate": "2021-07-14", "issueDate": "2025-08-11", "relievingDate": "2024-12-31", "salaryAmount": "75000", "purpose": "Official verification", "nocPurpose": "Business travel", "destination": "United States", "duration": "2 weeks", "promotionDate": "2023-06-15", "newDesignation": "Senior Admin Officer", "effectiveDate": "2024-01-15", "signingDate": "2024-01-20", "reason": "Lost ID card", "travelDate": "2024-02-15"}
+Status: completed
+=====================================
+
+=== DOCUMENT REQUEST NOTIFICATION ===
+Time: 2025-08-11 17:39:10
+Request ID: DOC_20250811_173910
+Document: Business Travel Authorization Letter
+User: test_user
+Details: {"employeeName": "Nicholas Ortiz", "employeeId": "EMP0001", "designation": "Admin Officer", "department": "Product", "joiningDate": "2021-07-14", "issueDate": "2025-08-11", "relievingDate": "2024-12-31", "salaryAmount": "75000", "purpose": "Official verification", "nocPurpose": "Business travel", "destination": "United States", "duration": "2 weeks", "promotionDate": "2023-06-15", "newDesignation": "Senior Admin Officer", "effectiveDate": "2024-01-15", "signingDate": "2024-01-20", "reason": "Lost ID card", "travelDate": "2024-02-15"}
+Status: completed
+=====================================
+
+=== DOCUMENT REQUEST NOTIFICATION ===
+Time: 2025-08-11 17:39:15
+Request ID: DOC_20250811_173914
+Document: Visa Support Letter
+User: test_user
+Details: {"employeeName": "Nicholas Ortiz", "employeeId": "EMP0001", "designation": "Admin Officer", "department": "Product", "joiningDate": "2021-07-14", "issueDate": "2025-08-11", "relievingDate": "2024-12-31", "salaryAmount": "75000", "purpose": "Official verification", "nocPurpose": "Business travel", "destination": "United States", "duration": "2 weeks", "promotionDate": "2023-06-15", "newDesignation": "Senior Admin Officer", "effectiveDate": "2024-01-15", "signingDate": "2024-01-20", "reason": "Lost ID card", "travelDate": "2024-02-15"}
+Status: completed
+=====================================
+
+=== DOCUMENT REQUEST NOTIFICATION ===
+Time: 2025-08-11 17:39:19
+Request ID: DOC_20250811_173919
+Document: Promotion Letter
+User: test_user
+Details: {"employeeName": "Nicholas Ortiz", "employeeId": "EMP0001", "designation": "Admin Officer", "department": "Product", "joiningDate": "2021-07-14", "issueDate": "2025-08-11", "relievingDate": "2024-12-31", "salaryAmount": "75000", "purpose": "Official verification", "nocPurpose": "Business travel", "destination": "United States", "duration": "2 weeks", "promotionDate": "2023-06-15", "newDesignation": "Senior Admin Officer", "effectiveDate": "2024-01-15", "signingDate": "2024-01-20", "reason": "Lost ID card", "travelDate": "2024-02-15"}
+Status: completed
+=====================================
+
+=== DOCUMENT REQUEST NOTIFICATION ===
+Time: 2025-08-11 17:40:49
+Request ID: DOC_20250811_174049
+Document: Bonafide / Employment Verification Letter
+User: test_user
+Details: {"employeeName": "Nicholas Ortiz", "employeeId": "EMP0001", "designation": "Admin Officer", "department": "Product", "joiningDate": "2021-07-14", "issueDate": "2025-08-11"}
+Status: completed
+=====================================
+
+=== DOCUMENT REQUEST NOTIFICATION ===
+Time: 2025-08-11 17:41:05
+Request ID: DOC_20250811_174105
+Document: Bonafide / Employment Verification Letter
+User: test_user
+Details: {"employeeName": "Nicholas Ortiz", "employeeId": "EMP0001", "designation": "Admin Officer", "department": "Product", "joiningDate": "2021-07-14", "issueDate": "2025-08-11"}
+Status: completed
+=====================================
+
+=== DOCUMENT REQUEST NOTIFICATION ===
+Time: 2025-08-11 17:41:09
+Request ID: DOC_20250811_174109
+Document: Bonafide / Employment Verification Letter
+User: test_user
+Details: {"employeeName": "Nicholas Ortiz", "employeeId": "EMP0001", "designation": "Admin Officer", "department": "Product", "joiningDate": "2021-07-14", "issueDate": "2025-08-11", "relievingDate": "2024-12-31", "salaryAmount": "75000", "purpose": "Official verification", "nocPurpose": "Business travel", "destination": "United States", "duration": "2 weeks", "promotionDate": "2023-06-15", "newDesignation": "Senior Admin Officer", "effectiveDate": "2024-01-15", "signingDate": "2024-01-20", "reason": "Lost ID card", "travelDate": "2024-02-15"}
+Status: completed
+=====================================
+
+=== DOCUMENT REQUEST NOTIFICATION ===
+Time: 2025-08-11 17:41:14
+Request ID: DOC_20250811_174114
+Document: Experience Certificate
+User: test_user
+Details: {"employeeName": "Nicholas Ortiz", "employeeId": "EMP0001", "designation": "Admin Officer", "department": "Product", "joiningDate": "2021-07-14", "issueDate": "2025-08-11", "relievingDate": "2024-12-31", "salaryAmount": "75000", "purpose": "Official verification", "nocPurpose": "Business travel", "destination": "United States", "duration": "2 weeks", "promotionDate": "2023-06-15", "newDesignation": "Senior Admin Officer", "effectiveDate": "2024-01-15", "signingDate": "2024-01-20", "reason": "Lost ID card", "travelDate": "2024-02-15"}
+Status: completed
+=====================================
+
+=== DOCUMENT REQUEST NOTIFICATION ===
+Time: 2025-08-11 17:41:18
+Request ID: DOC_20250811_174118
+Document: Offer Letter Copy
+User: test_user
+Details: {"employeeName": "Nicholas Ortiz", "employeeId": "EMP0001", "designation": "Admin Officer", "department": "Product", "joiningDate": "2021-07-14", "issueDate": "2025-08-11", "relievingDate": "2024-12-31", "salaryAmount": "75000", "purpose": "Official verification", "nocPurpose": "Business travel", "destination": "United States", "duration": "2 weeks", "promotionDate": "2023-06-15", "newDesignation": "Senior Admin Officer", "effectiveDate": "2024-01-15", "signingDate": "2024-01-20", "reason": "Lost ID card", "travelDate": "2024-02-15"}
+Status: completed
+=====================================
+
+=== DOCUMENT REQUEST NOTIFICATION ===
+Time: 2025-08-11 17:41:22
+Request ID: DOC_20250811_174122
+Document: Appointment Letter Copy
+User: test_user
+Details: {"employeeName": "Nicholas Ortiz", "employeeId": "EMP0001", "designation": "Admin Officer", "department": "Product", "joiningDate": "2021-07-14", "issueDate": "2025-08-11", "relievingDate": "2024-12-31", "salaryAmount": "75000", "purpose": "Official verification", "nocPurpose": "Business travel", "destination": "United States", "duration": "2 weeks", "promotionDate": "2023-06-15", "newDesignation": "Senior Admin Officer", "effectiveDate": "2024-01-15", "signingDate": "2024-01-20", "reason": "Lost ID card", "travelDate": "2024-02-15"}
+Status: completed
+=====================================
+
+=== DOCUMENT REQUEST NOTIFICATION ===
+Time: 2025-08-11 17:41:26
+Request ID: DOC_20250811_174126
+Document: Promotion Letter
+User: test_user
+Details: {"employeeName": "Nicholas Ortiz", "employeeId": "EMP0001", "designation": "Admin Officer", "department": "Product", "joiningDate": "2021-07-14", "issueDate": "2025-08-11", "relievingDate": "2024-12-31", "salaryAmount": "75000", "purpose": "Official verification", "nocPurpose": "Business travel", "destination": "United States", "duration": "2 weeks", "promotionDate": "2023-06-15", "newDesignation": "Senior Admin Officer", "effectiveDate": "2024-01-15", "signingDate": "2024-01-20", "reason": "Lost ID card", "travelDate": "2024-02-15"}
+Status: completed
+=====================================
+
+=== DOCUMENT REQUEST NOTIFICATION ===
+Time: 2025-08-11 17:41:30
+Request ID: DOC_20250811_174130
+Document: Relieving Letter
+User: test_user
+Details: {"employeeName": "Nicholas Ortiz", "employeeId": "EMP0001", "designation": "Admin Officer", "department": "Product", "joiningDate": "2021-07-14", "issueDate": "2025-08-11", "relievingDate": "2024-12-31", "salaryAmount": "75000", "purpose": "Official verification", "nocPurpose": "Business travel", "destination": "United States", "duration": "2 weeks", "promotionDate": "2023-06-15", "newDesignation": "Senior Admin Officer", "effectiveDate": "2024-01-15", "signingDate": "2024-01-20", "reason": "Lost ID card", "travelDate": "2024-02-15"}
+Status: completed
+=====================================
+
+=== DOCUMENT REQUEST NOTIFICATION ===
+Time: 2025-08-11 17:41:34
+Request ID: DOC_20250811_174134
+Document: Salary Slips
+User: test_user
+Details: {"employeeName": "Nicholas Ortiz", "employeeId": "EMP0001", "designation": "Admin Officer", "department": "Product", "joiningDate": "2021-07-14", "issueDate": "2025-08-11", "relievingDate": "2024-12-31", "salaryAmount": "75000", "purpose": "Official verification", "nocPurpose": "Business travel", "destination": "United States", "duration": "2 weeks", "promotionDate": "2023-06-15", "newDesignation": "Senior Admin Officer", "effectiveDate": "2024-01-15", "signingDate": "2024-01-20", "reason": "Lost ID card", "travelDate": "2024-02-15"}
+Status: completed
+=====================================
+
+=== DOCUMENT REQUEST NOTIFICATION ===
+Time: 2025-08-11 17:41:39
+Request ID: DOC_20250811_174139
+Document: Form 16 / Tax Documents
+User: test_user
+Details: {"employeeName": "Nicholas Ortiz", "employeeId": "EMP0001", "designation": "Admin Officer", "department": "Product", "joiningDate": "2021-07-14", "issueDate": "2025-08-11", "relievingDate": "2024-12-31", "salaryAmount": "75000", "purpose": "Official verification", "nocPurpose": "Business travel", "destination": "United States", "duration": "2 weeks", "promotionDate": "2023-06-15", "newDesignation": "Senior Admin Officer", "effectiveDate": "2024-01-15", "signingDate": "2024-01-20", "reason": "Lost ID card", "travelDate": "2024-02-15"}
+Status: completed
+=====================================
+
+=== DOCUMENT REQUEST NOTIFICATION ===
+Time: 2025-08-11 17:41:43
+Request ID: DOC_20250811_174143
+Document: Salary Certificate
+User: test_user
+Details: {"employeeName": "Nicholas Ortiz", "employeeId": "EMP0001", "designation": "Admin Officer", "department": "Product", "joiningDate": "2021-07-14", "issueDate": "2025-08-11", "relievingDate": "2024-12-31", "salaryAmount": "75000", "purpose": "Official verification", "nocPurpose": "Business travel", "destination": "United States", "duration": "2 weeks", "promotionDate": "2023-06-15", "newDesignation": "Senior Admin Officer", "effectiveDate": "2024-01-15", "signingDate": "2024-01-20", "reason": "Lost ID card", "travelDate": "2024-02-15"}
+Status: completed
+=====================================
+
+=== DOCUMENT REQUEST NOTIFICATION ===
+Time: 2025-08-11 17:41:47
+Request ID: DOC_20250811_174147
+Document: PF Statement / UAN details
+User: test_user
+Details: {"employeeName": "Nicholas Ortiz", "employeeId": "EMP0001", "designation": "Admin Officer", "department": "Product", "joiningDate": "2021-07-14", "issueDate": "2025-08-11", "relievingDate": "2024-12-31", "salaryAmount": "75000", "purpose": "Official verification", "nocPurpose": "Business travel", "destination": "United States", "duration": "2 weeks", "promotionDate": "2023-06-15", "newDesignation": "Senior Admin Officer", "effectiveDate": "2024-01-15", "signingDate": "2024-01-20", "reason": "Lost ID card", "travelDate": "2024-02-15"}
+Status: completed
+=====================================
+
+=== DOCUMENT REQUEST NOTIFICATION ===
+Time: 2025-08-11 17:41:51
+Request ID: DOC_20250811_174151
+Document: No Objection Certificate (NOC)
+User: test_user
+Details: {"employeeName": "Nicholas Ortiz", "employeeId": "EMP0001", "designation": "Admin Officer", "department": "Product", "joiningDate": "2021-07-14", "issueDate": "2025-08-11", "relievingDate": "2024-12-31", "salaryAmount": "75000", "purpose": "Official verification", "nocPurpose": "Business travel", "destination": "United States", "duration": "2 weeks", "promotionDate": "2023-06-15", "newDesignation": "Senior Admin Officer", "effectiveDate": "2024-01-15", "signingDate": "2024-01-20", "reason": "Lost ID card", "travelDate": "2024-02-15"}
+Status: completed
+=====================================
+
+=== DOCUMENT REQUEST NOTIFICATION ===
+Time: 2025-08-11 17:41:55
+Request ID: DOC_20250811_174155
+Document: Non-Disclosure Agreement Copy
+User: test_user
+Details: {"employeeName": "Nicholas Ortiz", "employeeId": "EMP0001", "designation": "Admin Officer", "department": "Product", "joiningDate": "2021-07-14", "issueDate": "2025-08-11", "relievingDate": "2024-12-31", "salaryAmount": "75000", "purpose": "Official verification", "nocPurpose": "Business travel", "destination": "United States", "duration": "2 weeks", "promotionDate": "2023-06-15", "newDesignation": "Senior Admin Officer", "effectiveDate": "2024-01-15", "signingDate": "2024-01-20", "reason": "Lost ID card", "travelDate": "2024-02-15"}
+Status: completed
+=====================================
+
+=== DOCUMENT REQUEST NOTIFICATION ===
+Time: 2025-08-11 17:41:59
+Request ID: DOC_20250811_174159
+Document: ID Card Replacement
+User: test_user
+Details: {"employeeName": "Nicholas Ortiz", "employeeId": "EMP0001", "designation": "Admin Officer", "department": "Product", "joiningDate": "2021-07-14", "issueDate": "2025-08-11", "relievingDate": "2024-12-31", "salaryAmount": "75000", "purpose": "Official verification", "nocPurpose": "Business travel", "destination": "United States", "duration": "2 weeks", "promotionDate": "2023-06-15", "newDesignation": "Senior Admin Officer", "effectiveDate": "2024-01-15", "signingDate": "2024-01-20", "reason": "Lost ID card", "travelDate": "2024-02-15"}
+Status: completed
+=====================================
+
+=== DOCUMENT REQUEST NOTIFICATION ===
+Time: 2025-08-11 17:42:04
+Request ID: DOC_20250811_174204
+Document: Medical Insurance Card Copy
+User: test_user
+Details: {"employeeName": "Nicholas Ortiz", "employeeId": "EMP0001", "designation": "Admin Officer", "department": "Product", "joiningDate": "2021-07-14", "issueDate": "2025-08-11", "relievingDate": "2024-12-31", "salaryAmount": "75000", "purpose": "Official verification", "nocPurpose": "Business travel", "destination": "United States", "duration": "2 weeks", "promotionDate": "2023-06-15", "newDesignation": "Senior Admin Officer", "effectiveDate": "2024-01-15", "signingDate": "2024-01-20", "reason": "Lost ID card", "travelDate": "2024-02-15"}
+Status: completed
+=====================================
+
+=== DOCUMENT REQUEST NOTIFICATION ===
+Time: 2025-08-11 17:42:08
+Request ID: DOC_20250811_174208
+Document: Business Travel Authorization Letter
+User: test_user
+Details: {"employeeName": "Nicholas Ortiz", "employeeId": "EMP0001", "designation": "Admin Officer", "department": "Product", "joiningDate": "2021-07-14", "issueDate": "2025-08-11", "relievingDate": "2024-12-31", "salaryAmount": "75000", "purpose": "Official verification", "nocPurpose": "Business travel", "destination": "United States", "duration": "2 weeks", "promotionDate": "2023-06-15", "newDesignation": "Senior Admin Officer", "effectiveDate": "2024-01-15", "signingDate": "2024-01-20", "reason": "Lost ID card", "travelDate": "2024-02-15"}
+Status: completed
+=====================================
+
+=== DOCUMENT REQUEST NOTIFICATION ===
+Time: 2025-08-11 17:42:12
+Request ID: DOC_20250811_174212
+Document: Visa Support Letter
+User: test_user
+Details: {"employeeName": "Nicholas Ortiz", "employeeId": "EMP0001", "designation": "Admin Officer", "department": "Product", "joiningDate": "2021-07-14", "issueDate": "2025-08-11", "relievingDate": "2024-12-31", "salaryAmount": "75000", "purpose": "Official verification", "nocPurpose": "Business travel", "destination": "United States", "duration": "2 weeks", "promotionDate": "2023-06-15", "newDesignation": "Senior Admin Officer", "effectiveDate": "2024-01-15", "signingDate": "2024-01-20", "reason": "Lost ID card", "travelDate": "2024-02-15"}
+Status: completed
+=====================================
+
+=== DOCUMENT REQUEST NOTIFICATION ===
+Time: 2025-08-11 17:44:27
+Request ID: DOC_20250811_174427
+Document: Bonafide / Employment Verification Letter
+User: anonymous
+Details: {"employeeName":"Nicholas Ortiz","employeeId":"EMP0001","designation":"Admin Officer","department":"Product","joiningDate":"2021-07-14","issueDate":"2025-08-11"}
+Status: completed
+=====================================
+
+=== DOCUMENT REQUEST NOTIFICATION ===
+Time: 2025-08-11 17:45:18
+Request ID: DOC_20250811_174518
+Document: Appointment Letter Copy
+User: anonymous
+Details: {"employeeName":"Nicholas Ortiz","employeeId":"EMP0001","designation":"Admin Officer","department":"Product","joiningDate":"2021-07-14"}
+Status: completed
+=====================================
+
+=== DOCUMENT REQUEST NOTIFICATION ===
+Time: 2025-08-12 01:23:47
+Request ID: DOC_20250812_012347
+Document: Experience Certificate
+User: anonymous
+Details: {"employeeName":"Nicholas Ortiz","employeeId":"EMP0001","designation":"Admin Officer","department":"Product","joiningDate":"2021-07-14","issueDate":"2025-08-11","relievingDate":"2025-08-11","salaryAmount":"","appointmentDate":"","promotionDate":"","newDesignation":"","nocPurpose":"","effectiveDate":"","signingDate":"","reason":"","destination":"","purpose":"","duration":"","travelDate":""}
+Status: completed
+=====================================
+
+=== DOCUMENT REQUEST NOTIFICATION ===
+Time: 2025-08-12 01:29:52
+Request ID: DOC_20250812_012952
+Document: Offer Letter Copy
+User: anonymous
+Details: {"employeeName":"Nicholas Ortiz","employeeId":"EMP0001","designation":"Admin Officer","department":"Product","joiningDate":"2021-07-14","issueDate":"2025-08-11","relievingDate":"","salaryAmount":"50000","appointmentDate":"","promotionDate":"","newDesignation":"","nocPurpose":"","effectiveDate":"","signingDate":"","reason":"","destination":"","purpose":"","duration":"","travelDate":""}
+Status: completed
+=====================================
+
+=== DOCUMENT REQUEST NOTIFICATION ===
+Time: 2025-08-12 01:35:19
+Request ID: DOC_20250812_013519
+Document: Experience Certificate
+User: anonymous
+Details: {"employeeName":"Nicholas Ortiz","employeeId":"EMP0001","designation":"Admin Officer","department":"Product","joiningDate":"2021-07-14","issueDate":"2025-08-11","relievingDate":"2025-08-11","salaryAmount":"","appointmentDate":"","promotionDate":"","newDesignation":"","nocPurpose":"","effectiveDate":"","signingDate":"","reason":"","destination":"","purpose":"","duration":"","travelDate":""}
+Status: completed
+=====================================
+
+=== DOCUMENT REQUEST NOTIFICATION ===
+Time: 2025-08-12 01:36:57
+Request ID: DOC_20250812_013657
+Document: Bonafide / Employment Verification Letter
+User: anonymous
+Details: {"employeeName":"Nicholas Ortiz","employeeId":"EMP0001","designation":"Admin Officer","department":"Product","joiningDate":"2021-07-14","issueDate":"2025-08-11","relievingDate":"","salaryAmount":"","appointmentDate":"","promotionDate":"","newDesignation":"","nocPurpose":"","effectiveDate":"","signingDate":"","reason":"","destination":"","purpose":"","duration":"","travelDate":""}
+Status: completed
+=====================================
+
+=== DOCUMENT REQUEST NOTIFICATION ===
+Time: 2025-08-12 01:45:48
+Request ID: DOC_20250812_014548
+Document: Bonafide / Employment Verification Letter
+User: anonymous
+Details: {"employeeName":"Nicholas Ortiz","employeeId":"EMP0001","designation":"Admin Officer","department":"Product","joiningDate":"2021-07-14","issueDate":"2025-08-11","relievingDate":"","salaryAmount":"","appointmentDate":"","promotionDate":"","newDesignation":"","nocPurpose":"","effectiveDate":"","signingDate":"","reason":"","destination":"","purpose":"","duration":"","travelDate":""}
+Status: completed
+=====================================
+
+=== DOCUMENT REQUEST NOTIFICATION ===
+Time: 2025-08-12 01:46:48
+Request ID: DOC_20250812_014648
+Document: Experience Certificate
+User: anonymous
+Details: {"employeeName":"Nicholas Ortiz","employeeId":"EMP0001","designation":"Admin Officer","department":"Product","joiningDate":"2021-07-14","issueDate":"2025-08-11","relievingDate":"2022-09-11","salaryAmount":"","appointmentDate":"","promotionDate":"","newDesignation":"","nocPurpose":"","effectiveDate":"","signingDate":"","reason":"","destination":"","purpose":"","duration":"","travelDate":""}
+Status: completed
+=====================================
+
+=== DOCUMENT REQUEST NOTIFICATION ===
+Time: 2025-08-12 01:47:28
+Request ID: DOC_20250812_014728
+Document: Offer Letter Copy
+User: anonymous
+Details: {"employeeName":"Nicholas Ortiz","employeeId":"EMP0001","designation":"Admin Officer","department":"Product","joiningDate":"2021-07-14","issueDate":"2025-08-11","relievingDate":"","salaryAmount":"50000","appointmentDate":"","promotionDate":"","newDesignation":"","nocPurpose":"","effectiveDate":"","signingDate":"","reason":"","destination":"","purpose":"","duration":"","travelDate":""}
+Status: completed
+=====================================
+
+=== DOCUMENT REQUEST NOTIFICATION ===
+Time: 2025-08-12 10:06:55
+Request ID: DOC_20250812_100655
+Document: Bonafide / Employment Verification Letter
+User: anonymous
+Details: {"employeeName":"Nicholas Ortiz","employeeId":"EMP0001","designation":"Admin Officer","department":"Product","joiningDate":"2021-07-14","issueDate":"2025-08-12","relievingDate":"","salaryAmount":"","appointmentDate":"","promotionDate":"","newDesignation":"","nocPurpose":"","effectiveDate":"","signingDate":"","reason":"","destination":"","purpose":"","duration":"","travelDate":""}
+Status: pending
+=====================================
+
+=== DOCUMENT REQUEST NOTIFICATION ===
+Time: 2025-08-12 10:17:15
+Request ID: DOC_20250812_101715
+Document: Bonafide / Employment Verification Letter
+User: anonymous
+Details: {"employeeName":"Nicholas Ortiz","employeeId":"EMP0001","designation":"Admin Officer","department":"Product","joiningDate":"2021-07-14","issueDate":"2025-08-12","relievingDate":"","salaryAmount":"","appointmentDate":"","promotionDate":"","newDesignation":"","nocPurpose":"","effectiveDate":"","signingDate":"","reason":"","destination":"","purpose":"","duration":"","travelDate":""}
+Status: completed
+=====================================
+
+=== DOCUMENT REQUEST NOTIFICATION ===
+Time: 2025-08-12 10:18:31
+Request ID: DOC_20250812_101831
+Document: Visa Support Letter
+User: anonymous
+Details: {"employeeName":"Nicholas Ortiz","employeeId":"EMP0001","designation":"Admin Officer","department":"Product","joiningDate":"2021-07-14","issueDate":"2025-08-12","relievingDate":"","salaryAmount":"","appointmentDate":"","promotionDate":"","newDesignation":"","nocPurpose":"","effectiveDate":"","signingDate":"","reason":"","destination":"US","purpose":"trip","duration":"1 month","travelDate":""}
+Status: completed
+=====================================
+
+=== DOCUMENT REQUEST NOTIFICATION ===
+Time: 2025-08-12 10:19:29
+Request ID: DOC_20250812_101929
+Document: Experience Certificate
+User: anonymous
+Details: {"employeeName":"Nicholas Ortiz","employeeId":"EMP0001","designation":"Admin Officer","department":"Product","joiningDate":"2021-07-14","issueDate":"2025-08-12","relievingDate":"2025-08-12","salaryAmount":"","appointmentDate":"","promotionDate":"","newDesignation":"","nocPurpose":"","effectiveDate":"","signingDate":"","reason":"","destination":"","purpose":"","duration":"","travelDate":""}
+Status: completed
+=====================================
+
+=== DOCUMENT REQUEST NOTIFICATION ===
+Time: 2025-08-12 10:20:11
+Request ID: DOC_20250812_102011
+Document: Offer Letter Copy
+User: anonymous
+Details: {"employeeName":"Nicholas Ortiz","employeeId":"EMP0001","designation":"Admin Officer","department":"Product","joiningDate":"2021-07-14","issueDate":"2025-08-12","relievingDate":"","salaryAmount":"60000","appointmentDate":"","promotionDate":"","newDesignation":"","nocPurpose":"","effectiveDate":"","signingDate":"","reason":"","destination":"","purpose":"","duration":"","travelDate":""}
+Status: completed
+=====================================
+
+=== DOCUMENT REQUEST NOTIFICATION ===
+Time: 2025-08-12 10:21:05
+Request ID: DOC_20250812_102105
+Document: Appointment Letter Copy
+User: anonymous
+Details: {"employeeName":"Edward Nichols","employeeId":"EMP0185","designation":"Sales Manager","department":"Sales","joiningDate":"2018-10-28","issueDate":"2025-08-12","relievingDate":"","salaryAmount":"","appointmentDate":"2021-10-12","promotionDate":"","newDesignation":"","nocPurpose":"","effectiveDate":"","signingDate":"","reason":"","destination":"","purpose":"","duration":"","travelDate":""}
+Status: completed
+=====================================
+
+=== DOCUMENT REQUEST NOTIFICATION ===
+Time: 2025-08-13 19:24:04
+Request ID: DOC_20250813_192404
+Document: Experience Certificate
+User: anonymous
+Details: {"employeeName":"Nicholas Cook","employeeId":"EMP0125","designation":"HR Manager","department":"Finance","joiningDate":"2021-10-01","relievingDate":"2025-08-13","salaryAmount":"","appointmentDate":"","promotionDate":"","newDesignation":"","nocPurpose":"","effectiveDate":"","signingDate":"","reason":"","destination":"","purpose":"","duration":"","travelDate":""}
+Status: completed
+=====================================
+
+=== DOCUMENT REQUEST NOTIFICATION ===
+Time: 2025-08-13 19:25:37
+Request ID: DOC_20250813_192537
+Document: Offer Letter Copy
+User: anonymous
+Details: {"employeeName":"Nicholas Cook","employeeId":"EMP0125","designation":"HR Manager","department":"Finance","joiningDate":"2021-10-01","relievingDate":"","salaryAmount":"60000","appointmentDate":"","promotionDate":"","newDesignation":"","nocPurpose":"","effectiveDate":"","signingDate":"","reason":"","destination":"","purpose":"","duration":"","travelDate":""}
+Status: completed
+=====================================
+
+=== DOCUMENT REQUEST NOTIFICATION ===
+Time: 2025-08-13 19:27:24
+Request ID: DOC_20250813_192724
+Document: Bonafide / Employment Verification Letter
+User: anonymous
+Details: {"employeeName":"Jay Nichols","employeeId":"EMP0287","designation":"Customer Support Executive","department":"Operations","joiningDate":"2016-01-04","relievingDate":"","salaryAmount":"","appointmentDate":"","promotionDate":"","newDesignation":"","nocPurpose":"","effectiveDate":"","signingDate":"","reason":"","destination":"","purpose":"","duration":"","travelDate":""}
+Status: completed
+=====================================
+
+=== DOCUMENT REQUEST NOTIFICATION ===
+Time: 2025-08-14 14:16:51
+Request ID: DOC_20250814_141651
+Document: Bonafide / Employment Verification Letter
+User: anonymous
+Details: {"employeeName":"Jay Nichols","employeeId":"EMP0287","designation":"Customer Support Executive","department":"Operations","joiningDate":"2016-01-04","relievingDate":"","salaryAmount":"","appointmentDate":"","promotionDate":"","newDesignation":"","nocPurpose":"","effectiveDate":"","signingDate":"","reason":"","destination":"","purpose":"","duration":"","travelDate":""}
+Status: completed
+=====================================
+
+=== DOCUMENT REQUEST NOTIFICATION ===
+Time: 2025-08-14 14:17:40
+Request ID: DOC_20250814_141740
+Document: Experience Certificate
+User: anonymous
+Details: {"employeeName":"Edward Nichols","employeeId":"EMP0185","designation":"Sales Manager","department":"Sales","joiningDate":"2018-10-28","relievingDate":"2025-08-14","salaryAmount":"","appointmentDate":"","promotionDate":"","newDesignation":"","nocPurpose":"","effectiveDate":"","signingDate":"","reason":"","destination":"","purpose":"","duration":"","travelDate":""}
+Status: completed
+=====================================
+
+=== DOCUMENT REQUEST NOTIFICATION ===
+Time: 2025-08-14 14:41:50
+Request ID: DOC_20250814_144150
+Document: Bonafide / Employment Verification Letter
+User: anonymous
+Details: {"employeeName":"Jay Nichols","employeeId":"EMP0287","designation":"Customer Support Executive","department":"Operations","joiningDate":"2016-01-04","relievingDate":"","salaryAmount":"","appointmentDate":"","promotionDate":"","newDesignation":"","nocPurpose":"","effectiveDate":"","signingDate":"","reason":"","destination":"","purpose":"","duration":"","travelDate":""}
+Status: completed
+=====================================
+
+=== DOCUMENT REQUEST NOTIFICATION ===
+Time: 2025-08-14 14:42:45
+Request ID: DOC_20250814_144245
+Document: Experience Certificate
+User: anonymous
+Details: {"employeeName":"John Gibson","employeeId":"EMP0059","designation":"Operations Coordinator","department":"Engineering","joiningDate":"2025-01-14","relievingDate":"2025-08-14","salaryAmount":"","appointmentDate":"","promotionDate":"","newDesignation":"","nocPurpose":"","effectiveDate":"","signingDate":"","reason":"","destination":"","purpose":"","duration":"","travelDate":""}
+Status: completed
+=====================================
+
+=== DOCUMENT REQUEST NOTIFICATION ===
+Time: 2025-08-14 14:51:08
+Request ID: DOC_20250814_145108
+Document: Offer Letter Copy
+User: anonymous
+Details: {"employeeName":"Richard Johnson","employeeId":"EMP0136","designation":"Finance Executive","department":"Engineering","joiningDate":"2020-05-13","relievingDate":"","salaryAmount":"55000","appointmentDate":"","promotionDate":"","newDesignation":"","nocPurpose":"","effectiveDate":"","signingDate":"","reason":"","destination":"","purpose":"","duration":"","travelDate":""}
+Status: completed
+=====================================
+
+=== DOCUMENT REQUEST NOTIFICATION ===
+Time: 2025-08-14 14:53:43
+Request ID: DOC_20250814_145343
+Document: Bonafide / Employment Verification Letter
+User: test_user
+Details: {"employeeName": "John Doe", "employeeId": "EMP123456", "designation": "Software Engineer", "department": "Engineering", "joiningDate": "2023-01-15", "purpose": "Bank loan application"}
+Status: completed
+=====================================
+
+=== DOCUMENT REQUEST NOTIFICATION ===
+Time: 2025-08-14 14:57:27
+Request ID: DOC_20250814_145727
+Document: Experience Certificate
+User: anonymous
+Details: {"employeeName":"Johnathan Farley","employeeId":"EMP0011","designation":"Software Engineer","department":"Sales","joiningDate":"2024-06-13","relievingDate":"2025-08-14","salaryAmount":"","appointmentDate":"","promotionDate":"","newDesignation":"","nocPurpose":"","effectiveDate":"","signingDate":"","reason":"","destination":"","purpose":"","duration":"","travelDate":""}
+Status: completed
+=====================================
+
+=== DOCUMENT REQUEST NOTIFICATION ===
+Time: 2025-08-14 15:03:23
+Request ID: DOC_20250814_150323
+Document: Experience Certificate
+User: anonymous
+Details: {"employeeName":"John Dodson","employeeId":"EMP0171","designation":"Admin Officer","department":"Marketing","joiningDate":"2017-08-13","relievingDate":"2024-08-10","salaryAmount":"","appointmentDate":"","promotionDate":"","newDesignation":"","nocPurpose":"","effectiveDate":"","signingDate":"","reason":"","destination":"","purpose":"","duration":"","travelDate":""}
+Status: completed
+=====================================
+
+=== DOCUMENT REQUEST NOTIFICATION ===
+Time: 2025-08-14 15:10:58
+Request ID: DOC_20250814_151058
+Document: Bonafide / Employment Verification Letter
+User: anonymous
+Details: {"employeeName": "John Doe", "employeeId": "EMP123456", "designation": "Software Engineer", "department": "Engineering", "joiningDate": "2023-01-15", "purpose": "Bank loan application"}
+Status: completed
+=====================================
+
+=== DOCUMENT REQUEST NOTIFICATION ===
+Time: 2025-08-14 15:15:03
+Request ID: DOC_20250814_151502
+Document: Offer Letter Copy
+User: anonymous
+Details: {"employeeName":"Richard Johnson","employeeId":"EMP0136","designation":"Finance Executive","department":"Engineering","joiningDate":"2020-05-13","relievingDate":"","salaryAmount":"65000","appointmentDate":"","promotionDate":"","newDesignation":"","nocPurpose":"","effectiveDate":"","signingDate":"","reason":"","destination":"","purpose":"","duration":"","travelDate":""}
+Status: completed
+=====================================
+
+=== DOCUMENT REQUEST NOTIFICATION ===
+Time: 2025-08-14 21:44:53
+Request ID: DOC_20250814_214453
+Document: Experience Certificate
+User: anonymous
+Details: {"employeeName":"Edward Nichols","employeeId":"EMP0185","designation":"Sales Manager","department":"Sales","joiningDate":"2018-10-28","relievingDate":"2025-08-14","salaryAmount":"","appointmentDate":"","promotionDate":"","newDesignation":"","nocPurpose":"","effectiveDate":"","signingDate":"","reason":"","destination":"","purpose":"","duration":"","travelDate":""}
+Status: completed
+=====================================
+
+=== DOCUMENT REQUEST NOTIFICATION ===
+Time: 2025-08-15 00:07:08
+Request ID: DOC_20250815_000708
+Document: Experience Certificate
+User: anonymous
+Details: {"employeeName":"Johnathan Farley","employeeId":"EMP0015","designation":"Software Engineer","department":"Sales","joiningDate":"2024-06-13","relievingDate":"2025-08-15","salaryAmount":"","appointmentDate":"","promotionDate":"","newDesignation":"","nocPurpose":"","effectiveDate":"","signingDate":"","reason":"","destination":"","purpose":"","duration":"","travelDate":""}
+Status: completed
+=====================================
+
+=== DOCUMENT REQUEST NOTIFICATION ===
+Time: 2025-08-15 11:30:47
+Request ID: DOC_20250815_113047
+Document: Experience Certificate
+User: anonymous
+Details: {"employeeName":"Devyani Suresh Deore","employeeId":"EMP0001","designation":"Brand Manager","department":"Marketing","joiningDate":"2021-11-02","relievingDate":"2025-08-15","salaryAmount":"","appointmentDate":"","promotionDate":"","newDesignation":"","nocPurpose":"","effectiveDate":"","signingDate":"","reason":"","destination":"","purpose":"","duration":"","travelDate":""}
+Status: completed
+=====================================
+
+=== DOCUMENT REQUEST NOTIFICATION ===
+Time: 2025-08-15 13:32:04
+Request ID: DOC_20250815_133204
+Document: Offer Letter Copy
+User: anonymous
+Details: {"employeeName":"Khushbu Arun Jain","employeeId":"EMP0003","designation":"HR Specialist","department":"Human Resources","joiningDate":"2023-06-28","relievingDate":"","salaryAmount":"5000","appointmentDate":"","promotionDate":"","newDesignation":"","nocPurpose":"","effectiveDate":"","signingDate":"","reason":"","destination":"","purpose":"","duration":"","travelDate":""}
+Status: completed
+=====================================
+
+=== DOCUMENT REQUEST NOTIFICATION ===
+Time: 2025-08-15 13:42:05
+Request ID: DOC_20250815_134205
+Document: Experience Certificate
+User: anonymous
+Details: {"employeeName":"Johnathan Farley","employeeId":"EMP0015","designation":"Software Engineer","department":"Sales","joiningDate":"2024-06-13","relievingDate":"2025-08-15","salaryAmount":"","appointmentDate":"","promotionDate":"","newDesignation":"","nocPurpose":"","effectiveDate":"","signingDate":"","reason":"","destination":"","purpose":"","duration":"","travelDate":""}
+Status: completed
+=====================================
+
+=== DOCUMENT REQUEST NOTIFICATION ===
+Time: 2025-08-15 16:42:23
+Request ID: DOC_20250815_164223
+Document: ID Card Replacement
+User: anonymous
+Details: {"employeeName":"Khushbu Arun Jain","employeeId":"EMP0003","designation":"HR Specialist","department":"Human Resources","joiningDate":"2023-06-28","relievingDate":"","salaryAmount":"","appointmentDate":"","promotionDate":"","newDesignation":"","nocPurpose":"","effectiveDate":"","signingDate":"","reason":"lost","destination":"","purpose":"","duration":"","travelDate":""}
+Status: completed
+=====================================
+
+=== DOCUMENT REQUEST NOTIFICATION ===
+Time: 2025-08-15 16:44:28
+Request ID: DOC_20250815_164428
+Document: PF Statement / UAN details
+User: anonymous
+Details: {"employeeName":"Ashwini Anil Nikumbh","employeeId":"EMP0002","designation":"Account Executive","department":"Finance","joiningDate":"2022-03-15","relievingDate":"","salaryAmount":"","appointmentDate":"","promotionDate":"","newDesignation":"","nocPurpose":"","effectiveDate":"","signingDate":"","reason":"","destination":"","purpose":"","duration":"","travelDate":""}
+Status: completed
+=====================================
+
+=== DOCUMENT REQUEST NOTIFICATION ===
+Time: 2025-08-15 18:11:57
+Request ID: DOC_20250815_181157
+Document: Appointment Letter Copy
+User: anonymous
+Details: {"employeeName":"John Gibson","employeeId":"EMP0063","designation":"Operations Coordinator","department":"Engineering","joiningDate":"2025-01-14","relievingDate":"","salaryAmount":"","appointmentDate":"2025-08-15","promotionDate":"","newDesignation":"","nocPurpose":"","effectiveDate":"","signingDate":"","reason":"","destination":"","purpose":"","duration":"","travelDate":""}
+Status: completed
+=====================================
+
+=== DOCUMENT REQUEST NOTIFICATION ===
+Time: 2025-08-15 18:12:54
+Request ID: DOC_20250815_181254
+Document: Experience Certificate
+User: anonymous
+Details: {"employeeName":"Devyani Suresh Deore","employeeId":"EMP0001","designation":"Brand Manager","department":"Marketing","joiningDate":"2021-11-02","relievingDate":"2025-08-15","salaryAmount":"","appointmentDate":"","promotionDate":"","newDesignation":"","nocPurpose":"","effectiveDate":"","signingDate":"","reason":"","destination":"","purpose":"","duration":"","travelDate":""}
+Status: completed
+=====================================
+
+=== DOCUMENT REQUEST NOTIFICATION ===
+Time: 2025-08-15 18:27:11
+Request ID: DOC_20250815_182711
+Document: Experience Certificate
+User: anonymous
+Details: {"employeeName":"Devyani Suresh Deore","employeeId":"EMP0001","designation":"Brand Manager","department":"Marketing","joiningDate":"2021-11-02","relievingDate":"2025-08-15","salaryAmount":"","appointmentDate":"","promotionDate":"","newDesignation":"","nocPurpose":"","effectiveDate":"","signingDate":"","reason":"","destination":"","purpose":"","duration":"","travelDate":""}
+Status: completed
+=====================================

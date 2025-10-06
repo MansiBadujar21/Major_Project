@@ -1,0 +1,494 @@
+[
+  {
+    "question": "hello",
+    "answer": "Hello! 👋 Welcome to Reliance Jio Infotech Solutions! I'm your AI assistant, ready to help you with HR questions, document processing, and certificate generation. How can I assist you today?"
+  },
+  {
+    "question": "hi",
+    "answer": "Hi there! 👋 I'm your Reliance Jio Infotech Solutions AI assistant. I can help you with:\n\n💬 **HR Questions** - Ask about policies, benefits, procedures\n📄 **PDF Processing** - Upload and summarize documents\n📜 **Certificates** - Generate employee certificates\n\nWhat would you like to know?"
+  },
+  {
+    "question": "hey",
+    "answer": "Hey! 👋 Great to see you! I'm here to help with all your Reliance Jio Infotech Solutions needs. Whether you have HR questions, need to process documents, or want to generate certificates - I've got you covered! What can I help you with?"
+  },
+  {
+    "question": "good morning",
+    "answer": "Good morning! ☀️ Welcome to another productive day at Reliance Jio Infotech Solutions! I'm here to help you with any questions about company policies, document processing, or certificate generation. How can I make your day easier?"
+  },
+  {
+    "question": "good afternoon",
+    "answer": "Good afternoon! 🌤️ I hope your day at Reliance Jio Infotech Solutions is going well! I'm ready to assist you with HR queries, document processing, or any other questions you might have. What do you need help with?"
+  },
+  {
+    "question": "good evening",
+    "answer": "Good evening! 🌙 I hope you had a great day at Reliance Jio Infotech Solutions! I'm still here to help you with any questions about policies, documents, or certificates. What can I assist you with?"
+  },
+  {
+    "question": "how are you",
+    "answer": "I'm doing great, thank you for asking! 😊 I'm always ready to help you with Reliance Jio Infotech Solutions related questions. Whether you need information about HR policies, want to process documents, or generate certificates - I'm here to assist! What would you like to know?"
+  },
+  {
+    "question": "what can you do",
+    "answer": "I'm your comprehensive AI assistant for Reliance Jio Infotech Solutions! Here's what I can do:\n\n💬 **HR Q&A Chat**\n• Answer questions about company policies, benefits, and procedures\n• Provide information about leave policies, attendance, and more\n• Powered by semantic search and AI assistance\n\n📄 **PDF Summarization**\n• Process large PDFs (up to 50MB, 30+ pages)\n• Extract and format table data accurately\n• Provide comprehensive summaries with advanced AI\n\n📜 **Employee Certificate Generation**\n• Generate official Reliance Jio Infotech Solutions certificates\n• Professional formatting with company branding\n• Strict validation against employee records\n\n📋 **Document Requests**\n• Request official documents from HR (16 document types)\n• Step-by-step guided process\n• Automatic HR notification\n\n💡 **Quick Commands**:\n• Type 'qa' or 'chat' for HR questions\n• Type 'summarize' or 'pdf' for document processing\n• Type 'certificate' or 'employee' for certificate generation\n• Type 'document' or 'I need a document' for document requests\n• Use the mode buttons above for quick switching\n\nWhat would you like to try?"
+  },
+  {
+    "question": "help",
+    "answer": "I'm here to help! 🤖 Here's how I can assist you at Reliance Jio Infotech Solutions:\n\n**🎯 Quick Start:**\n• **HR Questions**: Just ask about policies, benefits, procedures\n• **PDF Processing**: Upload any PDF for summarization\n• **Certificates**: Fill the form to generate employee certificates\n• **Document Requests**: Type 'document' or 'I need a document' to request official documents\n\n**💡 Mode Switching:**\n• Click the mode buttons above (HR Q&A, PDF, Certificate)\n• Or type: 'qa', 'summarize', 'certificate'\n\n**🔍 Employee Search:**\n• 'search employee [name/ID]' - Find employee details\n• 'fill form for [name/ID]' - Auto-fill certificate form\n\n**📋 Document Request Process:**\n• Type 'I need a document' to start\n• Choose from 16 document types\n• Provide required details\n• Get automatic HR notification\n\n**📞 Need More Help?**\n• Ask me anything about company policies\n• I can guide you through any process\n• Contact HR at hr@reliancejio.com for complex issues\n\nWhat would you like to know?"
+  },
+  {
+    "question": "thank you",
+    "answer": "You're very welcome! 🙏 I'm here to make your experience at Reliance Jio Infotech Solutions as smooth as possible. If you need anything else - whether it's HR questions, document processing, or certificate generation - just let me know. Have a great day!"
+  },
+  {
+    "question": "thanks",
+    "answer": "You're welcome! 😊 I'm glad I could help you with your Reliance Jio Infotech Solutions needs. Feel free to reach out anytime for HR questions, document processing, or certificate generation. Is there anything else I can assist you with?"
+  },
+  {
+    "question": "bye",
+    "answer": "Goodbye! 👋 Thank you for using the Reliance Jio Infotech Solutions AI assistant. I hope I was able to help you today. Have a wonderful day, and don't hesitate to return if you need assistance with HR questions, document processing, or certificates!"
+  },
+  {
+    "question": "goodbye",
+    "answer": "Goodbye! 👋 It was a pleasure helping you with your Reliance Jio Infotech Solutions needs today. Remember, I'm always here when you need assistance with HR policies, document processing, or certificate generation. Take care!"
+  },
+  {
+    "question": "see you",
+    "answer": "See you later! 👋 Thanks for using the Reliance Jio Infotech Solutions AI assistant. I'm here whenever you need help with HR questions, document processing, or certificate generation. Have a great day!"
+  },
+  {
+    "question": "what is the IT policy",
+    "answer": "**IT Policy Overview**\n\n**Device Management:**\n• Company-issued devices must be used for work purposes\n• Personal devices may be used with proper security measures\n• All devices must have updated antivirus software\n\n**Password Security:**\n• Strong passwords required (minimum 8 characters, mix of letters, numbers, symbols)\n• Passwords must be changed every 90 days\n• Multi-factor authentication enabled for all accounts\n\n**Software & Applications:**\n• Only approved software can be installed on company devices\n• Software requests must be submitted through IT helpdesk\n• Regular software updates are mandatory\n\n**Helpdesk Support:**\n• IT support available 24/7 through helpdesk\n• Contact: it-support@reliancejio.com\n• Phone: Available through internal directory\n\n**Policy Location:** See internal IT policy documents for complete details."
+  },
+  {
+    "question": "what is the HR policy",
+    "answer": "**HR Policy Overview**\n\n**Core HR Policies:**\n• **Attendance Policy** - Work hours, tardiness, flexible scheduling\n• **Leave Policy** - 20 days annual leave, submission requirements\n• **Work From Home Policy** - 3 days/week, manager approval required\n• **Dress Code Policy** - Business casual attire\n• **Performance Review Policy** - Bi-annual reviews in June and December\n• **Reimbursement Policy** - 30-day submission, receipts required\n• **Code of Conduct** - Respect, zero tolerance for harassment\n• **Employee Handbook** - Mission, values, workplace expectations\n• **Onboarding** - 2-week program for new hires\n• **IT Policies** - Device, password, software, helpdesk guidelines\n\n**Contact Information:**\n• **HR Email:** hr@reliancejio.com\n• **HR Phone:** Available through internal directory\n• **IT Support:** it-support@reliancejio.com\n\n**Policy Location:** All policies available in internal HR portal and policy documents."
+  },
+  {
+    "question": "What does the Attendance Policy describe?",
+    "answer": "**Attendance Policy**\n\n**Work Hours:** Employees must log in by 9:30 AM and log out after 8 hours of work.\n\n**Tardiness:** Repeated tardiness may result in HR intervention.\n\n**Contact:** For questions, please contact us at hr@reliancejio.com.\n\n**Policy Location:** See internal policy document for complete details."
+  },
+  {
+    "question": "Where can I read the Attendance Policy?",
+    "answer": "See internal policy document: F:/Devyani/chatbot_project/org_data/policies/attendance_policy.pdf"
+  },
+  {
+    "question": "What does the Code Of Conduct describe?",
+    "answer": "**Code of Conduct**\n\n**Core Principles:**\n• Treat all colleagues with respect and dignity\n• Zero tolerance for harassment, discrimination, or unethical practices\n\n**Foundation:** Code of Conduct is based on a code of ethics aimed at preventing harassment and discrimination.\n\n**Policy Location:** See internal policy document for complete details."
+  },
+  {
+    "question": "Where can I read the Code Of Conduct?",
+    "answer": "See internal policy document: F:/Devyani/chatbot_project/org_data/policies/code_of_conduct.pdf"
+  },
+  {
+    "question": "What does the Employee Handbook describe?",
+    "answer": "**Employee Handbook**\n\n**Purpose:** This handbook outlines our mission, values, and policies to ensure a respectful and productive workplace.\n\n**Expectations:** Employees are expected to maintain professionalism, integrity, and collaboration at all times.\n\n**Contact:** For questions, please contact us at hr@reliancejio.com.\n\n**Policy Location:** See internal policy document for complete details."
+  },
+  {
+    "question": "Where can I read the Employee Handbook?",
+    "answer": "See internal policy document: F:/Devyani/chatbot_project/org_data/policies/employee_handbook.pdf"
+  },
+  {
+    "question": "What does the Leave Policy describe?",
+    "answer": "**Leave Policy**\n\n**Leave Entitlement:**\n• **20 days** of paid leave annually\n• Available to all permanent employees\n\n**Submission Requirements:**\n• Leave requests must be submitted **at least 5 days in advance**\n• Emergency leave requests are exempt from advance notice requirement\n• All requests subject to manager approval\n\n**Contact Information:**\n• **HR Helpline:** 08457 90 90 90\n• **Support Website:** www.samaritans.org\n• **Email:** hr@reliancejio.com\n\n**Policy Location:** See internal policy document for complete details."
+  },
+  {
+    "question": "Where can I read the Leave Policy?",
+    "answer": "See internal policy document: F:/Devyani/chatbot_project/org_data/policies/leave_policy.pdf"
+  },
+  {
+    "question": "What does the Onboarding describe?",
+    "answer": "**Onboarding Program**\n\n**Duration:** New hires will undergo a 2-week onboarding program.\n\n**Components:**\n• Orientation and training\n• Introduction to key teams\n• Company culture and policies\n\n**Requirement:** Onboarding is mandatory for all new hires to participate in training sessions.\n\n**Purpose:** The program is designed to help new employees learn about the organization and their role.\n\n**Policy Location:** See internal policy document for complete details."
+  },
+  {
+    "question": "Where can I read the Onboarding?",
+    "answer": "See internal policy document: F:/Devyani/chatbot_project/org_data/policies/onboarding.pdf"
+  },
+  {
+    "question": "What does the Performance Review describe?",
+    "answer": "**Performance Review Policy**\n\n**Frequency:** Performance reviews occur bi-annually in June and December.\n\n**Assessment Areas:**\n• Goal achievement\n• Skill development\n• Overall contribution to the organization\n\n**Process:** Reviews are based on performance metrics and manager feedback.\n\n**Results:** Performance review results are available through the HR portal.\n\n**Policy Location:** See internal policy document for complete details."
+  },
+  {
+    "question": "Where can I read the Performance Review?",
+    "answer": "See internal policy document: F:/Devyani/chatbot_project/org_data/policies/performance_review.pdf"
+  },
+  {
+    "question": "What does the Reimbursement Policy describe?",
+    "answer": "**Reimbursement Policy**\n\n**Submission Requirements:**\n• Claims must be submitted within 30 days\n• Proper receipts required for all expenses\n• Pre-approval by reporting manager required\n\n**Process:**\n• Submit claims through HRMS portal\n• Manager approval within 2 weeks\n• Reimbursement processed after approval\n\n**Contact:** For reimbursement queries, contact HR at hr@reliancejio.com.\n\n**Policy Location:** See internal policy document for complete details."
+  },
+  {
+    "question": "Where can I read the Reimbursement Policy?",
+    "answer": "See internal policy document: F:/Devyani/chatbot_project/org_data/policies/reimbursement_policy.pdf"
+  },
+  {
+    "question": "What does the Wfh Policy describe?",
+    "answer": "**Work From Home (WFH) Policy**\n\n**WFH Guidelines:**\n• Employees may work from home up to 3 days per week\n• Manager approval required for WFH days\n• Secure and distraction-free workspace mandatory\n\n**Requirements:**\n• Stable internet connection\n• Company VPN access for secure work\n• Proper equipment setup at home\n\n**Contact:** For WFH queries, contact your manager or HR at hr@reliancejio.com.\n\n**Policy Location:** See internal policy document for complete details."
+  },
+  {
+    "question": "Where can I read the Wfh Policy?",
+    "answer": "See internal policy document: F:/Devyani/chatbot_project/org_data/policies/wfh_policy.pdf"
+  },
+  {
+    "question": "What does the Acceptable Use Policy describe?",
+    "answer": "**Acceptable Use Policy**\n\n**Prohibited Activities:**\n• Unauthorized access to systems\n• Downloading illegal software\n• Sharing confidential data\n• Personal use during work hours\n\n**Guidelines:**\n• Use company resources primarily for work-related purposes\n• Protect company data and systems\n• Report security concerns immediately\n\n**Contact:** For policy questions, contact IT at it@reliancejio.com.\n\n**Policy Location:** See internal policy document for complete details."
+  },
+  {
+    "question": "Where can I read the Acceptable Use Policy?",
+    "answer": "See internal policy document: F:/Devyani/chatbot_project/org_data/it_policies/acceptable_use_policy.pdf"
+  },
+  {
+    "question": "What does the Device Policy describe?",
+    "answer": "**Device Policy**\n\n**Employee Responsibilities:**\n• Proper use and safekeeping of assigned devices\n• Report lost or stolen devices to IT immediately\n• Maintain device security and updates\n\n**Support:**\n• Contact IT department for device issues\n• IT Support: Available during business hours\n• Email: it@reliancejio.com\n\n**Policy Location:** See internal policy document for complete details."
+  },
+  {
+    "question": "Where can I read the Device Policy?",
+    "answer": "See internal policy document: F:/Devyani/chatbot_project/org_data/it_policies/device_policy.pdf"
+  },
+  {
+    "question": "What does the Helpdesk Guide describe?",
+    "answer": "**IT Helpdesk Guide**\n\n**Response Times:**\n• IT will respond to standard issues within 24 hours\n• Emergency issues: Immediate response\n• Complex issues: Escalated to specialist teams\n\n**Process:**\n• Submit tickets through IT Helpdesk portal\n• Ticket tracking and updates provided\n• Resolution confirmation sent\n\n**Contact:** For IT support, contact helpdesk@reliancejio.com.\n\n**Policy Location:** See internal policy document for complete details."
+  },
+  {
+    "question": "Where can I read the Helpdesk Guide?",
+    "answer": "See internal policy document: F:/Devyani/chatbot_project/org_data/it_policies/helpdesk_guide.pdf"
+  },
+  {
+    "question": "What does the Password Policy describe?",
+    "answer": "**Password Policy**\n\n**Password Requirements:**\n• Minimum 12 characters long\n• Must contain letters, numbers, and symbols\n• Change passwords every 90 days\n• Never share passwords with anyone\n\n**Security:**\n• Use unique passwords for each account\n• Enable two-factor authentication where available\n• Report suspected security breaches immediately\n\n**Contact:** For password issues, contact IT at it@reliancejio.com.\n\n**Policy Location:** See internal policy document for complete details."
+  },
+  {
+    "question": "Where can I read the Password Policy?",
+    "answer": "See internal policy document: F:/Devyani/chatbot_project/org_data/it_policies/password_policy.pdf"
+  },
+  {
+    "question": "What does the Software Request Sop describe?",
+    "answer": "**Software Request Standard Operating Procedure**\n\n**Process:**\n• Submit all software installation requests through IT helpdesk portal\n• Unauthorized software installation is prohibited\n• Manager approval required for business software\n\n**Requirements:**\n• Business justification required\n• Compatibility check with existing systems\n• Security review for new software\n\n**Contact:** For software requests, contact IT at it@reliancejio.com.\n\n**Policy Location:** See internal policy document for complete details."
+  },
+  {
+    "question": "what is the attendance policy",
+    "answer": "**Attendance Policy at Reliance Jio Infotech Solutions:**\n\n🕘 **Working Hours:**\n• Standard working hours: 9:30 AM to 6:30 PM\n• Employees must log in by 9:30 AM\n• 8 hours of work required per day\n\n⚠️ **Important Notes:**\n• Repeated tardiness may result in HR intervention\n• Attendance is monitored through the HRMS system\n• Contact HR for any attendance-related queries\n\n📞 **Contact:** For questions about attendance, please contact HR at hr@reliancejio.com"
+  },
+  {
+    "question": "how many leave days do I get",
+    "answer": "**Leave Policy at Reliance Jio Infotech Solutions:**\n\n📅 **Annual Leave Entitlement:**\n• **20 days of paid leave** annually\n• Leave requests must be submitted at least **5 days in advance**\n• Emergency leave exceptions apply\n\n📋 **Leave Process:**\n• Submit leave requests through HRMS portal\n• Manager approval required\n• Plan your leaves in advance when possible\n\n⚠️ **Important:**\n• Unused leave may be carried forward (subject to policy)\n• Contact HR for specific leave queries\n\n📞 **Contact:** For leave-related questions, contact HR at hr@reliancejio.com"
+  },
+  {
+    "question": "what is the work from home policy",
+    "answer": "**Work From Home (WFH) Policy at Reliance Jio Infotech Solutions:**\n\n🏠 **WFH Guidelines:**\n• Employees may work from home up to **3 days per week**\n• **Manager approval required** for WFH days\n• Secure and distraction-free workspace mandatory\n\n💻 **Technical Requirements:**\n• Stable internet connection required\n• Company VPN access for secure work\n• Proper equipment setup at home\n\n📋 **Process:**\n• Submit WFH requests in advance\n• Manager approval through HRMS\n• Maintain productivity standards\n\n📞 **Contact:** For WFH queries, contact your manager or HR at hr@reliancejio.com"
+  },
+  {
+    "question": "what is the dress code",
+    "answer": "**Dress Code Policy at Reliance Jio Infotech Solutions:**\n\n👔 **Professional Dress Code:**\n• **Business casual** attire preferred\n• Clean, neat, and professional appearance\n• Appropriate for client interactions\n\n✅ **Acceptable Attire:**\n• Collared shirts/blouses\n• Business pants/skirts\n• Professional footwear\n• Clean and well-maintained clothing\n\n❌ **Not Acceptable:**\n• Casual t-shirts, jeans, or shorts\n• Revealing or inappropriate clothing\n• Flip-flops or casual footwear\n\n💡 **Special Occasions:**\n• Client meetings: Business formal attire\n• Casual Fridays: Relaxed business casual\n• Company events: As specified in event details\n\n📞 **Contact:** For dress code queries, contact HR at hr@reliancejio.com"
+  },
+  {
+    "question": "how do I report an issue",
+    "answer": "**Issue Reporting at Reliance Jio Infotech Solutions:**\n\n🆘 **Emergency Issues:**\n• **IT Issues:** Contact IT Helpdesk immediately\n• **HR Issues:** Contact HR department\n• **Security Issues:** Contact Security team\n\n📋 **Standard Issue Reporting:**\n\n**IT Issues:**\n• Submit ticket through IT Helpdesk portal\n• Response within 24 hours for standard issues\n• Contact: IT Helpdesk or helpdesk@reliancejio.com\n\n**HR Issues:**\n• Contact HR department directly\n• Email: hr@reliancejio.com\n• Phone: Available through internal directory\n\n**General Issues:**\n• Contact your immediate supervisor\n• Escalate to department head if needed\n• Use appropriate communication channels\n\n📞 **Emergency Contacts:**\n• IT Support: Available 24/7\n• HR Support: Business hours\n• Security: 24/7 emergency line"
+  },
+  {
+    "question": "what are the benefits",
+    "answer": "**Employee Benefits at Reliance Jio Infotech Solutions:**\n\n💰 **Compensation & Benefits:**\n• Competitive salary package\n• Performance-based bonuses\n• Annual salary reviews\n\n🏥 **Health Benefits:**\n• Comprehensive health insurance\n• Dental and vision coverage\n• Employee wellness programs\n\n📚 **Professional Development:**\n• Training and certification programs\n• Conference and workshop opportunities\n• Career development support\n\n🏖️ **Time Off:**\n• 20 days annual leave\n• Public holidays\n• Sick leave benefits\n\n💼 **Work-Life Balance:**\n• Flexible working hours\n• Work from home options (3 days/week)\n• Employee assistance programs\n\n📞 **Contact:** For detailed benefits information, contact HR at hr@reliancejio.com"
+  },
+  {
+    "question": "Where can I read the Software Request Sop?",
+    "answer": "See internal policy document: F:/Devyani/chatbot_project/org_data/it_policies/software_request_sop.pdf"
+  },
+  {
+    "question": "What constitutes \"repeated tardiness\" that would lead to HR intervention? Is there a specific number of times or a timeframe that triggers this?",
+    "answer": "\"Repeated tardiness\" isn't tied to a rigid number of instances. Instead, it's evaluated based on a pattern of late arrivals that disrupt team workflows or consistently falls outside reasonable expectations. We consider factors like the frequency of tardiness (e.g., several times a week, multiple times a month), the duration of each late arrival, and any documented explanations for the lateness. If you are consistently late, even by a few minutes, it could be flagged. We encourage you to discuss any challenges you face in arriving on time with your manager as soon as possible. Addressing potential issues proactively helps prevent misunderstandings and allows us to explore possible solutions together. If you have further questions or require clarification on your specific situation, please contact HR at hr@companyemail.com or call us at 555-123-4567.",
+    "source": "HR Policy: attendance_policy",
+    "generated": true,
+    "timestamp": "2025-08-11T10:18:01.857076"
+  },
+  {
+    "question": "If I log in by 9:30 AM, but I have a doctor's appointment in the afternoon and need to leave early, how does that affect my required 8 hours of work? Can I make up the time later in the week?",
+    "answer": "If you need to leave early due to a pre-scheduled appointment, you have a few options to meet the 8-hour requirement. Ideally, discuss planned absences with your manager in advance.\n1.  **Make up the time on the same day:** If feasible, you can work additional hours before or after your appointment to complete your 8-hour workday.\n2.  **Make up the time on another day within the same work week:** With your manager's approval, you can work additional hours on another day during the same work week (Monday-Friday) to compensate for the time missed.\n3.  **Use Paid Time Off (PTO):** You can use PTO hours to cover the difference between the hours worked and the 8-hour requirement. Please submit your PTO request according to the standard company procedure through [link to PTO system/instructions].\nIf you consistently require time off for appointments, please discuss flexible scheduling options with your manager. For any questions regarding PTO accrual or usage, please refer to the PTO policy in the employee handbook or contact the HR department at hr@companyemail.com or 555-123-4567. Please note that all make-up time and PTO usage must be approved by your manager.",
+    "source": "HR Policy: attendance_policy",
+    "generated": true,
+    "timestamp": "2025-08-11T10:18:01.857076"
+  },
+  {
+    "question": "What happens if I occasionally work more than 8 hours in a day? Can I use that extra time to offset being a little late another day?",
+    "answer": "While we expect employees to work a standard 8-hour day, we understand that there may be days when you work longer to complete urgent tasks or meet deadlines. Non-exempt (hourly) employees will be paid overtime for hours worked over 40 in a workweek, in accordance with applicable labor laws. *However*, extra time worked on one day cannot automatically offset tardiness on another day. Tardiness is viewed separately and can still lead to HR intervention if it becomes a pattern. If you are an exempt employee, extra hours worked are considered part of your professional responsibilities.\nIf you consistently find yourself working significantly more or less than 8 hours a day, please have a conversation with your manager to discuss workload management or potential scheduling adjustments. If you have questions about overtime policies or labor laws, please contact HR at hr@companyemail.com or 555-123-4567.",
+    "source": "HR Policy: attendance_policy",
+    "generated": true,
+    "timestamp": "2025-08-11T10:18:01.857076"
+  },
+  {
+    "question": "What exactly constitutes \"harassment\" under this policy? I want to be sure I understand the boundaries.",
+    "answer": "\"Harassment,\" as defined by our Code of Conduct, encompasses a wide range of behaviors that create a hostile or offensive work environment. This includes, but is not limited to: unwelcome advances (sexual or otherwise); offensive jokes, slurs, epithets, or name-calling; physical intimidation or threats; bullying; mocking or ridiculing someone's personal characteristics; displaying offensive images or materials (including on computer screens or shared online spaces); and any other conduct that creates an intimidating, hostile, or offensive work environment based on race, color, religion, sex (including pregnancy, sexual orientation, or gender identity), national origin, age, disability, genetic information, or any other characteristic protected by law. If you are unsure whether a particular behavior constitutes harassment, it's always best to err on the side of caution and refrain from engaging in it. If you experience or witness behavior you believe is harassment, please report it immediately to your manager, HR (contact HR at hr@companyemail.com), or utilize our anonymous ethics hotline at 1-800-ETHICS-LINE. We take all reports seriously and will investigate them thoroughly.",
+    "source": "HR Policy: code_of_conduct",
+    "generated": true,
+    "timestamp": "2025-08-11T10:18:08.928343"
+  },
+  {
+    "question": "What are some examples of \"unethical practices\" I should be aware of?",
+    "answer": "\"Unethical practices,\" as referenced in our Code of Conduct, encompass any behavior that violates our company's values, applicable laws, or generally accepted ethical standards. This can include, but is not limited to: fraud (e.g., falsifying time sheets or expense reports); theft of company property or assets; misuse of confidential information (including sharing with unauthorized individuals or using it for personal gain); conflicts of interest (e.g., engaging in activities that compete with the company or benefit personally from business relationships); bribery or kickbacks; insider trading; and any actions that violate our financial regulations. It also includes intentionally misleading clients or other employees. If you're ever unsure about whether a particular action is ethical, please consult with your manager or contact the Legal Department (legal@companyemail.com) for guidance. We expect all employees to uphold the highest ethical standards in their work.",
+    "source": "HR Policy: code_of_conduct",
+    "generated": true,
+    "timestamp": "2025-08-11T10:18:08.928343"
+  },
+  {
+    "question": "What happens if I witness a colleague engaging in what I believe is a violation of this Code of Conduct? Am I required to report it, and if so, how?",
+    "answer": "Yes, you are strongly encouraged to report any suspected violations of the Code of Conduct that you witness. We believe that maintaining a respectful and ethical workplace is a shared responsibility. Reporting potential violations allows us to address issues promptly and prevent further harm. You can report your concerns through several channels: directly to your manager, to the Human Resources department (hr@companyemail.com), or through our confidential ethics hotline at 1-800-ETHICS-LINE. When reporting, please provide as much detail as possible, including the names of individuals involved, the date and time of the incident, and a clear description of what you witnessed. We are committed to protecting individuals who report concerns in good faith from retaliation. All reports will be treated with confidentiality to the extent possible, consistent with the need to conduct a thorough investigation.",
+    "source": "HR Policy: code_of_conduct",
+    "generated": true,
+    "timestamp": "2025-08-11T10:18:08.928343"
+  },
+  {
+    "question": "What protections are in place to prevent retaliation if I report a violation of the Code of Conduct?",
+    "answer": "We have a strict \"zero tolerance\" policy against retaliation of any kind. This means that no employee will face negative consequences (such as demotion, termination, harassment, or any other form of adverse action) for reporting a suspected violation of the Code of Conduct in good faith. Good faith means that you honestly believe that a violation has occurred, even if it turns out after investigation that your belief was mistaken. Any employee who retaliates against someone for reporting a concern will be subject to disciplinary action, up to and including termination. If you believe you are experiencing retaliation for reporting a violation, you should immediately report it to HR (hr@companyemail.com) or the Legal Department (legal@companyemail.com). We will thoroughly investigate all claims of retaliation and take appropriate action to protect our employees.",
+    "source": "HR Policy: code_of_conduct",
+    "generated": true,
+    "timestamp": "2025-08-11T10:18:08.928343"
+  },
+  {
+    "question": "If I don't use all 20 days of my paid leave this year, can I carry them over to the next year?",
+    "answer": "Unfortunately, our current policy does not allow for the carry-over of unused paid leave days to the following year. Your 20 days are allocated for each calendar year (January 1st to December 31st). We encourage you to plan your leave in advance to utilize your full entitlement. If you have concerns about scheduling your leave due to workload or project deadlines, please discuss this with your manager as soon as possible to find a suitable solution. For more detailed information regarding policy exceptions, please refer to section 3.2 of the full Leave Policy document available on the HR portal, or contact the HR department directly at hr@companyemail.com or extension 1234.",
+    "source": "HR Policy: leave_policy",
+    "generated": true,
+    "timestamp": "2025-08-11T10:18:20.866418"
+  },
+  {
+    "question": "What qualifies as an \"emergency\" situation where I wouldn't need to submit my leave request 5 days in advance?",
+    "answer": "An \"emergency\" situation is defined as an unforeseen and unavoidable circumstance that necessitates immediate absence from work. This can include, but is not limited to, sudden illness of yourself or a dependent, a family emergency requiring immediate attention, or unexpected home repairs that pose a safety hazard. In the event of an emergency, you should notify your manager as soon as reasonably possible, even if it's after your shift has begun. Once the emergency has subsided, you will still need to submit a leave request through the standard channels, selecting the \"Emergency Leave\" option and providing a brief explanation. The HR department reserves the right to request documentation supporting the emergency, such as a doctor's note or repair invoice. If you are unsure if your situation qualifies as an emergency, please contact your manager or HR representative immediately.",
+    "source": "HR Policy: leave_policy",
+    "generated": true,
+    "timestamp": "2025-08-11T10:18:20.866418"
+  },
+  {
+    "question": "How do I submit a leave request? Is there a specific form or online system I need to use?",
+    "answer": "All leave requests must be submitted through our online HR system, accessible via the company intranet homepage under the \"Employee Resources\" section. Once logged in, navigate to the \"Leave Request\" tab and follow the on-screen instructions to complete the form. You will need to specify the dates of your requested leave, the type of leave (paid leave in this instance), and any relevant notes. Your manager will then receive an automated notification to approve or deny your request. You will receive an email confirmation once your request has been processed. A step-by-step guide on submitting leave requests, including screenshots, can be found on the HR portal under the \"How-To Guides\" section. If you experience any technical difficulties or require assistance with the online system, please contact the IT help desk at it_support@companyemail.com or extension 5678.",
+    "source": "HR Policy: leave_policy",
+    "generated": true,
+    "timestamp": "2025-08-11T10:18:20.866418"
+  },
+  {
+    "question": "Does the 20 days of paid leave include public holidays?",
+    "answer": "No, the 20 days of paid leave is separate from public holidays. Our company observes [list public holidays observed by the company]. These days are automatically granted as paid days off and do not count towards your 20 days of annual paid leave. The company calendar, available on the intranet, clearly marks all public holidays for the year.",
+    "source": "HR Policy: leave_policy",
+    "generated": true,
+    "timestamp": "2025-08-11T10:18:20.866418"
+  },
+  {
+    "question": "What exactly will be covered during the 2-week onboarding program? Is there a schedule I can see?",
+    "answer": "The 2-week onboarding program is designed to provide you with a comprehensive introduction to our company, your role, and our team. It includes three main components: Orientation, Training, and Team Introductions.\n*   **Orientation:** This will cover company history, culture, values, policies, and procedures. You'll learn about our mission, organizational structure, and resources available to you as an employee. We will also cover important administrative topics such as payroll, benefits enrollment, and IT setup.\n*   **Training:** This portion will focus on the specific skills and knowledge you need to succeed in your role. This may include software training, product knowledge, and department-specific processes. The specifics of the training will vary depending on your position.\n*   **Team Introductions:** You'll have the opportunity to meet with key members of your team and other departments you'll be working with. This will help you build relationships and understand how your role fits into the larger organization.\nA detailed schedule for your specific onboarding program will be provided to you by your manager on your first day. If you have not received it by the end of the day, please contact your manager directly or reach out to HR at hr@companyemail.com.",
+    "source": "HR Policy: onboarding",
+    "generated": true,
+    "timestamp": "2025-08-11T10:18:25.650611"
+  },
+  {
+    "question": "When do I get more information on benefits, and who do I contact if I have questions about them?",
+    "answer": "You will receive detailed information regarding your benefits package during the orientation portion of the onboarding program, which takes place during the first week. This will include information on medical, dental, vision, life insurance, 401k, and other available benefits. You will also receive instructions on how to enroll in benefits through our online portal.\nIf you have any questions regarding your benefits, please contact the HR Benefits team at benefits@companyemail.com or call us at 555-123-4567, extension 2. The Benefits team is your primary resource for questions regarding eligibility, enrollment, and coverage.",
+    "source": "HR Policy: onboarding",
+    "generated": true,
+    "timestamp": "2025-08-11T10:18:25.650611"
+  },
+  {
+    "question": "Who should I contact if I have any questions or concerns during the onboarding process?",
+    "answer": "Your primary point of contact during the onboarding process is your direct manager. They are best equipped to answer questions about your role, team, and day-to-day responsibilities.\nHowever, for any questions related to HR policies, benefits, or the onboarding program itself, you can always contact the HR department at hr@companyemail.com or call us at 555-123-4567, extension 1. We are here to support you and ensure you have a smooth and successful onboarding experience.",
+    "source": "HR Policy: onboarding",
+    "generated": true,
+    "timestamp": "2025-08-11T10:18:25.650611"
+  },
+  {
+    "question": "When exactly in June and December will my performance review take place? I need to plan accordingly.",
+    "answer": "The performance review period occurs twice a year, in June and December. While the exact dates can vary slightly to accommodate scheduling needs across departments, managers will typically schedule reviews during the *second* and *third* weeks of each month. Your manager will reach out to you directly at least two weeks in advance to propose a specific date and time for your review meeting. If you have any unavoidable scheduling conflicts, please discuss them with your manager as soon as possible.",
+    "source": "HR Policy: performance_review",
+    "generated": true,
+    "timestamp": "2025-08-11T10:18:30.185983"
+  },
+  {
+    "question": "What kind of goals will I be assessed on in my performance review?",
+    "answer": "During your performance review, you'll be assessed on your goal achievement, skill development, and overall contribution to the company. Goal achievement will be based on the objectives set at the beginning of the review period. Skill development will involve looking at how you've improved your existing skills and acquired new ones relevant to your role. Overall contribution assesses your impact on team projects, your willingness to collaborate, and how you embody our company values in your daily work. Prior to the review, consider your performance and collect any data or documentation that will support your achievements.",
+    "source": "HR Policy: performance_review",
+    "generated": true,
+    "timestamp": "2025-08-11T10:18:30.185983"
+  },
+  {
+    "question": "Will I receive a written copy of my performance review, and will I have the chance to respond to it?",
+    "answer": "Yes, absolutely. Following your performance review meeting, you will receive a written copy of your review via [HR system name]. You will have [Number] days to review the document. You are encouraged to provide your feedback, comments, and/or counterpoints directly within the system. Your manager will review your input and discuss it with you if necessary. This process is designed to be collaborative and ensure a fair and accurate reflection of your performance.",
+    "source": "HR Policy: performance_review",
+    "generated": true,
+    "timestamp": "2025-08-11T10:18:30.185983"
+  },
+  {
+    "question": "What happens if I disagree with something in my performance review? What's the process for addressing concerns?",
+    "answer": "We understand that disagreements may arise during the performance review process. If you disagree with any aspect of your review, the first step is to discuss your concerns directly with your manager. Open and honest communication is crucial. If, after discussing the issue with your manager, you still feel that your concerns haven't been adequately addressed, you can escalate the matter to the HR department. Please submit your concern in writing with supporting data to [HR email address] and our HR representative will contact you to determine the next steps.",
+    "source": "HR Policy: performance_review",
+    "generated": true,
+    "timestamp": "2025-08-11T10:18:30.185983"
+  },
+  {
+    "question": "What kind of expenses typically require pre-approval from my manager?",
+    "answer": "Generally, any expense that is outside of normal operating costs, exceeds your allocated budget (if applicable), or is considered non-standard for your role requires pre-approval. Examples include travel expenses (flights, hotels, rental cars), conference registrations, training courses, large client entertainment expenses (meals, events), purchase of equipment or software not provided by the company, and any other significant, non-routine business expense. To be safe, if you're unsure, always err on the side of caution and seek pre-approval before incurring the expense. Your manager can provide clarification and ensure the expense aligns with company policies and budget. You can also refer to the finance department's list of expenses requiring pre-approval, available on the company intranet under \"Finance Policies.\" If you are still unsure after referring to these sources, please contact the Finance Department at finance@company.com.",
+    "source": "HR Policy: reimbursement_policy",
+    "generated": true,
+    "timestamp": "2025-08-11T10:18:37.093178"
+  },
+  {
+    "question": "What qualifies as a \"proper receipt\" for reimbursement?",
+    "answer": "A proper receipt should be an original document (or a high-quality digital copy) that clearly shows the following:\n*   The name of the vendor or merchant.\n*   The date of purchase.\n*   A detailed breakdown of the items purchased (e.g., individual food items, not just \"meal\").\n*   The total amount paid.\n*   The form of payment used (if possible).\nCredit card statements alone are generally *not* sufficient as a receipt. For online purchases, a confirmation email or order summary that includes all the above information is usually acceptable. If you are missing a receipt, you must make an effort to obtain a duplicate from the vendor. If a duplicate is unavailable, contact the Finance Department at finance@company.com for guidance on alternative documentation requirements. Note that repeated failures to provide proper receipts may result in reimbursement denial.",
+    "source": "HR Policy: reimbursement_policy",
+    "generated": true,
+    "timestamp": "2025-08-11T10:18:37.093178"
+  },
+  {
+    "question": "What happens if I miss the 30-day deadline for submitting a claim?",
+    "answer": "While we understand that circumstances can sometimes prevent you from submitting your reimbursement claim within 30 days, it is crucial to adhere to the policy. Claims submitted after 30 days may be denied. If you have a legitimate reason for missing the deadline (e.g., extended leave, unforeseen circumstances), you should immediately contact your manager and the Finance Department at finance@company.com. Provide a written explanation for the delay and include all necessary documentation. Late submissions are reviewed on a case-by-case basis, and approval is not guaranteed. To avoid missing the deadline, we recommend submitting your claims as soon as possible after the expense is incurred. Consider using our automated expense tracking system (accessible through the company portal) to simplify the process and receive reminders.",
+    "source": "HR Policy: reimbursement_policy",
+    "generated": true,
+    "timestamp": "2025-08-11T10:18:37.093178"
+  },
+  {
+    "question": "Where do I submit my reimbursement claim and receipts?",
+    "answer": "All reimbursement claims and receipts should be submitted electronically through our expense management system, ExpenseWise. You can access ExpenseWise through the company intranet under \"Employee Resources.\" The system provides a step-by-step guide on how to submit your claims and upload your receipts. If you are a new employee or require a refresher on using ExpenseWise, training materials are available on the intranet, or you can attend a training session held weekly by the Finance Department. For technical assistance with ExpenseWise, please contact the IT Help Desk at it.helpdesk@company.com or extension 555-1212.",
+    "source": "HR Policy: reimbursement_policy",
+    "generated": true,
+    "timestamp": "2025-08-11T10:18:37.093178"
+  },
+  {
+    "question": "If my manager approves, are the 3 days of WFH flexible? Can I choose which days each week, or do I have to set a fixed schedule?",
+    "answer": "The flexibility of your 3 WFH days will depend on your manager and team's needs. Ideally, we aim for flexibility to accommodate personal appointments or specific project needs. However, your manager may require you to set a consistent schedule if it's necessary for team collaboration, meeting attendance, or client availability. Discuss your preferred schedule and any anticipated variations with your manager during the approval process. They will work with you to find a suitable arrangement that balances your needs with the team's requirements. If you have further questions or concerns after speaking with your manager, please contact HR at hr@companyemail.com.",
+    "source": "HR Policy: wfh_policy",
+    "generated": true,
+    "timestamp": "2025-08-11T10:18:43.839027"
+  },
+  {
+    "question": "What constitutes a \"secure and distraction-free workspace?\" Are there specific guidelines I need to follow to ensure I meet this requirement?",
+    "answer": "A secure and distraction-free workspace means ensuring that your work environment at home protects confidential information and allows you to focus on your tasks without interruption. This includes:\n*   **Confidentiality:** Safeguarding sensitive documents (physical and digital) from unauthorized access. This might involve using password-protected devices, shredding confidential papers, and avoiding discussing confidential information in shared spaces.\n*   **Data Security:** Maintaining a secure internet connection (using a strong password and enabling a firewall). Be cautious about using public Wi-Fi for work-related activities.\n*   **Ergonomics:** Setting up your workspace to promote good posture and prevent physical strain. This includes having a comfortable chair, a monitor at eye level, and a keyboard and mouse that are properly positioned.\n*   **Minimizing Distractions:** Reducing interruptions from family members, pets, or other sources. This might involve setting boundaries with household members and creating a dedicated workspace.\n*   **Company Equipment Security:** Keeping company-provided equipment (laptops, phones, etc.) secure and protected from damage or theft.\nWhile there is no single checklist, if you have specific concerns about your workspace, please consult the IT Security Policy document on the company intranet or contact IT support at it.support@companyemail.com for guidance. Your manager can also offer suggestions based on their experience.",
+    "source": "HR Policy: wfh_policy",
+    "generated": true,
+    "timestamp": "2025-08-11T10:18:43.839027"
+  },
+  {
+    "question": "Does the WFH policy cover expenses like increased internet usage or electricity bills?",
+    "answer": "Currently, the WFH policy does not provide reimbursement for increased internet usage, electricity bills, or other general home office expenses. The policy focuses on providing flexibility and does not include a stipend to offset these costs. This policy is periodically reviewed, and any changes will be communicated to all employees. If you have specific concerns about the financial impact of WFH, we encourage you to discuss them with your manager or contact HR at hr@companyemail.com for further information or to voice your feedback.",
+    "source": "HR Policy: wfh_policy",
+    "generated": true,
+    "timestamp": "2025-08-11T10:18:43.839027"
+  },
+  {
+    "question": "What happens if my role requires me to be on-site more than the allowed 2 days, even though my manager is willing to approve more WFH days?",
+    "answer": "The policy allows for a maximum of 3 WFH days per week. If your role necessitates more on-site presence due to project requirements, client meetings, or other factors, that takes precedence over the WFH allowance. If you and your manager believe that a change to on-site requirements is necessary, please contact HR at hr@companyemail.com. Together, you and your manager will need to discuss the necessary on-site requirements with HR. In this situation, we can work with your manager to create an addendum to the policy, or look at other possible accommodations.",
+    "source": "HR Policy: wfh_policy",
+    "generated": true,
+    "timestamp": "2025-08-11T10:18:43.839027"
+  },
+  {
+    "question": "What exactly is considered \"proper use\" of my assigned device?",
+    "answer": "\"Proper use\" encompasses several key aspects regarding your assigned device (laptop, phone, tablet, etc.). First, it means adhering to all company policies, including the Acceptable Use Policy, Data Security Policy, and any other relevant IT or HR guidelines. This includes, but is not limited to:\n*   **Security Practices:** Maintaining strong passwords, enabling multi-factor authentication when prompted, and avoiding suspicious links or downloads.\n*   **Data Protection:** Not storing sensitive company data on personal devices or unauthorized cloud storage services. Refraining from transmitting confidential information over unencrypted channels or to unauthorized individuals. Following data classification and handling procedures.\n*   **Software Compliance:** Using only licensed and approved software. Refraining from installing unauthorized software or making unauthorized changes to the device's operating system.\n*   **Appropriate Content:** Using the device for business purposes and avoiding accessing or transmitting offensive, discriminatory, or illegal content.\n*   **Physical Handling:** Handling the device with care to avoid physical damage. Storing it in a secure location when not in use. Not leaving the device unattended in public places.\nEssentially, \"proper use\" means using your assigned device responsibly, securely, and in a manner that protects company data and aligns with company policies. If you are unsure about any aspect of device usage, please contact the IT Help Desk at [IT Help Desk Phone Number] or email [IT Help Desk Email Address] for clarification.",
+    "source": "IT Policy: device_policy",
+    "generated": true,
+    "timestamp": "2025-08-11T10:18:58.287495"
+  },
+  {
+    "question": "What happens if I accidentally damage my assigned device? Am I responsible for the repair costs?",
+    "answer": "If you accidentally damage your assigned device, you should report the incident to the IT Help Desk immediately. Please provide a detailed description of how the damage occurred. We will assess the damage and determine the necessary repair or replacement options.\nRegarding financial responsibility, the following generally applies:\n*   **Accidental Damage:** In cases of accidental damage resulting from normal use (e.g., dropping the device, accidental spills), the company typically covers the repair or replacement costs. However, this is subject to review and may depend on the extent of the damage and the circumstances surrounding the incident. A deductible may apply depending on your role and device type.\n*   **Negligence or Intentional Damage:** If the damage is determined to be the result of negligence (e.g., reckless handling, failure to secure the device) or intentional damage, you may be held responsible for some or all of the repair or replacement costs.\n*   **Warranty Coverage:** We will first attempt to leverage any applicable warranty coverage to minimize costs.\nIt's crucial to report the damage promptly so we can assess the situation and take appropriate action. Failure to report damage promptly may impact the company's ability to utilize warranty coverage.\nPlease contact the IT Help Desk at [IT Help Desk Phone Number] or email [IT Help Desk Email Address] to report any device damage and discuss the situation further. Additionally, refer to the full IT Equipment Damage Policy document, available on the company intranet at [Link to IT Equipment Damage Policy].",
+    "source": "IT Policy: device_policy",
+    "generated": true,
+    "timestamp": "2025-08-11T10:18:58.287495"
+  },
+  {
+    "question": "What should I do *immediately* after reporting a lost or stolen device?",
+    "answer": "Upon discovering that your assigned device is lost or stolen, follow these immediate steps *after* you report the incident to the IT department (via phone at [IT Help Desk Phone Number] or email at [IT Help Desk Email Address]):\n1.  **Change Passwords:** Immediately change the passwords for all accounts you accessed on the device, including your company email, network login, and any other sensitive accounts. Focus on accounts containing company data or personal information.\n2.  **Contact Security (if applicable):** If the device contained highly sensitive or confidential data, or if the theft occurred under suspicious circumstances, also contact the Security department at [Security Department Phone Number].\n3.  **Remote Wipe/Lock:** The IT department will initiate a remote wipe or lock of the device to protect company data. Cooperate fully with IT's instructions to facilitate this process. Be prepared to provide any necessary information to verify your identity.\n4.  **File a Police Report (if stolen):** If the device was stolen, consider filing a police report. This may be required for insurance purposes or for company incident reporting. Provide a copy of the police report to the IT department.\n5.  **Monitor Accounts:** Keep a close watch on your bank accounts and credit card statements for any signs of unauthorized activity. If you notice anything suspicious, report it to your bank or credit card company immediately.\n6.  **Review Security Best Practices:** After the incident, take some time to review best practices for device security, such as password management, multi-factor authentication, and phishing awareness.\nActing quickly and decisively after reporting a lost or stolen device is essential to minimizing the potential damage. The IT department will guide you through the necessary steps, but taking these immediate actions on your own initiative can further protect company data and your personal information.",
+    "source": "IT Policy: device_policy",
+    "generated": true,
+    "timestamp": "2025-08-11T10:18:58.287495"
+  },
+  {
+    "question": "If I'm having a problem, how do I actually raise a ticket with the helpdesk?",
+    "answer": "To submit a helpdesk ticket for any IT-related issue, please access our helpdesk system through the company intranet at [Intranet Link to Helpdesk]. You'll need to log in with your standard company credentials. On the main page, you'll find a button or link labeled something like \"Submit a Ticket,\" \"Report an Issue,\" or \"New Request.\" Clicking this will take you to a form where you'll be prompted to provide a detailed description of your problem. The more specific you are with your description (e.g., include error messages, steps to reproduce the issue, specific software or hardware involved), the faster we can resolve it. Please also categorize the issue based on the categories given, and set a priority from low to urgent. If you are unable to access the helpdesk system, please call the IT Helpdesk directly at [Helpdesk Phone Number] for assistance with submitting your ticket.",
+    "source": "IT Policy: helpdesk_guide",
+    "generated": true,
+    "timestamp": "2025-08-11T10:19:04.306440"
+  },
+  {
+    "question": "What exactly counts as a \"standard issue\" where I can expect a 24-hour response?",
+    "answer": "Standard issues generally encompass common IT problems that have established solutions and don't require extensive investigation. Examples include password resets, printer connectivity problems, software installation requests (for approved software), email issues (e.g., access problems, sending/receiving errors), and general software or hardware malfunctions. Issues classified as non-standard might include complex system errors, network outages, data recovery requests, or issues requiring vendor support. When you submit your ticket, the system will attempt to categorize your issue. If you are unsure if an issue is standard, submit the ticket anyway with a detailed explanation. If the issue is not standard, we will update the priority and estimated response time accordingly. If you believe your issue has been incorrectly categorized and is causing undue delay, please call the IT Helpdesk at [Helpdesk Phone Number] and reference your ticket number.",
+    "source": "IT Policy: helpdesk_guide",
+    "generated": true,
+    "timestamp": "2025-08-11T10:19:04.306440"
+  },
+  {
+    "question": "What if I haven't heard back from IT within 24 hours for a standard issue? What should I do?",
+    "answer": "If you have not received a response to your helpdesk ticket for a standard issue within 24 hours (excluding weekends and holidays), please first check the helpdesk system to ensure that the ticket status is still \"Open\" or \"New.\" It's possible an update was added to the ticket or the ticket may have been resolved. If the ticket is still open and there have been no updates, you can follow up by:\n1. Adding a comment to the existing ticket in the helpdesk system, stating that you are checking on the status of your request. This will re-notify the IT team.\n2. Calling the IT Helpdesk directly at [Helpdesk Phone Number]. When you call, please have your ticket number ready so we can quickly locate your request and provide an update. Please note that responses may be delayed due to high ticket volume or unforeseen circumstances. We appreciate your patience.",
+    "source": "IT Policy: helpdesk_guide",
+    "generated": true,
+    "timestamp": "2025-08-11T10:19:04.306440"
+  },
+  {
+    "question": "I'm having trouble remembering a 12-character password with letters, numbers, and symbols. Do you have any tips for creating a strong password that I can also remember?",
+    "answer": "Creating a strong and memorable password can be tricky, but here are a few tips:\n*   **Use a Password Manager:** Consider using a password manager tool (like LastPass, 1Password, or Bitwarden). These tools can generate and securely store complex passwords for you, so you only need to remember one master password. We have a company-approved password manager available; please contact the IT Help Desk at extension 555-1212 or email at it.help@example.com for more information.\n*   **Create a Passphrase:** Think of a sentence that's easy for you to remember but not obvious to others. For example, \"I love to eat pizza on Fridays!\" Then, use the first letter of each word, replacing some letters with numbers or symbols. This could become \"IltEp0FnF!\" This is 12 characters, contains upper and lower case letters, and a number.\n*   **Use a Song Lyric or Book Quote:** Similar to a passphrase, use a line from a song or book you know well. Modify it slightly with numbers and symbols.\n*   **Avoid Personal Information:** Never use easily guessable information like your birthday, pet's name, address, or social security number.\n*   **Test Your Password Strength:** Several websites can check the strength of your password without revealing it. Search online for \"password strength checker.\"\nRemember, it's crucial to balance security and memorability. If you are still having issues, please reach out to the IT Help Desk at extension 555-1212 or email at it.help@example.com for personalized assistance.",
+    "source": "IT Policy: password_policy",
+    "generated": true,
+    "timestamp": "2025-08-11T10:19:12.685959"
+  },
+  {
+    "question": "I have to change my password every 90 days? Is there any way to get a reminder before the 90 days are up, so I don't forget?",
+    "answer": "Yes, the system is designed to provide reminders! Starting 14 days before your password expires, you will receive email notifications reminding you to change your password. These notifications will be sent to your company email address. Additionally, when you log in to your computer, a pop-up message will appear alerting you to the pending password expiration. Please ensure these email notifications are not filtered into your spam/junk folder. If you are not receiving reminders, please contact the IT Help Desk at extension 555-1212 or email at it.help@example.com to verify your email preferences and notification settings.",
+    "source": "IT Policy: password_policy",
+    "generated": true,
+    "timestamp": "2025-08-11T10:19:12.685959"
+  },
+  {
+    "question": "What happens if I forget my password or if I get locked out of my account?",
+    "answer": "If you forget your password or get locked out of your account due to multiple incorrect login attempts, you'll need to reset it. The fastest way is usually through the \"Forgot Password\" link on the login screen. This link will guide you through a verification process to confirm your identity, usually via your registered recovery email address or phone number. If you do not have a recovery email or phone number set up, or are still unable to reset your password, please contact the IT Help Desk immediately at extension 555-1212 or email at it.help@example.com. They will assist you in verifying your identity and resetting your password securely. Do *not* share your password reset link with anyone.",
+    "source": "IT Policy: password_policy",
+    "generated": true,
+    "timestamp": "2025-08-11T10:19:12.685959"
+  },
+  {
+    "question": "Can I reuse a password that I've used before, as long as it meets the current requirements (12 characters, letters, numbers, and symbols)?",
+    "answer": "No, you are **not** permitted to reuse passwords. To maintain security and prevent unauthorized access, our password policy prohibits the re-use of any previous passwords. The system is designed to prevent you from using any of your recent passwords. This ensures that if a password were to be compromised, it could not be used to access your account at a later date.",
+    "source": "IT Policy: password_policy",
+    "generated": true,
+    "timestamp": "2025-08-11T10:19:12.685959"
+  },
+  {
+    "question": "I often use my company email and applications on my personal phone. Does this password policy apply there as well?",
+    "answer": "Yes, the password policy applies to all company accounts, regardless of the device you are using. This includes your company email, any company applications accessed via your personal phone, laptops, desktops, tablets or any other device. It is very important to secure all points of access to company information. Please ensure that your personal devices also have strong passwords/passcodes enabled and are kept up-to-date with the latest security patches. If you have any questions or concerns about securing your personal device when accessing company resources, please contact the IT Help Desk at extension 555-1212 or email at it.help@example.com.",
+    "source": "IT Policy: password_policy",
+    "generated": true,
+    "timestamp": "2025-08-11T10:19:12.685959"
+  },
+  {
+    "question": "What happens if I install software without going through the IT helpdesk portal?",
+    "answer": "Installing software outside of the approved process outlined in the Software Request SOP, specifically without submitting a request through the IT helpdesk portal, is considered unauthorized software installation and is strictly prohibited. This is due to security risks, potential software conflicts, licensing compliance issues, and the need to maintain a consistent and supportable IT environment.\nPotential consequences of installing unauthorized software include:\n*   **Security Vulnerabilities:** Unauthorized software may contain malware or vulnerabilities that could compromise the security of your computer and the entire company network.\n*   **Software Conflicts:** New software might conflict with existing applications, causing instability or data loss.\n*   **Licensing Issues:** Installing software without proper licensing can result in legal repercussions for the company.\n*   **Lack of Support:** Unauthorized software will not be supported by the IT department, leaving you without assistance if you encounter problems.\n*   **Disciplinary Action:** Repeated violations of the software installation policy may result in disciplinary action, up to and including termination of employment.\nTo ensure compliance and maintain a secure and stable environment, please always submit your software requests through the IT helpdesk portal. If you are unsure if a program requires a request, it's always best to check with the IT helpdesk first.",
+    "source": "IT Policy: software_request_sop",
+    "generated": true,
+    "timestamp": "2025-08-11T10:19:20.085968"
+  },
+  {
+    "question": "Where exactly is the IT helpdesk portal and how do I submit a software request?",
+    "answer": "The IT helpdesk portal is your central point of contact for all IT-related requests, including software installations.\nYou can access the IT helpdesk portal through the following methods:\n*   **Direct Link:** [Insert Direct Link to the IT Helpdesk Portal Here - e.g., https://ithelpdesk.yourcompany.com]\n*   **Company Intranet:** The IT helpdesk portal link can also be found on the company intranet under the \"IT Support\" or \"Helpdesk\" section.\n*   **Desktop Icon:** You might also have a dedicated icon on your desktop for quick access to the portal.\nTo submit a software request:\n1.  **Access the Portal:** Open the IT helpdesk portal using one of the methods above.\n2.  **Log In:** Log in using your company credentials (username and password).\n3.  **Select \"Software Request\":** Look for a category or request type labeled \"Software Request\", \"New Software Installation\", or something similar.\n4.  **Provide Details:** Fill out the required information, including:\n*   The name of the software you need.\n*   The reason you need the software and how it will benefit your work.\n*   Your department or team.\n*   Any specific version requirements (if applicable).\n5.  **Submit the Request:** Once you have completed the form, submit your request.\nYou will receive a confirmation email with a ticket number. You can use this ticket number to track the progress of your request.\nIf you have any trouble accessing the portal or submitting your request, please contact the IT helpdesk directly at [Insert IT Helpdesk Phone Number Here] or email them at [Insert IT Helpdesk Email Address Here].",
+    "source": "IT Policy: software_request_sop",
+    "generated": true,
+    "timestamp": "2025-08-11T10:19:20.085968"
+  },
+  {
+    "question": "How long does it typically take for a software request to be approved and installed?",
+    "answer": "The time it takes for a software request to be approved and installed can vary depending on several factors, including:\n*   **Software Type:** Some software requires more extensive evaluation or security checks.\n*   **Licensing Availability:** We need to ensure proper licensing is available for the requested software.\n*   **IT Workload:** Current IT workload and the volume of incoming requests can influence the processing time.\n*   **Approval Requirements:** Some software requests may require approval from multiple departments or managers.\nWhile we strive to fulfill all requests as quickly as possible, a typical software request may take **2-5 business days** from submission to installation. Complex software or requests requiring special configurations might take longer.\nYou can track the status of your request through the IT helpdesk portal using your ticket number. If you have any concerns about the timeline of your request, please don't hesitate to contact the IT helpdesk at [Insert IT Helpdesk Phone Number Here] or email them at [Insert IT Helpdesk Email Address Here] with your ticket number for an update. We appreciate your patience.",
+    "source": "IT Policy: software_request_sop",
+    "generated": true,
+    "timestamp": "2025-08-11T10:19:20.085968"
+  },
+  {
+    "question": "I need a document",
+    "answer": "**Document Request System**\n\nSure! Please choose the type of document you need:\n\n📋 **Available Documents:**\n\n1. **Bonafide / Employment Verification Letter**\n2. **Experience Certificate**\n3. **Offer Letter Copy**\n4. **Appointment Letter Copy**\n5. **Promotion Letter**\n6. **Relieving Letter**\n7. **Salary Slips**\n8. **Form 16 / Tax Documents**\n9. **Salary Certificate**\n10. **PF Statement / UAN details**\n11. **No Objection Certificate (NOC)**\n12. **Non-Disclosure Agreement Copy**\n13. **ID Card Replacement**\n14. **Medical Insurance Card Copy**\n15. **Business Travel Authorization Letter**\n16. **Visa Support Letter**\n\n**📝 Instructions:** Please reply with the number (1-16) of the document you need."
+  },
+  {
+    "question": "document request",
+    "answer": "**Document Request System**\n\nSure! Please choose the type of document you need:\n\n📋 **Available Documents:**\n\n1. **Bonafide / Employment Verification Letter**\n2. **Experience Certificate**\n3. **Offer Letter Copy**\n4. **Appointment Letter Copy**\n5. **Promotion Letter**\n6. **Relieving Letter**\n7. **Salary Slips**\n8. **Form 16 / Tax Documents**\n9. **Salary Certificate**\n10. **PF Statement / UAN details**\n11. **No Objection Certificate (NOC)**\n12. **Non-Disclosure Agreement Copy**\n13. **ID Card Replacement**\n14. **Medical Insurance Card Copy**\n15. **Business Travel Authorization Letter**\n16. **Visa Support Letter**\n\n**📝 Instructions:** Please reply with the number (1-16) of the document you need."
+  },
+  {
+    "question": "request document",
+    "answer": "**Document Request System**\n\nSure! Please choose the type of document you need:\n\n📋 **Available Documents:**\n\n1. **Bonafide / Employment Verification Letter**\n2. **Experience Certificate**\n3. **Offer Letter Copy**\n4. **Appointment Letter Copy**\n5. **Promotion Letter**\n6. **Relieving Letter**\n7. **Salary Slips**\n8. **Form 16 / Tax Documents**\n9. **Salary Certificate**\n10. **PF Statement / UAN details**\n11. **No Objection Certificate (NOC)**\n12. **Non-Disclosure Agreement Copy**\n13. **ID Card Replacement**\n14. **Medical Insurance Card Copy**\n15. **Business Travel Authorization Letter**\n16. **Visa Support Letter**\n\n**📝 Instructions:** Please reply with the number (1-16) of the document you need."
+  },
+  {
+    "question": "get document",
+    "answer": "**Document Request System**\n\nSure! Please choose the type of document you need:\n\n📋 **Available Documents:**\n\n1. **Bonafide / Employment Verification Letter**\n2. **Experience Certificate**\n3. **Offer Letter Copy**\n4. **Appointment Letter Copy**\n5. **Promotion Letter**\n6. **Relieving Letter**\n7. **Salary Slips**\n8. **Form 16 / Tax Documents**\n9. **Salary Certificate**\n10. **PF Statement / UAN details**\n11. **No Objection Certificate (NOC)**\n12. **Non-Disclosure Agreement Copy**\n13. **ID Card Replacement**\n14. **Medical Insurance Card Copy**\n15. **Business Travel Authorization Letter**\n16. **Visa Support Letter**\n\n**📝 Instructions:** Please reply with the number (1-16) of the document you need."
+  },
+  {
+    "question": "need document",
+    "answer": "**Document Request System**\n\nSure! Please choose the type of document you need:\n\n📋 **Available Documents:**\n\n1. **Bonafide / Employment Verification Letter**\n2. **Experience Certificate**\n3. **Offer Letter Copy**\n4. **Appointment Letter Copy**\n5. **Promotion Letter**\n6. **Relieving Letter**\n7. **Salary Slips**\n8. **Form 16 / Tax Documents**\n9. **Salary Certificate**\n10. **PF Statement / UAN details**\n11. **No Objection Certificate (NOC)**\n12. **Non-Disclosure Agreement Copy**\n13. **ID Card Replacement**\n14. **Medical Insurance Card Copy**\n15. **Business Travel Authorization Letter**\n16. **Visa Support Letter**\n\n**📝 Instructions:** Please reply with the number (1-16) of the document you need."
+  }
+]

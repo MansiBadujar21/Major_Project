@@ -1,0 +1,4538 @@
+[
+  {
+    "emp_id": 1,
+    "full_name": "Devyani Suresh Deore",
+    "designation": "Brand Manager",
+    "department": "Marketing",
+    "joining_date": "02-11-2021",
+    "employee_code": "EMP0001",
+    "email": "deoredevayani26@gmail.com"
+  },
+  {
+    "emp_id": 2,
+    "full_name": "Ashwini Anil Nikumbh",
+    "designation": "Account Executive",
+    "department": "Finance",
+    "joining_date": "15-03-2022",
+    "employee_code": "EMP0002",
+    "email": "nikumbhashwini17@gmail.com"
+  },
+  {
+    "emp_id": 3,
+    "full_name": "Khushbu Arun Jain",
+    "designation": "HR Specialist",
+    "department": "Human Resources",
+    "joining_date": "28-06-2023",
+    "employee_code": "EMP0003",
+    "email": "jainkhushbu1810@gmail.com"
+  },
+  {
+    "emp_id": 4,
+    "full_name": "Mansi Anil Badgujar",
+    "designation": "Software Engineer",
+    "department": "IT",
+    "joining_date": "19-08-2020",
+    "employee_code": "EMP0004",
+    "email": "mansibadgujar99@gmail.com"
+  },
+  {
+    "emp_id": 5,
+    "full_name": "Nicholas Ortiz",
+    "designation": "Admin Officer",
+    "department": "Product",
+    "joining_date": "14-07-2021",
+    "employee_code": "EMP0005",
+    "email": "vjenkins@rios.com"
+  },
+  {
+    "emp_id": 6,
+    "full_name": "Randy Drake",
+    "designation": "Marketing Specialist",
+    "department": "Admin",
+    "joining_date": "26-12-2015",
+    "employee_code": "EMP0006",
+    "email": "harmstrong@mann.com"
+  },
+  {
+    "emp_id": 7,
+    "full_name": "Andrew Quinn",
+    "designation": "Product Manager",
+    "department": "Finance",
+    "joining_date": "12-10-2020",
+    "employee_code": "EMP0007",
+    "email": "bhill@moore.com"
+  },
+  {
+    "emp_id": 8,
+    "full_name": "Jason Diaz",
+    "designation": "Data Scientist",
+    "department": "Admin",
+    "joining_date": "20-06-2022",
+    "employee_code": "EMP0008",
+    "email": "jeremyross@duffy.com"
+  },
+  {
+    "emp_id": 9,
+    "full_name": "Nicole Martinez",
+    "designation": "Operations Coordinator",
+    "department": "Customer Support",
+    "joining_date": "14-06-2022",
+    "employee_code": "EMP0009",
+    "email": "michael21@yahoo.com"
+  },
+  {
+    "emp_id": 10,
+    "full_name": "Michelle Warner",
+    "designation": "Operations Coordinator",
+    "department": "Admin",
+    "joining_date": "13-06-2025",
+    "employee_code": "EMP0010",
+    "email": "iperkins@yahoo.com"
+  },
+  {
+    "emp_id": 11,
+    "full_name": "Christopher Espinoza",
+    "designation": "Marketing Specialist",
+    "department": "Admin",
+    "joining_date": "21-10-2022",
+    "employee_code": "EMP0011",
+    "email": "jessicahughes@clark-reyes.org"
+  },
+  {
+    "emp_id": 12,
+    "full_name": "Katherine Walker",
+    "designation": "Admin Officer",
+    "department": "Operations",
+    "joining_date": "31-12-2021",
+    "employee_code": "EMP0012",
+    "email": "karen49@garcia-bridges.org"
+  },
+  {
+    "emp_id": 13,
+    "full_name": "Jacob Dean",
+    "designation": "Product Manager",
+    "department": "Customer Support",
+    "joining_date": "12-04-2019",
+    "employee_code": "EMP0013",
+    "email": "angela64@bradley.info"
+  },
+  {
+    "emp_id": 14,
+    "full_name": "Monica Davidson",
+    "designation": "Admin Officer",
+    "department": "Admin",
+    "joining_date": "06-11-2018",
+    "employee_code": "EMP0014",
+    "email": "melissahebert@cole.com"
+  },
+  {
+    "emp_id": 15,
+    "full_name": "Johnathan Farley",
+    "designation": "Software Engineer",
+    "department": "Sales",
+    "joining_date": "13-06-2024",
+    "employee_code": "EMP0015",
+    "email": "aswanson@hotmail.com"
+  },
+  {
+    "emp_id": 16,
+    "full_name": "Ronnie Hardin",
+    "designation": "HR Manager",
+    "department": "Engineering",
+    "joining_date": "17-09-2017",
+    "employee_code": "EMP0016",
+    "email": "kevinrose@mcfarland-humphrey.com"
+  },
+  {
+    "emp_id": 17,
+    "full_name": "Steven Gilmore",
+    "designation": "Data Scientist",
+    "department": "Operations",
+    "joining_date": "03-10-2023",
+    "employee_code": "EMP0017",
+    "email": "ejones@hotmail.com"
+  },
+  {
+    "emp_id": 18,
+    "full_name": "Crystal Peterson",
+    "designation": "Admin Officer",
+    "department": "Marketing",
+    "joining_date": "05-09-2021",
+    "employee_code": "EMP0018",
+    "email": "hoffmancindy@diaz.com"
+  },
+  {
+    "emp_id": 19,
+    "full_name": "Theresa Mitchell",
+    "designation": "Software Engineer",
+    "department": "Customer Support",
+    "joining_date": "13-06-2018",
+    "employee_code": "EMP0019",
+    "email": "michele23@herrera-allen.com"
+  },
+  {
+    "emp_id": 20,
+    "full_name": "Danielle Torres",
+    "designation": "Product Manager",
+    "department": "Finance",
+    "joining_date": "24-06-2021",
+    "employee_code": "EMP0020",
+    "email": "mvance@sanders-moore.com"
+  },
+  {
+    "emp_id": 21,
+    "full_name": "Robert Hodges",
+    "designation": "Finance Executive",
+    "department": "Admin",
+    "joining_date": "05-07-2023",
+    "employee_code": "EMP0021",
+    "email": "joanrobbins@singh.com"
+  },
+  {
+    "emp_id": 22,
+    "full_name": "James Castillo",
+    "designation": "Data Scientist",
+    "department": "Customer Support",
+    "joining_date": "22-04-2016",
+    "employee_code": "EMP0022",
+    "email": "robertlawrence@yahoo.com"
+  },
+  {
+    "emp_id": 23,
+    "full_name": "Amanda Lee",
+    "designation": "Customer Support Executive",
+    "department": "Product",
+    "joining_date": "07-07-2020",
+    "employee_code": "EMP0023",
+    "email": "llucero@davis-hayes.com"
+  },
+  {
+    "emp_id": 24,
+    "full_name": "Hunter Jones",
+    "designation": "HR Manager",
+    "department": "Customer Support",
+    "joining_date": "13-11-2024",
+    "employee_code": "EMP0024",
+    "email": "mccallmitchell@gmail.com"
+  },
+  {
+    "emp_id": 25,
+    "full_name": "Karen Lee",
+    "designation": "Marketing Specialist",
+    "department": "Customer Support",
+    "joining_date": "20-12-2016",
+    "employee_code": "EMP0025",
+    "email": "gutierreztimothy@jacobs-horton.net"
+  },
+  {
+    "emp_id": 26,
+    "full_name": "Kristina Mcbride",
+    "designation": "Software Engineer",
+    "department": "Customer Support",
+    "joining_date": "26-10-2021",
+    "employee_code": "EMP0026",
+    "email": "schmidtmatthew@yahoo.com"
+  },
+  {
+    "emp_id": 27,
+    "full_name": "Richard Yates",
+    "designation": "Customer Support Executive",
+    "department": "Admin",
+    "joining_date": "22-07-2016",
+    "employee_code": "EMP0027",
+    "email": "jessicafuller@james-chase.com"
+  },
+  {
+    "emp_id": 28,
+    "full_name": "Nicole Contreras",
+    "designation": "HR Manager",
+    "department": "HR",
+    "joining_date": "21-08-2022",
+    "employee_code": "EMP0028",
+    "email": "malonecolleen@davis-cochran.org"
+  },
+  {
+    "emp_id": 29,
+    "full_name": "Molly Cole",
+    "designation": "Sales Manager",
+    "department": "Marketing",
+    "joining_date": "16-06-2023",
+    "employee_code": "EMP0029",
+    "email": "judyfitzgerald@yahoo.com"
+  },
+  {
+    "emp_id": 30,
+    "full_name": "Rachel Lopez",
+    "designation": "Software Engineer",
+    "department": "Engineering",
+    "joining_date": "24-07-2025",
+    "employee_code": "EMP0030",
+    "email": "orobinson@george.info"
+  },
+  {
+    "emp_id": 31,
+    "full_name": "Paul King",
+    "designation": "Marketing Specialist",
+    "department": "Admin",
+    "joining_date": "18-04-2022",
+    "employee_code": "EMP0031",
+    "email": "melinda59@hill.info"
+  },
+  {
+    "emp_id": 32,
+    "full_name": "Kyle Gonzalez",
+    "designation": "Data Scientist",
+    "department": "Product",
+    "joining_date": "19-11-2020",
+    "employee_code": "EMP0032",
+    "email": "mosborne@douglas-pena.com"
+  },
+  {
+    "emp_id": 33,
+    "full_name": "Melanie Clark",
+    "designation": "Data Scientist",
+    "department": "Product",
+    "joining_date": "23-03-2021",
+    "employee_code": "EMP0033",
+    "email": "smithchristina@ross-trujillo.com"
+  },
+  {
+    "emp_id": 34,
+    "full_name": "Virginia Richmond",
+    "designation": "HR Manager",
+    "department": "IT",
+    "joining_date": "08-02-2023",
+    "employee_code": "EMP0034",
+    "email": "vgarcia@hotmail.com"
+  },
+  {
+    "emp_id": 35,
+    "full_name": "Cassandra Torres",
+    "designation": "Customer Support Executive",
+    "department": "Engineering",
+    "joining_date": "16-05-2023",
+    "employee_code": "EMP0035",
+    "email": "robertthomas@gmail.com"
+  },
+  {
+    "emp_id": 36,
+    "full_name": "Joe Bennett",
+    "designation": "Data Scientist",
+    "department": "Finance",
+    "joining_date": "04-08-2018",
+    "employee_code": "EMP0036",
+    "email": "tina57@hotmail.com"
+  },
+  {
+    "emp_id": 37,
+    "full_name": "Misty Fernandez",
+    "designation": "HR Manager",
+    "department": "Sales",
+    "joining_date": "10-02-2022",
+    "employee_code": "EMP0037",
+    "email": "ashleycarlson@gilbert.com"
+  },
+  {
+    "emp_id": 38,
+    "full_name": "Deborah Ford",
+    "designation": "Operations Coordinator",
+    "department": "Admin",
+    "joining_date": "30-12-2018",
+    "employee_code": "EMP0038",
+    "email": "xgarrett@henderson-armstrong.org"
+  },
+  {
+    "emp_id": 39,
+    "full_name": "Peggy Vargas",
+    "designation": "Operations Coordinator",
+    "department": "Engineering",
+    "joining_date": "05-11-2020",
+    "employee_code": "EMP0039",
+    "email": "cfoster@russell.com"
+  },
+  {
+    "emp_id": 40,
+    "full_name": "Lori Rodriguez",
+    "designation": "Sales Manager",
+    "department": "HR",
+    "joining_date": "06-10-2021",
+    "employee_code": "EMP0040",
+    "email": "kylepatterson@yahoo.com"
+  },
+  {
+    "emp_id": 41,
+    "full_name": "Jessica Miller",
+    "designation": "Data Scientist",
+    "department": "Operations",
+    "joining_date": "23-03-2016",
+    "employee_code": "EMP0041",
+    "email": "olsonchristy@gmail.com"
+  },
+  {
+    "emp_id": 42,
+    "full_name": "Maria Henson",
+    "designation": "Customer Support Executive",
+    "department": "Product",
+    "joining_date": "29-07-2023",
+    "employee_code": "EMP0042",
+    "email": "shannon56@yahoo.com"
+  },
+  {
+    "emp_id": 43,
+    "full_name": "Laura Moreno",
+    "designation": "HR Manager",
+    "department": "Sales",
+    "joining_date": "21-01-2019",
+    "employee_code": "EMP0043",
+    "email": "owright@allen.com"
+  },
+  {
+    "emp_id": 44,
+    "full_name": "Dylan Sanchez",
+    "designation": "Admin Officer",
+    "department": "HR",
+    "joining_date": "01-05-2023",
+    "employee_code": "EMP0044",
+    "email": "thomas23@gmail.com"
+  },
+  {
+    "emp_id": 45,
+    "full_name": "Michelle Parker",
+    "designation": "Product Manager",
+    "department": "Sales",
+    "joining_date": "01-04-2020",
+    "employee_code": "EMP0045",
+    "email": "macdonaldsamuel@hotmail.com"
+  },
+  {
+    "emp_id": 46,
+    "full_name": "Stephen Hull",
+    "designation": "Software Engineer",
+    "department": "Marketing",
+    "joining_date": "13-05-2021",
+    "employee_code": "EMP0046",
+    "email": "uwilliams@jones.biz"
+  },
+  {
+    "emp_id": 47,
+    "full_name": "Jennifer Williams",
+    "designation": "Product Manager",
+    "department": "Sales",
+    "joining_date": "14-11-2020",
+    "employee_code": "EMP0047",
+    "email": "vrivera@orr-gomez.com"
+  },
+  {
+    "emp_id": 48,
+    "full_name": "David Mclean",
+    "designation": "Data Scientist",
+    "department": "Product",
+    "joining_date": "22-04-2024",
+    "employee_code": "EMP0048",
+    "email": "njensen@yahoo.com"
+  },
+  {
+    "emp_id": 49,
+    "full_name": "Shelia Chen",
+    "designation": "Data Scientist",
+    "department": "Product",
+    "joining_date": "06-12-2018",
+    "employee_code": "EMP0049",
+    "email": "shanebishop@gmail.com"
+  },
+  {
+    "emp_id": 50,
+    "full_name": "Deborah Walker",
+    "designation": "Data Scientist",
+    "department": "Product",
+    "joining_date": "12-01-2024",
+    "employee_code": "EMP0050",
+    "email": "brianryan@gmail.com"
+  },
+  {
+    "emp_id": 51,
+    "full_name": "Amanda Melton",
+    "designation": "Sales Manager",
+    "department": "IT",
+    "joining_date": "03-11-2020",
+    "employee_code": "EMP0051",
+    "email": "clarkehannah@stevenson-smith.biz"
+  },
+  {
+    "emp_id": 52,
+    "full_name": "Gabriel Walker",
+    "designation": "Finance Executive",
+    "department": "IT",
+    "joining_date": "14-12-2018",
+    "employee_code": "EMP0052",
+    "email": "hallcraig@yahoo.com"
+  },
+  {
+    "emp_id": 53,
+    "full_name": "Ashley Morrison",
+    "designation": "Marketing Specialist",
+    "department": "Marketing",
+    "joining_date": "20-07-2023",
+    "employee_code": "EMP0053",
+    "email": "jevans@gmail.com"
+  },
+  {
+    "emp_id": 54,
+    "full_name": "Tamara Brown",
+    "designation": "Finance Executive",
+    "department": "Operations",
+    "joining_date": "01-04-2023",
+    "employee_code": "EMP0054",
+    "email": "amymills@waters.com"
+  },
+  {
+    "emp_id": 55,
+    "full_name": "Mrs. Angela Ryan",
+    "designation": "Software Engineer",
+    "department": "Operations",
+    "joining_date": "02-09-2015",
+    "employee_code": "EMP0055",
+    "email": "johnsonemily@gmail.com"
+  },
+  {
+    "emp_id": 56,
+    "full_name": "Ricardo Lopez",
+    "designation": "Sales Manager",
+    "department": "Operations",
+    "joining_date": "08-01-2023",
+    "employee_code": "EMP0056",
+    "email": "benjamin35@gmail.com"
+  },
+  {
+    "emp_id": 57,
+    "full_name": "Jennifer Ortega",
+    "designation": "Admin Officer",
+    "department": "HR",
+    "joining_date": "12-05-2018",
+    "employee_code": "EMP0057",
+    "email": "wjones@brown-mathis.biz"
+  },
+  {
+    "emp_id": 58,
+    "full_name": "Christine Ward",
+    "designation": "Admin Officer",
+    "department": "HR",
+    "joining_date": "08-01-2016",
+    "employee_code": "EMP0058",
+    "email": "phall@estrada.com"
+  },
+  {
+    "emp_id": 59,
+    "full_name": "Michael Watson DDS",
+    "designation": "Operations Coordinator",
+    "department": "Admin",
+    "joining_date": "13-12-2019",
+    "employee_code": "EMP0059",
+    "email": "khart@brown-gibson.com"
+  },
+  {
+    "emp_id": 60,
+    "full_name": "Cynthia Carrillo",
+    "designation": "Product Manager",
+    "department": "Customer Support",
+    "joining_date": "02-09-2024",
+    "employee_code": "EMP0060",
+    "email": "mallen@hotmail.com"
+  },
+  {
+    "emp_id": 61,
+    "full_name": "Christian Brown",
+    "designation": "HR Manager",
+    "department": "Operations",
+    "joining_date": "20-11-2019",
+    "employee_code": "EMP0061",
+    "email": "hcarr@gmail.com"
+  },
+  {
+    "emp_id": 62,
+    "full_name": "Melissa Patel",
+    "designation": "HR Manager",
+    "department": "HR",
+    "joining_date": "14-05-2022",
+    "employee_code": "EMP0062",
+    "email": "robert46@kim.com"
+  },
+  {
+    "emp_id": 63,
+    "full_name": "John Gibson",
+    "designation": "Operations Coordinator",
+    "department": "Engineering",
+    "joining_date": "14-01-2025",
+    "employee_code": "EMP0063",
+    "email": "rhondamills@livingston-malone.org"
+  },
+  {
+    "emp_id": 64,
+    "full_name": "Peter Brown",
+    "designation": "Operations Coordinator",
+    "department": "HR",
+    "joining_date": "30-04-2017",
+    "employee_code": "EMP0064",
+    "email": "douglasgarcia@hotmail.com"
+  },
+  {
+    "emp_id": 65,
+    "full_name": "Matthew Marsh",
+    "designation": "Data Scientist",
+    "department": "Product",
+    "joining_date": "08-01-2025",
+    "employee_code": "EMP0065",
+    "email": "ysimmons@valencia-spencer.com"
+  },
+  {
+    "emp_id": 66,
+    "full_name": "Lisa Hughes",
+    "designation": "Marketing Specialist",
+    "department": "Marketing",
+    "joining_date": "04-07-2017",
+    "employee_code": "EMP0066",
+    "email": "william01@hotmail.com"
+  },
+  {
+    "emp_id": 67,
+    "full_name": "Micheal Frye",
+    "designation": "HR Manager",
+    "department": "HR",
+    "joining_date": "12-08-2023",
+    "employee_code": "EMP0067",
+    "email": "michael21@gmail.com"
+  },
+  {
+    "emp_id": 68,
+    "full_name": "Destiny Rodriguez",
+    "designation": "HR Manager",
+    "department": "Product",
+    "joining_date": "23-12-2015",
+    "employee_code": "EMP0068",
+    "email": "christine09@gmail.com"
+  },
+  {
+    "emp_id": 69,
+    "full_name": "Ashley Powell",
+    "designation": "Customer Support Executive",
+    "department": "HR",
+    "joining_date": "26-02-2020",
+    "employee_code": "EMP0069",
+    "email": "jessica41@doyle-ellis.net"
+  },
+  {
+    "emp_id": 70,
+    "full_name": "Shirley Jones",
+    "designation": "Finance Executive",
+    "department": "HR",
+    "joining_date": "01-07-2018",
+    "employee_code": "EMP0070",
+    "email": "kyle32@gmail.com"
+  },
+  {
+    "emp_id": 71,
+    "full_name": "Samuel Williams",
+    "designation": "Product Manager",
+    "department": "Admin",
+    "joining_date": "31-12-2021",
+    "employee_code": "EMP0071",
+    "email": "jhughes@hotmail.com"
+  },
+  {
+    "emp_id": 72,
+    "full_name": "Anna Hawkins",
+    "designation": "Finance Executive",
+    "department": "Engineering",
+    "joining_date": "21-03-2023",
+    "employee_code": "EMP0072",
+    "email": "webbtanya@hotmail.com"
+  },
+  {
+    "emp_id": 73,
+    "full_name": "Abigail West",
+    "designation": "Product Manager",
+    "department": "Finance",
+    "joining_date": "19-03-2024",
+    "employee_code": "EMP0073",
+    "email": "charlesdavis@hamilton.com"
+  },
+  {
+    "emp_id": 74,
+    "full_name": "Mr. Billy Owens",
+    "designation": "Operations Coordinator",
+    "department": "IT",
+    "joining_date": "01-04-2023",
+    "employee_code": "EMP0074",
+    "email": "petersondarryl@yahoo.com"
+  },
+  {
+    "emp_id": 75,
+    "full_name": "Amy Silva",
+    "designation": "Sales Manager",
+    "department": "Product",
+    "joining_date": "04-06-2022",
+    "employee_code": "EMP0075",
+    "email": "david61@gmail.com"
+  },
+  {
+    "emp_id": 76,
+    "full_name": "Paige Mclean",
+    "designation": "Customer Support Executive",
+    "department": "IT",
+    "joining_date": "30-07-2016",
+    "employee_code": "EMP0076",
+    "email": "cynthia76@gmail.com"
+  },
+  {
+    "emp_id": 77,
+    "full_name": "Dana Hull",
+    "designation": "Data Scientist",
+    "department": "Operations",
+    "joining_date": "15-07-2017",
+    "employee_code": "EMP0077",
+    "email": "moralesrobert@newton.org"
+  },
+  {
+    "emp_id": 78,
+    "full_name": "Lori Hunter",
+    "designation": "Data Scientist",
+    "department": "Sales",
+    "joining_date": "10-10-2022",
+    "employee_code": "EMP0078",
+    "email": "williamskristin@gordon-chambers.com"
+  },
+  {
+    "emp_id": 79,
+    "full_name": "James Davis",
+    "designation": "Marketing Specialist",
+    "department": "Admin",
+    "joining_date": "10-09-2015",
+    "employee_code": "EMP0079",
+    "email": "wellsian@clark.net"
+  },
+  {
+    "emp_id": 80,
+    "full_name": "Robert Moss",
+    "designation": "Data Scientist",
+    "department": "HR",
+    "joining_date": "10-06-2025",
+    "employee_code": "EMP0080",
+    "email": "linda66@hotmail.com"
+  },
+  {
+    "emp_id": 81,
+    "full_name": "Deanna Wilson DDS",
+    "designation": "Software Engineer",
+    "department": "Operations",
+    "joining_date": "14-02-2024",
+    "employee_code": "EMP0081",
+    "email": "mary30@gmail.com"
+  },
+  {
+    "emp_id": 82,
+    "full_name": "Edward Green",
+    "designation": "Customer Support Executive",
+    "department": "Admin",
+    "joining_date": "27-07-2022",
+    "employee_code": "EMP0082",
+    "email": "adillon@allen.com"
+  },
+  {
+    "emp_id": 83,
+    "full_name": "Melanie Eaton DVM",
+    "designation": "Data Scientist",
+    "department": "Finance",
+    "joining_date": "11-04-2021",
+    "employee_code": "EMP0083",
+    "email": "jeffrey33@martinez.com"
+  },
+  {
+    "emp_id": 84,
+    "full_name": "Cynthia Campbell",
+    "designation": "Operations Coordinator",
+    "department": "Customer Support",
+    "joining_date": "31-03-2024",
+    "employee_code": "EMP0084",
+    "email": "corey37@gmail.com"
+  },
+  {
+    "emp_id": 85,
+    "full_name": "Christopher Fuller",
+    "designation": "Admin Officer",
+    "department": "Marketing",
+    "joining_date": "18-11-2015",
+    "employee_code": "EMP0085",
+    "email": "ericaphillips@yahoo.com"
+  },
+  {
+    "emp_id": 86,
+    "full_name": "Eileen Rodriguez",
+    "designation": "Data Scientist",
+    "department": "IT",
+    "joining_date": "27-05-2021",
+    "employee_code": "EMP0086",
+    "email": "parkerjames@booker-hunter.org"
+  },
+  {
+    "emp_id": 87,
+    "full_name": "Nathan Moyer",
+    "designation": "Finance Executive",
+    "department": "Marketing",
+    "joining_date": "03-09-2018",
+    "employee_code": "EMP0087",
+    "email": "jamesjulie@hotmail.com"
+  },
+  {
+    "emp_id": 88,
+    "full_name": "Nancy Gibson",
+    "designation": "Marketing Specialist",
+    "department": "Finance",
+    "joining_date": "20-02-2022",
+    "employee_code": "EMP0088",
+    "email": "charles33@kim.com"
+  },
+  {
+    "emp_id": 89,
+    "full_name": "Amanda Riley",
+    "designation": "Operations Coordinator",
+    "department": "Finance",
+    "joining_date": "04-03-2020",
+    "employee_code": "EMP0089",
+    "email": "michael80@acosta-anderson.org"
+  },
+  {
+    "emp_id": 90,
+    "full_name": "Taylor Yates",
+    "designation": "Operations Coordinator",
+    "department": "Sales",
+    "joining_date": "09-09-2021",
+    "employee_code": "EMP0090",
+    "email": "cantrellrachel@hotmail.com"
+  },
+  {
+    "emp_id": 91,
+    "full_name": "Cathy Bryan",
+    "designation": "Operations Coordinator",
+    "department": "Finance",
+    "joining_date": "09-08-2024",
+    "employee_code": "EMP0091",
+    "email": "jimmiller@gmail.com"
+  },
+  {
+    "emp_id": 92,
+    "full_name": "Aaron Martinez",
+    "designation": "Customer Support Executive",
+    "department": "Admin",
+    "joining_date": "17-08-2019",
+    "employee_code": "EMP0092",
+    "email": "jhorton@yahoo.com"
+  },
+  {
+    "emp_id": 93,
+    "full_name": "Laura Rosario",
+    "designation": "Customer Support Executive",
+    "department": "Operations",
+    "joining_date": "11-01-2017",
+    "employee_code": "EMP0093",
+    "email": "anthony32@george.org"
+  },
+  {
+    "emp_id": 94,
+    "full_name": "Jonathan Elliott",
+    "designation": "Sales Manager",
+    "department": "HR",
+    "joining_date": "03-06-2019",
+    "employee_code": "EMP0094",
+    "email": "xsantos@miller.com"
+  },
+  {
+    "emp_id": 95,
+    "full_name": "Kelly Valencia",
+    "designation": "Admin Officer",
+    "department": "Marketing",
+    "joining_date": "18-03-2021",
+    "employee_code": "EMP0095",
+    "email": "smithkimberly@gmail.com"
+  },
+  {
+    "emp_id": 96,
+    "full_name": "Karen Saunders",
+    "designation": "Marketing Specialist",
+    "department": "Sales",
+    "joining_date": "25-09-2020",
+    "employee_code": "EMP0096",
+    "email": "ujohnson@hotmail.com"
+  },
+  {
+    "emp_id": 97,
+    "full_name": "Matthew Lutz",
+    "designation": "Software Engineer",
+    "department": "Admin",
+    "joining_date": "19-12-2020",
+    "employee_code": "EMP0097",
+    "email": "sharonruiz@gmail.com"
+  },
+  {
+    "emp_id": 98,
+    "full_name": "Nicole Wong",
+    "designation": "HR Manager",
+    "department": "Engineering",
+    "joining_date": "07-10-2015",
+    "employee_code": "EMP0098",
+    "email": "william49@gmail.com"
+  },
+  {
+    "emp_id": 99,
+    "full_name": "James Smith",
+    "designation": "Operations Coordinator",
+    "department": "HR",
+    "joining_date": "06-04-2018",
+    "employee_code": "EMP0099",
+    "email": "ewallace@hotmail.com"
+  },
+  {
+    "emp_id": 100,
+    "full_name": "Lindsey Green",
+    "designation": "Software Engineer",
+    "department": "Finance",
+    "joining_date": "23-06-2018",
+    "employee_code": "EMP0100",
+    "email": "brandi70@yahoo.com"
+  },
+  {
+    "emp_id": 101,
+    "full_name": "Billy Pearson",
+    "designation": "Finance Executive",
+    "department": "Finance",
+    "joining_date": "04-09-2023",
+    "employee_code": "EMP0101",
+    "email": "anna52@hardy.net"
+  },
+  {
+    "emp_id": 102,
+    "full_name": "Evan Collins",
+    "designation": "Software Engineer",
+    "department": "Sales",
+    "joining_date": "11-12-2019",
+    "employee_code": "EMP0102",
+    "email": "hicksethan@yahoo.com"
+  },
+  {
+    "emp_id": 103,
+    "full_name": "Daniel Marks",
+    "designation": "Finance Executive",
+    "department": "Customer Support",
+    "joining_date": "25-08-2018",
+    "employee_code": "EMP0103",
+    "email": "beckerdiana@yahoo.com"
+  },
+  {
+    "emp_id": 104,
+    "full_name": "Theodore Clayton",
+    "designation": "Software Engineer",
+    "department": "Engineering",
+    "joining_date": "23-08-2023",
+    "employee_code": "EMP0104",
+    "email": "elizabethjohnson@morales.info"
+  },
+  {
+    "emp_id": 105,
+    "full_name": "Regina Mitchell",
+    "designation": "Finance Executive",
+    "department": "Marketing",
+    "joining_date": "15-07-2024",
+    "employee_code": "EMP0105",
+    "email": "barbara28@yahoo.com"
+  },
+  {
+    "emp_id": 106,
+    "full_name": "Brianna Stewart",
+    "designation": "HR Manager",
+    "department": "Customer Support",
+    "joining_date": "24-07-2017",
+    "employee_code": "EMP0106",
+    "email": "yangnicole@hotmail.com"
+  },
+  {
+    "emp_id": 107,
+    "full_name": "Heidi Patterson",
+    "designation": "Operations Coordinator",
+    "department": "Sales",
+    "joining_date": "26-01-2024",
+    "employee_code": "EMP0107",
+    "email": "sabrinascott@skinner.com"
+  },
+  {
+    "emp_id": 108,
+    "full_name": "Logan Richardson",
+    "designation": "Product Manager",
+    "department": "Marketing",
+    "joining_date": "30-09-2020",
+    "employee_code": "EMP0108",
+    "email": "thomasmitchell@may.com"
+  },
+  {
+    "emp_id": 109,
+    "full_name": "Zachary Preston",
+    "designation": "Software Engineer",
+    "department": "Marketing",
+    "joining_date": "30-01-2023",
+    "employee_code": "EMP0109",
+    "email": "wbaldwin@hotmail.com"
+  },
+  {
+    "emp_id": 110,
+    "full_name": "Christina Compton",
+    "designation": "Operations Coordinator",
+    "department": "Engineering",
+    "joining_date": "04-08-2018",
+    "employee_code": "EMP0110",
+    "email": "kristihughes@hotmail.com"
+  },
+  {
+    "emp_id": 111,
+    "full_name": "Vickie Hansen",
+    "designation": "Operations Coordinator",
+    "department": "Customer Support",
+    "joining_date": "21-01-2025",
+    "employee_code": "EMP0111",
+    "email": "amystrickland@gmail.com"
+  },
+  {
+    "emp_id": 112,
+    "full_name": "Mark Mann",
+    "designation": "Sales Manager",
+    "department": "Admin",
+    "joining_date": "05-01-2025",
+    "employee_code": "EMP0112",
+    "email": "eric22@craig-harvey.org"
+  },
+  {
+    "emp_id": 113,
+    "full_name": "Stephanie Gibbs",
+    "designation": "Sales Manager",
+    "department": "HR",
+    "joining_date": "01-06-2018",
+    "employee_code": "EMP0113",
+    "email": "robert94@weber-phillips.com"
+  },
+  {
+    "emp_id": 114,
+    "full_name": "Michael Lane",
+    "designation": "HR Manager",
+    "department": "HR",
+    "joining_date": "20-05-2023",
+    "employee_code": "EMP0114",
+    "email": "gwilliams@taylor-patel.info"
+  },
+  {
+    "emp_id": 115,
+    "full_name": "Stacy Maxwell",
+    "designation": "Product Manager",
+    "department": "Finance",
+    "joining_date": "26-04-2018",
+    "employee_code": "EMP0115",
+    "email": "changalyssa@hotmail.com"
+  },
+  {
+    "emp_id": 116,
+    "full_name": "Ashley Dunlap",
+    "designation": "Sales Manager",
+    "department": "IT",
+    "joining_date": "05-11-2016",
+    "employee_code": "EMP0116",
+    "email": "tbriggs@yahoo.com"
+  },
+  {
+    "emp_id": 117,
+    "full_name": "Andrea Scott",
+    "designation": "Product Manager",
+    "department": "Customer Support",
+    "joining_date": "27-01-2021",
+    "employee_code": "EMP0117",
+    "email": "hillrobert@gmail.com"
+  },
+  {
+    "emp_id": 118,
+    "full_name": "Adam Figueroa",
+    "designation": "HR Manager",
+    "department": "Marketing",
+    "joining_date": "23-02-2023",
+    "employee_code": "EMP0118",
+    "email": "toddnelson@yahoo.com"
+  },
+  {
+    "emp_id": 119,
+    "full_name": "Michael Mcgee",
+    "designation": "Software Engineer",
+    "department": "Customer Support",
+    "joining_date": "05-04-2019",
+    "employee_code": "EMP0119",
+    "email": "hjordan@townsend.com"
+  },
+  {
+    "emp_id": 120,
+    "full_name": "Crystal Martinez",
+    "designation": "Product Manager",
+    "department": "Marketing",
+    "joining_date": "03-10-2024",
+    "employee_code": "EMP0120",
+    "email": "cmason@brown-pierce.com"
+  },
+  {
+    "emp_id": 121,
+    "full_name": "Dr. James Andrews",
+    "designation": "HR Manager",
+    "department": "IT",
+    "joining_date": "23-03-2024",
+    "employee_code": "EMP0121",
+    "email": "tranian@pena.net"
+  },
+  {
+    "emp_id": 122,
+    "full_name": "Jeffrey Carlson",
+    "designation": "Software Engineer",
+    "department": "Operations",
+    "joining_date": "27-08-2018",
+    "employee_code": "EMP0122",
+    "email": "fisherjeff@jones.com"
+  },
+  {
+    "emp_id": 123,
+    "full_name": "Michelle Bradley",
+    "designation": "Data Scientist",
+    "department": "Finance",
+    "joining_date": "13-10-2018",
+    "employee_code": "EMP0123",
+    "email": "nataliepatterson@riddle-hoffman.com"
+  },
+  {
+    "emp_id": 124,
+    "full_name": "Scott Wilson",
+    "designation": "Sales Manager",
+    "department": "Customer Support",
+    "joining_date": "27-05-2021",
+    "employee_code": "EMP0124",
+    "email": "johnsonmaria@hotmail.com"
+  },
+  {
+    "emp_id": 125,
+    "full_name": "Kathy Francis",
+    "designation": "Software Engineer",
+    "department": "Marketing",
+    "joining_date": "14-03-2025",
+    "employee_code": "EMP0125",
+    "email": "tayloranthony@wagner.info"
+  },
+  {
+    "emp_id": 126,
+    "full_name": "Ryan Ruiz",
+    "designation": "Software Engineer",
+    "department": "Finance",
+    "joining_date": "04-11-2015",
+    "employee_code": "EMP0126",
+    "email": "wilsonwendy@garcia-white.com"
+  },
+  {
+    "emp_id": 127,
+    "full_name": "Jeffrey Collins MD",
+    "designation": "Marketing Specialist",
+    "department": "Sales",
+    "joining_date": "02-03-2019",
+    "employee_code": "EMP0127",
+    "email": "megan86@yahoo.com"
+  },
+  {
+    "emp_id": 128,
+    "full_name": "Natalie Crane",
+    "designation": "Product Manager",
+    "department": "IT",
+    "joining_date": "13-08-2016",
+    "employee_code": "EMP0128",
+    "email": "bryantgreg@gmail.com"
+  },
+  {
+    "emp_id": 129,
+    "full_name": "Nicholas Cook",
+    "designation": "HR Manager",
+    "department": "Finance",
+    "joining_date": "01-10-2021",
+    "employee_code": "EMP0129",
+    "email": "lisa53@flores.info"
+  },
+  {
+    "emp_id": 130,
+    "full_name": "Joseph Saunders",
+    "designation": "HR Manager",
+    "department": "Customer Support",
+    "joining_date": "14-11-2024",
+    "employee_code": "EMP0130",
+    "email": "melissa09@cain.com"
+  },
+  {
+    "emp_id": 131,
+    "full_name": "Todd Kelly",
+    "designation": "Admin Officer",
+    "department": "Customer Support",
+    "joining_date": "04-04-2016",
+    "employee_code": "EMP0131",
+    "email": "felicia62@gmail.com"
+  },
+  {
+    "emp_id": 132,
+    "full_name": "David Harrington",
+    "designation": "Product Manager",
+    "department": "IT",
+    "joining_date": "17-09-2016",
+    "employee_code": "EMP0132",
+    "email": "brianbrooks@hotmail.com"
+  },
+  {
+    "emp_id": 133,
+    "full_name": "Meagan Henderson",
+    "designation": "Admin Officer",
+    "department": "Marketing",
+    "joining_date": "27-11-2016",
+    "employee_code": "EMP0133",
+    "email": "karen39@sanders-soto.com"
+  },
+  {
+    "emp_id": 134,
+    "full_name": "Ann Melendez",
+    "designation": "Sales Manager",
+    "department": "IT",
+    "joining_date": "09-07-2021",
+    "employee_code": "EMP0134",
+    "email": "christophercoleman@marquez.com"
+  },
+  {
+    "emp_id": 135,
+    "full_name": "April Frey",
+    "designation": "HR Manager",
+    "department": "IT",
+    "joining_date": "12-06-2020",
+    "employee_code": "EMP0135",
+    "email": "timothy07@fisher.com"
+  },
+  {
+    "emp_id": 136,
+    "full_name": "Rhonda Ryan",
+    "designation": "Data Scientist",
+    "department": "Product",
+    "joining_date": "28-01-2020",
+    "employee_code": "EMP0136",
+    "email": "hjones@hotmail.com"
+  },
+  {
+    "emp_id": 137,
+    "full_name": "Zachary Benitez",
+    "designation": "Admin Officer",
+    "department": "Customer Support",
+    "joining_date": "05-11-2019",
+    "employee_code": "EMP0137",
+    "email": "glopez@allison.com"
+  },
+  {
+    "emp_id": 138,
+    "full_name": "Jessica Richards",
+    "designation": "Marketing Specialist",
+    "department": "Customer Support",
+    "joining_date": "10-08-2015",
+    "employee_code": "EMP0138",
+    "email": "benjaminsmith@campbell.com"
+  },
+  {
+    "emp_id": 139,
+    "full_name": "Michelle Boone",
+    "designation": "Software Engineer",
+    "department": "Engineering",
+    "joining_date": "03-01-2024",
+    "employee_code": "EMP0139",
+    "email": "richardaguirre@brown.org"
+  },
+  {
+    "emp_id": 140,
+    "full_name": "Richard Johnson",
+    "designation": "Finance Executive",
+    "department": "Engineering",
+    "joining_date": "13-05-2020",
+    "employee_code": "EMP0140",
+    "email": "trevinoamy@wilson-dominguez.com"
+  },
+  {
+    "emp_id": 141,
+    "full_name": "Eric Gomez",
+    "designation": "Admin Officer",
+    "department": "Admin",
+    "joining_date": "30-04-2023",
+    "employee_code": "EMP0141",
+    "email": "jacksonpaul@baker.com"
+  },
+  {
+    "emp_id": 142,
+    "full_name": "James Peters",
+    "designation": "Admin Officer",
+    "department": "IT",
+    "joining_date": "26-08-2015",
+    "employee_code": "EMP0142",
+    "email": "patrick42@johnson.com"
+  },
+  {
+    "emp_id": 143,
+    "full_name": "Brett Adams",
+    "designation": "Product Manager",
+    "department": "Admin",
+    "joining_date": "24-05-2022",
+    "employee_code": "EMP0143",
+    "email": "nmerritt@yahoo.com"
+  },
+  {
+    "emp_id": 144,
+    "full_name": "Bryan Pacheco",
+    "designation": "Product Manager",
+    "department": "Sales",
+    "joining_date": "10-12-2023",
+    "employee_code": "EMP0144",
+    "email": "gavila@hotmail.com"
+  },
+  {
+    "emp_id": 145,
+    "full_name": "Michael Espinoza",
+    "designation": "Operations Coordinator",
+    "department": "Product",
+    "joining_date": "01-01-2022",
+    "employee_code": "EMP0145",
+    "email": "phillipsbradley@hughes.com"
+  },
+  {
+    "emp_id": 146,
+    "full_name": "Heather Kirk",
+    "designation": "HR Manager",
+    "department": "HR",
+    "joining_date": "12-07-2024",
+    "employee_code": "EMP0146",
+    "email": "teresa02@kelley.info"
+  },
+  {
+    "emp_id": 147,
+    "full_name": "Monica Warner",
+    "designation": "Data Scientist",
+    "department": "Engineering",
+    "joining_date": "29-09-2024",
+    "employee_code": "EMP0147",
+    "email": "matthew48@gmail.com"
+  },
+  {
+    "emp_id": 148,
+    "full_name": "Jennifer Young",
+    "designation": "Software Engineer",
+    "department": "Product",
+    "joining_date": "06-07-2017",
+    "employee_code": "EMP0148",
+    "email": "dianadiaz@yahoo.com"
+  },
+  {
+    "emp_id": 149,
+    "full_name": "Rachel Carpenter",
+    "designation": "Product Manager",
+    "department": "Engineering",
+    "joining_date": "20-01-2022",
+    "employee_code": "EMP0149",
+    "email": "dana83@hotmail.com"
+  },
+  {
+    "emp_id": 150,
+    "full_name": "Joseph West",
+    "designation": "Operations Coordinator",
+    "department": "Sales",
+    "joining_date": "18-08-2020",
+    "employee_code": "EMP0150",
+    "email": "jennifer21@hotmail.com"
+  },
+  {
+    "emp_id": 151,
+    "full_name": "Holly Giles",
+    "designation": "Admin Officer",
+    "department": "Finance",
+    "joining_date": "28-11-2020",
+    "employee_code": "EMP0151",
+    "email": "richard98@yahoo.com"
+  },
+  {
+    "emp_id": 152,
+    "full_name": "Katelyn Newton",
+    "designation": "Software Engineer",
+    "department": "IT",
+    "joining_date": "28-07-2021",
+    "employee_code": "EMP0152",
+    "email": "pbrewer@nelson-mays.com"
+  },
+  {
+    "emp_id": 153,
+    "full_name": "Amanda Anderson",
+    "designation": "Customer Support Executive",
+    "department": "Finance",
+    "joining_date": "17-06-2023",
+    "employee_code": "EMP0153",
+    "email": "anthony12@gmail.com"
+  },
+  {
+    "emp_id": 154,
+    "full_name": "Terry Moore",
+    "designation": "Sales Manager",
+    "department": "Finance",
+    "joining_date": "22-12-2020",
+    "employee_code": "EMP0154",
+    "email": "connie99@hotmail.com"
+  },
+  {
+    "emp_id": 155,
+    "full_name": "Dr. Justin Porter",
+    "designation": "Operations Coordinator",
+    "department": "Finance",
+    "joining_date": "24-02-2025",
+    "employee_code": "EMP0155",
+    "email": "mfoley@hotmail.com"
+  },
+  {
+    "emp_id": 156,
+    "full_name": "Theresa Miller",
+    "designation": "Marketing Specialist",
+    "department": "Customer Support",
+    "joining_date": "26-06-2017",
+    "employee_code": "EMP0156",
+    "email": "nicholas24@richards.com"
+  },
+  {
+    "emp_id": 157,
+    "full_name": "Monica Lamb",
+    "designation": "Admin Officer",
+    "department": "HR",
+    "joining_date": "03-12-2018",
+    "employee_code": "EMP0157",
+    "email": "rmorris@yahoo.com"
+  },
+  {
+    "emp_id": 158,
+    "full_name": "Brandon Young",
+    "designation": "Operations Coordinator",
+    "department": "Marketing",
+    "joining_date": "24-03-2021",
+    "employee_code": "EMP0158",
+    "email": "robertbanks@gmail.com"
+  },
+  {
+    "emp_id": 159,
+    "full_name": "Destiny Bailey",
+    "designation": "Finance Executive",
+    "department": "Finance",
+    "joining_date": "15-03-2021",
+    "employee_code": "EMP0159",
+    "email": "gary07@mejia.info"
+  },
+  {
+    "emp_id": 160,
+    "full_name": "Christopher Hayden Jr.",
+    "designation": "Marketing Specialist",
+    "department": "Customer Support",
+    "joining_date": "04-07-2021",
+    "employee_code": "EMP0160",
+    "email": "ronald31@howard.info"
+  },
+  {
+    "emp_id": 161,
+    "full_name": "Taylor Jarvis",
+    "designation": "Marketing Specialist",
+    "department": "Admin",
+    "joining_date": "12-09-2020",
+    "employee_code": "EMP0161",
+    "email": "larrywright@gmail.com"
+  },
+  {
+    "emp_id": 162,
+    "full_name": "Rhonda Cruz",
+    "designation": "Data Scientist",
+    "department": "Operations",
+    "joining_date": "19-01-2025",
+    "employee_code": "EMP0162",
+    "email": "patriciastephens@hotmail.com"
+  },
+  {
+    "emp_id": 163,
+    "full_name": "Jonathan Lam",
+    "designation": "Marketing Specialist",
+    "department": "Admin",
+    "joining_date": "13-11-2020",
+    "employee_code": "EMP0163",
+    "email": "seth16@gmail.com"
+  },
+  {
+    "emp_id": 164,
+    "full_name": "Suzanne Willis",
+    "designation": "Software Engineer",
+    "department": "Marketing",
+    "joining_date": "02-05-2021",
+    "employee_code": "EMP0164",
+    "email": "tina06@lee.net"
+  },
+  {
+    "emp_id": 165,
+    "full_name": "Richard Benitez",
+    "designation": "Data Scientist",
+    "department": "Marketing",
+    "joining_date": "07-08-2021",
+    "employee_code": "EMP0165",
+    "email": "brendaharris@hotmail.com"
+  },
+  {
+    "emp_id": 166,
+    "full_name": "Jacqueline Walton",
+    "designation": "HR Manager",
+    "department": "Engineering",
+    "joining_date": "20-12-2018",
+    "employee_code": "EMP0166",
+    "email": "ajohnson@wiley.com"
+  },
+  {
+    "emp_id": 167,
+    "full_name": "Ryan Bryant",
+    "designation": "Finance Executive",
+    "department": "Marketing",
+    "joining_date": "14-07-2023",
+    "employee_code": "EMP0167",
+    "email": "holmesbryan@cox.info"
+  },
+  {
+    "emp_id": 168,
+    "full_name": "Cassidy Sims",
+    "designation": "Software Engineer",
+    "department": "Marketing",
+    "joining_date": "07-07-2018",
+    "employee_code": "EMP0168",
+    "email": "randymcconnell@collins-hodges.com"
+  },
+  {
+    "emp_id": 169,
+    "full_name": "Joseph Bell",
+    "designation": "Operations Coordinator",
+    "department": "Admin",
+    "joining_date": "28-01-2020",
+    "employee_code": "EMP0169",
+    "email": "patrick83@hotmail.com"
+  },
+  {
+    "emp_id": 170,
+    "full_name": "Joseph Boyd",
+    "designation": "Operations Coordinator",
+    "department": "Product",
+    "joining_date": "24-03-2023",
+    "employee_code": "EMP0170",
+    "email": "thomas74@hotmail.com"
+  },
+  {
+    "emp_id": 171,
+    "full_name": "Ronnie Thomas",
+    "designation": "Finance Executive",
+    "department": "Admin",
+    "joining_date": "05-12-2020",
+    "employee_code": "EMP0171",
+    "email": "dixonjennifer@baker-garcia.org"
+  },
+  {
+    "emp_id": 172,
+    "full_name": "Sue Myers DDS",
+    "designation": "Software Engineer",
+    "department": "Customer Support",
+    "joining_date": "17-06-2022",
+    "employee_code": "EMP0172",
+    "email": "kcabrera@gmail.com"
+  },
+  {
+    "emp_id": 173,
+    "full_name": "Jonathan Williams",
+    "designation": "Finance Executive",
+    "department": "Product",
+    "joining_date": "05-01-2022",
+    "employee_code": "EMP0173",
+    "email": "ginaroberts@gmail.com"
+  },
+  {
+    "emp_id": 174,
+    "full_name": "Jesse Wright",
+    "designation": "Product Manager",
+    "department": "Finance",
+    "joining_date": "15-11-2024",
+    "employee_code": "EMP0174",
+    "email": "clementssydney@hotmail.com"
+  },
+  {
+    "emp_id": 175,
+    "full_name": "John Dodson",
+    "designation": "Admin Officer",
+    "department": "Marketing",
+    "joining_date": "13-08-2017",
+    "employee_code": "EMP0175",
+    "email": "vfreeman@mendoza.net"
+  },
+  {
+    "emp_id": 176,
+    "full_name": "Timothy Leonard",
+    "designation": "Finance Executive",
+    "department": "Sales",
+    "joining_date": "24-09-2021",
+    "employee_code": "EMP0176",
+    "email": "cisneroschristopher@gmail.com"
+  },
+  {
+    "emp_id": 177,
+    "full_name": "Edward Hernandez DDS",
+    "designation": "HR Manager",
+    "department": "Finance",
+    "joining_date": "05-08-2021",
+    "employee_code": "EMP0177",
+    "email": "pattersonmichael@yahoo.com"
+  },
+  {
+    "emp_id": 178,
+    "full_name": "Jennifer Frank",
+    "designation": "Software Engineer",
+    "department": "HR",
+    "joining_date": "31-05-2022",
+    "employee_code": "EMP0178",
+    "email": "ginayoung@padilla.info"
+  },
+  {
+    "emp_id": 179,
+    "full_name": "Steven Walker",
+    "designation": "Data Scientist",
+    "department": "Engineering",
+    "joining_date": "27-06-2017",
+    "employee_code": "EMP0179",
+    "email": "tonytaylor@hotmail.com"
+  },
+  {
+    "emp_id": 180,
+    "full_name": "Anne Wilson",
+    "designation": "HR Manager",
+    "department": "Engineering",
+    "joining_date": "04-03-2024",
+    "employee_code": "EMP0180",
+    "email": "guerraemily@watts.info"
+  },
+  {
+    "emp_id": 181,
+    "full_name": "Sandra Brooks",
+    "designation": "Admin Officer",
+    "department": "HR",
+    "joining_date": "21-09-2015",
+    "employee_code": "EMP0181",
+    "email": "ballwilliam@hotmail.com"
+  },
+  {
+    "emp_id": 182,
+    "full_name": "Rick Rivers",
+    "designation": "HR Manager",
+    "department": "Marketing",
+    "joining_date": "04-10-2016",
+    "employee_code": "EMP0182",
+    "email": "thomas71@harris-schultz.com"
+  },
+  {
+    "emp_id": 183,
+    "full_name": "Richard Choi",
+    "designation": "Sales Manager",
+    "department": "HR",
+    "joining_date": "15-04-2023",
+    "employee_code": "EMP0183",
+    "email": "omatthews@taylor.biz"
+  },
+  {
+    "emp_id": 184,
+    "full_name": "James Miranda",
+    "designation": "Sales Manager",
+    "department": "Marketing",
+    "joining_date": "23-05-2019",
+    "employee_code": "EMP0184",
+    "email": "shannonshea@yahoo.com"
+  },
+  {
+    "emp_id": 185,
+    "full_name": "Joann Juarez",
+    "designation": "Marketing Specialist",
+    "department": "Sales",
+    "joining_date": "04-11-2017",
+    "employee_code": "EMP0185",
+    "email": "valerieclark@hotmail.com"
+  },
+  {
+    "emp_id": 186,
+    "full_name": "Brooke James",
+    "designation": "Sales Manager",
+    "department": "Operations",
+    "joining_date": "10-06-2025",
+    "employee_code": "EMP0186",
+    "email": "amyers@thomas.info"
+  },
+  {
+    "emp_id": 187,
+    "full_name": "Melissa Gonzales",
+    "designation": "Operations Coordinator",
+    "department": "Admin",
+    "joining_date": "12-07-2021",
+    "employee_code": "EMP0187",
+    "email": "robert19@gmail.com"
+  },
+  {
+    "emp_id": 188,
+    "full_name": "Lisa Clark",
+    "designation": "HR Manager",
+    "department": "HR",
+    "joining_date": "03-11-2023",
+    "employee_code": "EMP0188",
+    "email": "lreynolds@griffin.info"
+  },
+  {
+    "emp_id": 189,
+    "full_name": "Edward Nichols",
+    "designation": "Sales Manager",
+    "department": "Sales",
+    "joining_date": "28-10-2018",
+    "employee_code": "EMP0189",
+    "email": "olsonallison@collins.net"
+  },
+  {
+    "emp_id": 190,
+    "full_name": "Carl Thomas",
+    "designation": "Sales Manager",
+    "department": "IT",
+    "joining_date": "10-09-2019",
+    "employee_code": "EMP0190",
+    "email": "hrose@thomas-bishop.biz"
+  },
+  {
+    "emp_id": 191,
+    "full_name": "Joseph Schmitt",
+    "designation": "Marketing Specialist",
+    "department": "HR",
+    "joining_date": "12-02-2019",
+    "employee_code": "EMP0191",
+    "email": "williamsanthony@austin.info"
+  },
+  {
+    "emp_id": 192,
+    "full_name": "Beverly Jones",
+    "designation": "Product Manager",
+    "department": "Finance",
+    "joining_date": "22-12-2021",
+    "employee_code": "EMP0192",
+    "email": "howardthomas@gmail.com"
+  },
+  {
+    "emp_id": 193,
+    "full_name": "Mary Morrow",
+    "designation": "Admin Officer",
+    "department": "Customer Support",
+    "joining_date": "23-03-2022",
+    "employee_code": "EMP0193",
+    "email": "jennifercarroll@yahoo.com"
+  },
+  {
+    "emp_id": 194,
+    "full_name": "Bianca Parker",
+    "designation": "Product Manager",
+    "department": "Finance",
+    "joining_date": "17-03-2018",
+    "employee_code": "EMP0194",
+    "email": "alicelamb@hotmail.com"
+  },
+  {
+    "emp_id": 195,
+    "full_name": "Meagan Lee",
+    "designation": "Admin Officer",
+    "department": "Operations",
+    "joining_date": "03-06-2017",
+    "employee_code": "EMP0195",
+    "email": "patricia49@stevens-ray.com"
+  },
+  {
+    "emp_id": 196,
+    "full_name": "Alexa Little",
+    "designation": "Sales Manager",
+    "department": "Marketing",
+    "joining_date": "03-04-2025",
+    "employee_code": "EMP0196",
+    "email": "karenwatkins@cummings.biz"
+  },
+  {
+    "emp_id": 197,
+    "full_name": "Sandra Munoz",
+    "designation": "Software Engineer",
+    "department": "Sales",
+    "joining_date": "05-08-2018",
+    "employee_code": "EMP0197",
+    "email": "larry19@yahoo.com"
+  },
+  {
+    "emp_id": 198,
+    "full_name": "Kathy Hays",
+    "designation": "Finance Executive",
+    "department": "IT",
+    "joining_date": "23-06-2024",
+    "employee_code": "EMP0198",
+    "email": "masonrichard@yahoo.com"
+  },
+  {
+    "emp_id": 199,
+    "full_name": "Kyle Duran",
+    "designation": "Customer Support Executive",
+    "department": "Finance",
+    "joining_date": "28-10-2019",
+    "employee_code": "EMP0199",
+    "email": "mario93@benson.com"
+  },
+  {
+    "emp_id": 200,
+    "full_name": "Noah Woods",
+    "designation": "Data Scientist",
+    "department": "Customer Support",
+    "joining_date": "23-04-2017",
+    "employee_code": "EMP0200",
+    "email": "bootheric@gmail.com"
+  },
+  {
+    "emp_id": 201,
+    "full_name": "Michael Pollard",
+    "designation": "Software Engineer",
+    "department": "Product",
+    "joining_date": "28-03-2025",
+    "employee_code": "EMP0201",
+    "email": "kenneth50@gmail.com"
+  },
+  {
+    "emp_id": 202,
+    "full_name": "Daniel Proctor",
+    "designation": "HR Manager",
+    "department": "Sales",
+    "joining_date": "18-11-2016",
+    "employee_code": "EMP0202",
+    "email": "coopernathaniel@yahoo.com"
+  },
+  {
+    "emp_id": 203,
+    "full_name": "Mariah Crosby",
+    "designation": "Data Scientist",
+    "department": "IT",
+    "joining_date": "23-10-2020",
+    "employee_code": "EMP0203",
+    "email": "baueredward@stout.com"
+  },
+  {
+    "emp_id": 204,
+    "full_name": "Brandon Williams",
+    "designation": "Admin Officer",
+    "department": "Admin",
+    "joining_date": "02-12-2024",
+    "employee_code": "EMP0204",
+    "email": "erin14@gmail.com"
+  },
+  {
+    "emp_id": 205,
+    "full_name": "Andre Perez",
+    "designation": "Finance Executive",
+    "department": "HR",
+    "joining_date": "11-08-2018",
+    "employee_code": "EMP0205",
+    "email": "gomezmark@yahoo.com"
+  },
+  {
+    "emp_id": 206,
+    "full_name": "Edwin Thompson",
+    "designation": "Software Engineer",
+    "department": "Engineering",
+    "joining_date": "07-06-2023",
+    "employee_code": "EMP0206",
+    "email": "dalecontreras@stevens.com"
+  },
+  {
+    "emp_id": 207,
+    "full_name": "Melody Moore",
+    "designation": "Sales Manager",
+    "department": "Admin",
+    "joining_date": "07-10-2020",
+    "employee_code": "EMP0207",
+    "email": "aoconnell@proctor-hernandez.com"
+  },
+  {
+    "emp_id": 208,
+    "full_name": "Steven Martinez",
+    "designation": "Admin Officer",
+    "department": "Admin",
+    "joining_date": "25-11-2022",
+    "employee_code": "EMP0208",
+    "email": "derrickavila@kelley-castro.com"
+  },
+  {
+    "emp_id": 209,
+    "full_name": "Tommy Terry",
+    "designation": "Software Engineer",
+    "department": "Engineering",
+    "joining_date": "07-06-2025",
+    "employee_code": "EMP0209",
+    "email": "erica87@chavez-carr.com"
+  },
+  {
+    "emp_id": 210,
+    "full_name": "Craig French",
+    "designation": "Admin Officer",
+    "department": "Admin",
+    "joining_date": "15-03-2018",
+    "employee_code": "EMP0210",
+    "email": "cole23@gmail.com"
+  },
+  {
+    "emp_id": 211,
+    "full_name": "Helen Barnes",
+    "designation": "Operations Coordinator",
+    "department": "Marketing",
+    "joining_date": "12-12-2015",
+    "employee_code": "EMP0211",
+    "email": "otaylor@hotmail.com"
+  },
+  {
+    "emp_id": 212,
+    "full_name": "Peter Jones",
+    "designation": "Customer Support Executive",
+    "department": "Product",
+    "joining_date": "27-04-2016",
+    "employee_code": "EMP0212",
+    "email": "andrewrussell@gmail.com"
+  },
+  {
+    "emp_id": 213,
+    "full_name": "Joel Carlson",
+    "designation": "Customer Support Executive",
+    "department": "Marketing",
+    "joining_date": "26-01-2023",
+    "employee_code": "EMP0213",
+    "email": "justin79@hotmail.com"
+  },
+  {
+    "emp_id": 214,
+    "full_name": "Thomas Castillo",
+    "designation": "Data Scientist",
+    "department": "Engineering",
+    "joining_date": "26-12-2017",
+    "employee_code": "EMP0214",
+    "email": "grantjohn@gmail.com"
+  },
+  {
+    "emp_id": 215,
+    "full_name": "Jonathan Dunn",
+    "designation": "Data Scientist",
+    "department": "HR",
+    "joining_date": "07-03-2017",
+    "employee_code": "EMP0215",
+    "email": "susan49@brooks-schultz.com"
+  },
+  {
+    "emp_id": 216,
+    "full_name": "Charles Gonzalez DVM",
+    "designation": "Operations Coordinator",
+    "department": "Operations",
+    "joining_date": "08-04-2024",
+    "employee_code": "EMP0216",
+    "email": "jacksonjoshua@gmail.com"
+  },
+  {
+    "emp_id": 217,
+    "full_name": "Adam Gordon",
+    "designation": "Finance Executive",
+    "department": "Marketing",
+    "joining_date": "26-08-2019",
+    "employee_code": "EMP0217",
+    "email": "alicia37@garner.info"
+  },
+  {
+    "emp_id": 218,
+    "full_name": "Terry Kennedy",
+    "designation": "Operations Coordinator",
+    "department": "Operations",
+    "joining_date": "24-07-2019",
+    "employee_code": "EMP0218",
+    "email": "ellen69@johnson.com"
+  },
+  {
+    "emp_id": 219,
+    "full_name": "Joseph Merritt",
+    "designation": "Customer Support Executive",
+    "department": "Engineering",
+    "joining_date": "20-05-2024",
+    "employee_code": "EMP0219",
+    "email": "kellytucker@hotmail.com"
+  },
+  {
+    "emp_id": 220,
+    "full_name": "Valerie Graham",
+    "designation": "Operations Coordinator",
+    "department": "Product",
+    "joining_date": "05-09-2015",
+    "employee_code": "EMP0220",
+    "email": "matthew82@hotmail.com"
+  },
+  {
+    "emp_id": 221,
+    "full_name": "Wendy Lloyd",
+    "designation": "Finance Executive",
+    "department": "Sales",
+    "joining_date": "19-10-2020",
+    "employee_code": "EMP0221",
+    "email": "rsweeney@craig-alexander.net"
+  },
+  {
+    "emp_id": 222,
+    "full_name": "Michele Wolf",
+    "designation": "Data Scientist",
+    "department": "Finance",
+    "joining_date": "16-08-2019",
+    "employee_code": "EMP0222",
+    "email": "william92@hotmail.com"
+  },
+  {
+    "emp_id": 223,
+    "full_name": "Angela Silva",
+    "designation": "Data Scientist",
+    "department": "IT",
+    "joining_date": "21-04-2016",
+    "employee_code": "EMP0223",
+    "email": "prasmussen@johnson.com"
+  },
+  {
+    "emp_id": 224,
+    "full_name": "Isaac Chapman",
+    "designation": "Operations Coordinator",
+    "department": "Finance",
+    "joining_date": "24-01-2025",
+    "employee_code": "EMP0224",
+    "email": "kyork@wallace-williams.biz"
+  },
+  {
+    "emp_id": 225,
+    "full_name": "Mark Cruz",
+    "designation": "Admin Officer",
+    "department": "IT",
+    "joining_date": "29-08-2020",
+    "employee_code": "EMP0225",
+    "email": "collinsedward@thompson.net"
+  },
+  {
+    "emp_id": 226,
+    "full_name": "Alexa Thomas",
+    "designation": "Customer Support Executive",
+    "department": "Admin",
+    "joining_date": "02-10-2017",
+    "employee_code": "EMP0226",
+    "email": "eringarza@cortez-young.com"
+  },
+  {
+    "emp_id": 227,
+    "full_name": "Kathleen Maddox",
+    "designation": "Sales Manager",
+    "department": "Admin",
+    "joining_date": "20-08-2018",
+    "employee_code": "EMP0227",
+    "email": "malikmontoya@robinson-camacho.biz"
+  },
+  {
+    "emp_id": 228,
+    "full_name": "James Noble",
+    "designation": "Operations Coordinator",
+    "department": "IT",
+    "joining_date": "11-12-2016",
+    "employee_code": "EMP0228",
+    "email": "kingerika@hotmail.com"
+  },
+  {
+    "emp_id": 229,
+    "full_name": "Julie Palmer",
+    "designation": "Marketing Specialist",
+    "department": "Admin",
+    "joining_date": "13-03-2025",
+    "employee_code": "EMP0229",
+    "email": "harringtonkelly@hotmail.com"
+  },
+  {
+    "emp_id": 230,
+    "full_name": "Brian Lawrence",
+    "designation": "Operations Coordinator",
+    "department": "Sales",
+    "joining_date": "10-04-2023",
+    "employee_code": "EMP0230",
+    "email": "anneking@shaffer.com"
+  },
+  {
+    "emp_id": 231,
+    "full_name": "Andre Sosa",
+    "designation": "Sales Manager",
+    "department": "Operations",
+    "joining_date": "02-11-2018",
+    "employee_code": "EMP0231",
+    "email": "patricia99@fuller.com"
+  },
+  {
+    "emp_id": 232,
+    "full_name": "Susan Torres",
+    "designation": "Data Scientist",
+    "department": "Product",
+    "joining_date": "03-05-2024",
+    "employee_code": "EMP0232",
+    "email": "ymccoy@henderson.com"
+  },
+  {
+    "emp_id": 233,
+    "full_name": "Sandra Costa",
+    "designation": "Product Manager",
+    "department": "HR",
+    "joining_date": "26-09-2016",
+    "employee_code": "EMP0233",
+    "email": "fwhite@ibarra.com"
+  },
+  {
+    "emp_id": 234,
+    "full_name": "Christopher Mitchell",
+    "designation": "Admin Officer",
+    "department": "Engineering",
+    "joining_date": "06-09-2018",
+    "employee_code": "EMP0234",
+    "email": "foxlisa@yahoo.com"
+  },
+  {
+    "emp_id": 235,
+    "full_name": "Dorothy Roth",
+    "designation": "Product Manager",
+    "department": "Customer Support",
+    "joining_date": "15-08-2016",
+    "employee_code": "EMP0235",
+    "email": "hunterfields@hotmail.com"
+  },
+  {
+    "emp_id": 236,
+    "full_name": "Emily York",
+    "designation": "Data Scientist",
+    "department": "Sales",
+    "joining_date": "14-02-2016",
+    "employee_code": "EMP0236",
+    "email": "mthomas@webster.com"
+  },
+  {
+    "emp_id": 237,
+    "full_name": "Dean Mathews",
+    "designation": "Admin Officer",
+    "department": "IT",
+    "joining_date": "22-05-2023",
+    "employee_code": "EMP0237",
+    "email": "schmidtmary@yahoo.com"
+  },
+  {
+    "emp_id": 238,
+    "full_name": "Shawn Gonzalez",
+    "designation": "Operations Coordinator",
+    "department": "Product",
+    "joining_date": "07-01-2021",
+    "employee_code": "EMP0238",
+    "email": "rhernandez@hampton.org"
+  },
+  {
+    "emp_id": 239,
+    "full_name": "Melissa Ross",
+    "designation": "Data Scientist",
+    "department": "Marketing",
+    "joining_date": "29-11-2024",
+    "employee_code": "EMP0239",
+    "email": "nguyendarryl@jackson.com"
+  },
+  {
+    "emp_id": 240,
+    "full_name": "Paul Myers",
+    "designation": "Finance Executive",
+    "department": "Product",
+    "joining_date": "17-06-2018",
+    "employee_code": "EMP0240",
+    "email": "xcalderon@graves.com"
+  },
+  {
+    "emp_id": 241,
+    "full_name": "Darren Richardson",
+    "designation": "HR Manager",
+    "department": "IT",
+    "joining_date": "27-06-2022",
+    "employee_code": "EMP0241",
+    "email": "robertmontoya@hotmail.com"
+  },
+  {
+    "emp_id": 242,
+    "full_name": "Allen Davis",
+    "designation": "Admin Officer",
+    "department": "Admin",
+    "joining_date": "18-08-2016",
+    "employee_code": "EMP0242",
+    "email": "trandawn@petty-romero.com"
+  },
+  {
+    "emp_id": 243,
+    "full_name": "Tyler Sullivan",
+    "designation": "HR Manager",
+    "department": "Sales",
+    "joining_date": "21-01-2022",
+    "employee_code": "EMP0243",
+    "email": "amanda99@hull.biz"
+  },
+  {
+    "emp_id": 244,
+    "full_name": "Matthew Perez",
+    "designation": "Customer Support Executive",
+    "department": "Product",
+    "joining_date": "12-05-2018",
+    "employee_code": "EMP0244",
+    "email": "evan46@smith.org"
+  },
+  {
+    "emp_id": 245,
+    "full_name": "Craig Smith",
+    "designation": "HR Manager",
+    "department": "Product",
+    "joining_date": "08-04-2025",
+    "employee_code": "EMP0245",
+    "email": "hillchristopher@yahoo.com"
+  },
+  {
+    "emp_id": 246,
+    "full_name": "Edward Buchanan",
+    "designation": "HR Manager",
+    "department": "IT",
+    "joining_date": "17-01-2016",
+    "employee_code": "EMP0246",
+    "email": "pagetamara@henderson.net"
+  },
+  {
+    "emp_id": 247,
+    "full_name": "Leonard Haynes",
+    "designation": "Data Scientist",
+    "department": "Finance",
+    "joining_date": "24-01-2022",
+    "employee_code": "EMP0247",
+    "email": "zgreen@murphy-pearson.com"
+  },
+  {
+    "emp_id": 248,
+    "full_name": "Benjamin Schmidt",
+    "designation": "Sales Manager",
+    "department": "Engineering",
+    "joining_date": "28-09-2017",
+    "employee_code": "EMP0248",
+    "email": "maydouglas@hotmail.com"
+  },
+  {
+    "emp_id": 249,
+    "full_name": "Natalie Lee",
+    "designation": "Admin Officer",
+    "department": "Finance",
+    "joining_date": "16-05-2018",
+    "employee_code": "EMP0249",
+    "email": "allen54@hotmail.com"
+  },
+  {
+    "emp_id": 250,
+    "full_name": "Tamara Anderson",
+    "designation": "Customer Support Executive",
+    "department": "Sales",
+    "joining_date": "03-11-2017",
+    "employee_code": "EMP0250",
+    "email": "teresagonzalez@hotmail.com"
+  },
+  {
+    "emp_id": 251,
+    "full_name": "Ryan Castillo",
+    "designation": "Sales Manager",
+    "department": "Customer Support",
+    "joining_date": "13-02-2024",
+    "employee_code": "EMP0251",
+    "email": "psmith@hotmail.com"
+  },
+  {
+    "emp_id": 252,
+    "full_name": "Emily Wheeler",
+    "designation": "Admin Officer",
+    "department": "IT",
+    "joining_date": "03-09-2015",
+    "employee_code": "EMP0252",
+    "email": "cynthiabrown@mullins.com"
+  },
+  {
+    "emp_id": 253,
+    "full_name": "Morgan Fritz",
+    "designation": "Software Engineer",
+    "department": "Product",
+    "joining_date": "07-07-2023",
+    "employee_code": "EMP0253",
+    "email": "anthony25@yahoo.com"
+  },
+  {
+    "emp_id": 254,
+    "full_name": "Maria White",
+    "designation": "Product Manager",
+    "department": "HR",
+    "joining_date": "27-08-2024",
+    "employee_code": "EMP0254",
+    "email": "davidwatson@gomez.info"
+  },
+  {
+    "emp_id": 255,
+    "full_name": "Victoria Perez",
+    "designation": "Sales Manager",
+    "department": "IT",
+    "joining_date": "27-03-2020",
+    "employee_code": "EMP0255",
+    "email": "rebecca84@miller-lewis.info"
+  },
+  {
+    "emp_id": 256,
+    "full_name": "Kayla Wells",
+    "designation": "Product Manager",
+    "department": "Sales",
+    "joining_date": "27-01-2021",
+    "employee_code": "EMP0256",
+    "email": "yhorne@hotmail.com"
+  },
+  {
+    "emp_id": 257,
+    "full_name": "Ethan Vargas",
+    "designation": "Customer Support Executive",
+    "department": "HR",
+    "joining_date": "08-12-2022",
+    "employee_code": "EMP0257",
+    "email": "robertmartinez@gmail.com"
+  },
+  {
+    "emp_id": 258,
+    "full_name": "Brian Mcmillan",
+    "designation": "Product Manager",
+    "department": "Marketing",
+    "joining_date": "02-12-2018",
+    "employee_code": "EMP0258",
+    "email": "franklinthomas@campbell-sanchez.info"
+  },
+  {
+    "emp_id": 259,
+    "full_name": "Gloria Williams",
+    "designation": "Data Scientist",
+    "department": "Engineering",
+    "joining_date": "24-11-2024",
+    "employee_code": "EMP0259",
+    "email": "kharris@graham-warren.com"
+  },
+  {
+    "emp_id": 260,
+    "full_name": "Christina Garcia",
+    "designation": "Operations Coordinator",
+    "department": "Engineering",
+    "joining_date": "19-07-2023",
+    "employee_code": "EMP0260",
+    "email": "alice56@yahoo.com"
+  },
+  {
+    "emp_id": 261,
+    "full_name": "Cynthia Smith",
+    "designation": "Marketing Specialist",
+    "department": "Admin",
+    "joining_date": "18-07-2018",
+    "employee_code": "EMP0261",
+    "email": "melissa38@taylor.com"
+  },
+  {
+    "emp_id": 262,
+    "full_name": "Carlos Mcconnell",
+    "designation": "Product Manager",
+    "department": "IT",
+    "joining_date": "10-04-2025",
+    "employee_code": "EMP0262",
+    "email": "ksmith@cunningham.com"
+  },
+  {
+    "emp_id": 263,
+    "full_name": "Christina Stone",
+    "designation": "Sales Manager",
+    "department": "Engineering",
+    "joining_date": "08-05-2020",
+    "employee_code": "EMP0263",
+    "email": "usimmons@gmail.com"
+  },
+  {
+    "emp_id": 264,
+    "full_name": "Patricia Pierce",
+    "designation": "Customer Support Executive",
+    "department": "Customer Support",
+    "joining_date": "14-10-2021",
+    "employee_code": "EMP0264",
+    "email": "owenshawn@hotmail.com"
+  },
+  {
+    "emp_id": 265,
+    "full_name": "Joshua Stephens",
+    "designation": "Product Manager",
+    "department": "HR",
+    "joining_date": "29-12-2023",
+    "employee_code": "EMP0265",
+    "email": "jimmy38@underwood-black.com"
+  },
+  {
+    "emp_id": 266,
+    "full_name": "Debbie Prince",
+    "designation": "Data Scientist",
+    "department": "Operations",
+    "joining_date": "23-01-2025",
+    "employee_code": "EMP0266",
+    "email": "jonathanreynolds@carter-robinson.info"
+  },
+  {
+    "emp_id": 267,
+    "full_name": "Eric Mcmahon",
+    "designation": "Customer Support Executive",
+    "department": "Finance",
+    "joining_date": "01-07-2018",
+    "employee_code": "EMP0267",
+    "email": "erica03@gmail.com"
+  },
+  {
+    "emp_id": 268,
+    "full_name": "Laura Arnold",
+    "designation": "Admin Officer",
+    "department": "Admin",
+    "joining_date": "14-12-2017",
+    "employee_code": "EMP0268",
+    "email": "cmorris@hotmail.com"
+  },
+  {
+    "emp_id": 269,
+    "full_name": "Ralph Harris",
+    "designation": "Software Engineer",
+    "department": "Sales",
+    "joining_date": "05-03-2020",
+    "employee_code": "EMP0269",
+    "email": "greynolds@holloway.com"
+  },
+  {
+    "emp_id": 270,
+    "full_name": "Frank Parsons",
+    "designation": "HR Manager",
+    "department": "Finance",
+    "joining_date": "19-01-2021",
+    "employee_code": "EMP0270",
+    "email": "rphillips@yahoo.com"
+  },
+  {
+    "emp_id": 271,
+    "full_name": "Angela Griffin",
+    "designation": "HR Manager",
+    "department": "Engineering",
+    "joining_date": "05-09-2021",
+    "employee_code": "EMP0271",
+    "email": "john00@hotmail.com"
+  },
+  {
+    "emp_id": 272,
+    "full_name": "Timothy Martin",
+    "designation": "Finance Executive",
+    "department": "Finance",
+    "joining_date": "15-07-2024",
+    "employee_code": "EMP0272",
+    "email": "castrojames@mcdaniel-huffman.com"
+  },
+  {
+    "emp_id": 273,
+    "full_name": "Mr. Luis Cantrell",
+    "designation": "Marketing Specialist",
+    "department": "Product",
+    "joining_date": "13-12-2020",
+    "employee_code": "EMP0273",
+    "email": "hicksaustin@yahoo.com"
+  },
+  {
+    "emp_id": 274,
+    "full_name": "Patricia Chapman",
+    "designation": "Customer Support Executive",
+    "department": "Sales",
+    "joining_date": "08-03-2025",
+    "employee_code": "EMP0274",
+    "email": "crawfordandre@webb-howard.net"
+  },
+  {
+    "emp_id": 275,
+    "full_name": "Christie Abbott",
+    "designation": "Customer Support Executive",
+    "department": "HR",
+    "joining_date": "07-12-2016",
+    "employee_code": "EMP0275",
+    "email": "lhuerta@castro.com"
+  },
+  {
+    "emp_id": 276,
+    "full_name": "Shelby Wade",
+    "designation": "Customer Support Executive",
+    "department": "HR",
+    "joining_date": "04-10-2017",
+    "employee_code": "EMP0276",
+    "email": "parsonsdanielle@yahoo.com"
+  },
+  {
+    "emp_id": 277,
+    "full_name": "Patricia Burnett",
+    "designation": "Admin Officer",
+    "department": "Product",
+    "joining_date": "08-12-2024",
+    "employee_code": "EMP0277",
+    "email": "molinatammy@oliver-reese.info"
+  },
+  {
+    "emp_id": 278,
+    "full_name": "Leonard Ramirez",
+    "designation": "Sales Manager",
+    "department": "IT",
+    "joining_date": "20-03-2025",
+    "employee_code": "EMP0278",
+    "email": "gallowayhannah@gmail.com"
+  },
+  {
+    "emp_id": 279,
+    "full_name": "Stacy Owens",
+    "designation": "Product Manager",
+    "department": "Operations",
+    "joining_date": "28-06-2022",
+    "employee_code": "EMP0279",
+    "email": "whitakermark@yahoo.com"
+  },
+  {
+    "emp_id": 280,
+    "full_name": "Keith Villegas MD",
+    "designation": "Software Engineer",
+    "department": "HR",
+    "joining_date": "14-09-2017",
+    "employee_code": "EMP0280",
+    "email": "brittanyerickson@krueger.com"
+  },
+  {
+    "emp_id": 281,
+    "full_name": "Joanne Jackson MD",
+    "designation": "Customer Support Executive",
+    "department": "Customer Support",
+    "joining_date": "14-08-2018",
+    "employee_code": "EMP0281",
+    "email": "kenneth67@hotmail.com"
+  },
+  {
+    "emp_id": 282,
+    "full_name": "Alex English",
+    "designation": "HR Manager",
+    "department": "IT",
+    "joining_date": "17-12-2015",
+    "employee_code": "EMP0282",
+    "email": "vickiehogan@hotmail.com"
+  },
+  {
+    "emp_id": 283,
+    "full_name": "Pam Mayer",
+    "designation": "Product Manager",
+    "department": "HR",
+    "joining_date": "17-04-2025",
+    "employee_code": "EMP0283",
+    "email": "tonyawilcox@hotmail.com"
+  },
+  {
+    "emp_id": 284,
+    "full_name": "Pamela Jones",
+    "designation": "Operations Coordinator",
+    "department": "Operations",
+    "joining_date": "15-10-2017",
+    "employee_code": "EMP0284",
+    "email": "lcoleman@welch-butler.com"
+  },
+  {
+    "emp_id": 285,
+    "full_name": "Robert Calderon",
+    "designation": "Finance Executive",
+    "department": "Engineering",
+    "joining_date": "22-04-2016",
+    "employee_code": "EMP0285",
+    "email": "jamieporter@johnson.com"
+  },
+  {
+    "emp_id": 286,
+    "full_name": "Michael Velasquez",
+    "designation": "Customer Support Executive",
+    "department": "Engineering",
+    "joining_date": "05-04-2019",
+    "employee_code": "EMP0286",
+    "email": "laura02@yahoo.com"
+  },
+  {
+    "emp_id": 287,
+    "full_name": "Lynn Hall",
+    "designation": "Finance Executive",
+    "department": "Marketing",
+    "joining_date": "29-06-2020",
+    "employee_code": "EMP0287",
+    "email": "phyllis06@yahoo.com"
+  },
+  {
+    "emp_id": 288,
+    "full_name": "Wayne Chavez",
+    "designation": "Product Manager",
+    "department": "Admin",
+    "joining_date": "25-07-2024",
+    "employee_code": "EMP0288",
+    "email": "joannecox@peterson-acevedo.com"
+  },
+  {
+    "emp_id": 289,
+    "full_name": "Gary Harrell",
+    "designation": "Customer Support Executive",
+    "department": "HR",
+    "joining_date": "20-06-2025",
+    "employee_code": "EMP0289",
+    "email": "amanda48@gmail.com"
+  },
+  {
+    "emp_id": 290,
+    "full_name": "Janet Rodriguez",
+    "designation": "Software Engineer",
+    "department": "Finance",
+    "joining_date": "22-02-2018",
+    "employee_code": "EMP0290",
+    "email": "cwilson@mcclain-mata.com"
+  },
+  {
+    "emp_id": 291,
+    "full_name": "Jay Nichols",
+    "designation": "Customer Support Executive",
+    "department": "Operations",
+    "joining_date": "04-01-2016",
+    "employee_code": "EMP0291",
+    "email": "matthewhahn@gmail.com"
+  },
+  {
+    "emp_id": 292,
+    "full_name": "John Marshall",
+    "designation": "Admin Officer",
+    "department": "Customer Support",
+    "joining_date": "19-05-2020",
+    "employee_code": "EMP0292",
+    "email": "francisco52@alvarado.com"
+  },
+  {
+    "emp_id": 293,
+    "full_name": "Kenneth Hendrix",
+    "designation": "HR Manager",
+    "department": "IT",
+    "joining_date": "31-08-2020",
+    "employee_code": "EMP0293",
+    "email": "linjacob@hotmail.com"
+  },
+  {
+    "emp_id": 294,
+    "full_name": "Jennifer Arias",
+    "designation": "Finance Executive",
+    "department": "Product",
+    "joining_date": "31-08-2017",
+    "employee_code": "EMP0294",
+    "email": "heather40@horne.info"
+  },
+  {
+    "emp_id": 295,
+    "full_name": "Jesse Barnett",
+    "designation": "Marketing Specialist",
+    "department": "Customer Support",
+    "joining_date": "30-03-2017",
+    "employee_code": "EMP0295",
+    "email": "jwright@rhodes-johnson.com"
+  },
+  {
+    "emp_id": 296,
+    "full_name": "Eric Taylor",
+    "designation": "Finance Executive",
+    "department": "IT",
+    "joining_date": "01-11-2019",
+    "employee_code": "EMP0296",
+    "email": "blankenshipjohn@hotmail.com"
+  },
+  {
+    "emp_id": 297,
+    "full_name": "Joshua Francis",
+    "designation": "Software Engineer",
+    "department": "Sales",
+    "joining_date": "15-07-2020",
+    "employee_code": "EMP0297",
+    "email": "rachelforbes@gmail.com"
+  },
+  {
+    "emp_id": 298,
+    "full_name": "Joan Miller",
+    "designation": "Operations Coordinator",
+    "department": "Operations",
+    "joining_date": "23-11-2023",
+    "employee_code": "EMP0298",
+    "email": "gabriella39@hotmail.com"
+  },
+  {
+    "emp_id": 299,
+    "full_name": "Molly Cox",
+    "designation": "Sales Manager",
+    "department": "Operations",
+    "joining_date": "27-11-2017",
+    "employee_code": "EMP0299",
+    "email": "johnsontom@gmail.com"
+  },
+  {
+    "emp_id": 300,
+    "full_name": "Andrew Thomas",
+    "designation": "Finance Executive",
+    "department": "Admin",
+    "joining_date": "26-05-2025",
+    "employee_code": "EMP0300",
+    "email": "cynthiarodriguez@price-kramer.info"
+  },
+  {
+    "emp_id": 301,
+    "full_name": "Alexis Hudson",
+    "designation": "Finance Executive",
+    "department": "Product",
+    "joining_date": "05-10-2020",
+    "employee_code": "EMP0301",
+    "email": "shannon85@silva.org"
+  },
+  {
+    "emp_id": 302,
+    "full_name": "Tracy Jackson",
+    "designation": "Marketing Specialist",
+    "department": "Admin",
+    "joining_date": "17-07-2023",
+    "employee_code": "EMP0302",
+    "email": "yolandahurst@yahoo.com"
+  },
+  {
+    "emp_id": 303,
+    "full_name": "Keith Mcguire",
+    "designation": "HR Manager",
+    "department": "Admin",
+    "joining_date": "19-11-2016",
+    "employee_code": "EMP0303",
+    "email": "lreyes@yahoo.com"
+  },
+  {
+    "emp_id": 304,
+    "full_name": "Courtney Gregory",
+    "designation": "Finance Executive",
+    "department": "Customer Support",
+    "joining_date": "23-12-2024",
+    "employee_code": "EMP0304",
+    "email": "caseygarza@green-bates.info"
+  },
+  {
+    "emp_id": 305,
+    "full_name": "Shelby Garcia",
+    "designation": "HR Manager",
+    "department": "Marketing",
+    "joining_date": "30-08-2022",
+    "employee_code": "EMP0305",
+    "email": "pamela67@butler-lee.com"
+  },
+  {
+    "emp_id": 306,
+    "full_name": "Michael Gonzalez",
+    "designation": "Software Engineer",
+    "department": "IT",
+    "joining_date": "03-02-2018",
+    "employee_code": "EMP0306",
+    "email": "julie00@holmes-arnold.com"
+  },
+  {
+    "emp_id": 307,
+    "full_name": "Justin Turner",
+    "designation": "Operations Coordinator",
+    "department": "Customer Support",
+    "joining_date": "19-06-2020",
+    "employee_code": "EMP0307",
+    "email": "carrjames@erickson-armstrong.com"
+  },
+  {
+    "emp_id": 308,
+    "full_name": "Miss Cynthia Ramirez",
+    "designation": "Finance Executive",
+    "department": "IT",
+    "joining_date": "28-09-2022",
+    "employee_code": "EMP0308",
+    "email": "stephenmoore@yahoo.com"
+  },
+  {
+    "emp_id": 309,
+    "full_name": "Abigail Brady",
+    "designation": "Customer Support Executive",
+    "department": "IT",
+    "joining_date": "16-12-2023",
+    "employee_code": "EMP0309",
+    "email": "ffuller@everett.com"
+  },
+  {
+    "emp_id": 310,
+    "full_name": "Christian Schultz",
+    "designation": "Finance Executive",
+    "department": "Sales",
+    "joining_date": "05-12-2024",
+    "employee_code": "EMP0310",
+    "email": "alexander26@allen-lopez.com"
+  },
+  {
+    "emp_id": 311,
+    "full_name": "Leslie Daniel",
+    "designation": "HR Manager",
+    "department": "Engineering",
+    "joining_date": "03-11-2024",
+    "employee_code": "EMP0311",
+    "email": "kelly19@robertson.com"
+  },
+  {
+    "emp_id": 312,
+    "full_name": "Jonathan Martin",
+    "designation": "Product Manager",
+    "department": "Customer Support",
+    "joining_date": "28-04-2025",
+    "employee_code": "EMP0312",
+    "email": "anne55@hotmail.com"
+  },
+  {
+    "emp_id": 313,
+    "full_name": "Leah Roberts",
+    "designation": "Data Scientist",
+    "department": "IT",
+    "joining_date": "07-08-2019",
+    "employee_code": "EMP0313",
+    "email": "amandarivera@yahoo.com"
+  },
+  {
+    "emp_id": 314,
+    "full_name": "Wesley Barrera",
+    "designation": "Customer Support Executive",
+    "department": "IT",
+    "joining_date": "13-02-2021",
+    "employee_code": "EMP0314",
+    "email": "hterry@gmail.com"
+  },
+  {
+    "emp_id": 315,
+    "full_name": "Louis Martinez",
+    "designation": "Admin Officer",
+    "department": "Admin",
+    "joining_date": "13-06-2020",
+    "employee_code": "EMP0315",
+    "email": "fernandomendez@gmail.com"
+  },
+  {
+    "emp_id": 316,
+    "full_name": "Jasmin Barrera",
+    "designation": "Sales Manager",
+    "department": "Admin",
+    "joining_date": "16-02-2025",
+    "employee_code": "EMP0316",
+    "email": "browncraig@mays.com"
+  },
+  {
+    "emp_id": 317,
+    "full_name": "Richard Estrada",
+    "designation": "Operations Coordinator",
+    "department": "Engineering",
+    "joining_date": "02-02-2016",
+    "employee_code": "EMP0317",
+    "email": "tfields@oliver.net"
+  },
+  {
+    "emp_id": 318,
+    "full_name": "Rachel Ortiz",
+    "designation": "Operations Coordinator",
+    "department": "Sales",
+    "joining_date": "05-11-2021",
+    "employee_code": "EMP0318",
+    "email": "xallen@hotmail.com"
+  },
+  {
+    "emp_id": 319,
+    "full_name": "Mrs. Candice Garcia",
+    "designation": "Marketing Specialist",
+    "department": "Finance",
+    "joining_date": "02-08-2019",
+    "employee_code": "EMP0319",
+    "email": "james68@hotmail.com"
+  },
+  {
+    "emp_id": 320,
+    "full_name": "Christian Perez",
+    "designation": "Admin Officer",
+    "department": "Customer Support",
+    "joining_date": "26-06-2018",
+    "employee_code": "EMP0320",
+    "email": "cindy47@yahoo.com"
+  },
+  {
+    "emp_id": 321,
+    "full_name": "Michelle Clark",
+    "designation": "Data Scientist",
+    "department": "Marketing",
+    "joining_date": "01-08-2016",
+    "employee_code": "EMP0321",
+    "email": "yestrada@taylor.com"
+  },
+  {
+    "emp_id": 322,
+    "full_name": "Sandra Reed",
+    "designation": "Admin Officer",
+    "department": "Admin",
+    "joining_date": "08-03-2018",
+    "employee_code": "EMP0322",
+    "email": "steven27@king.org"
+  },
+  {
+    "emp_id": 323,
+    "full_name": "Laura Ferrell",
+    "designation": "Sales Manager",
+    "department": "HR",
+    "joining_date": "14-05-2025",
+    "employee_code": "EMP0323",
+    "email": "joshua42@freeman.net"
+  },
+  {
+    "emp_id": 324,
+    "full_name": "Christian Smith",
+    "designation": "Software Engineer",
+    "department": "IT",
+    "joining_date": "16-11-2016",
+    "employee_code": "EMP0324",
+    "email": "luis89@gmail.com"
+  },
+  {
+    "emp_id": 325,
+    "full_name": "Cynthia Brown",
+    "designation": "Finance Executive",
+    "department": "IT",
+    "joining_date": "19-03-2024",
+    "employee_code": "EMP0325",
+    "email": "tjones@johnson.com"
+  },
+  {
+    "emp_id": 326,
+    "full_name": "Alexandra Wilson",
+    "designation": "HR Manager",
+    "department": "Engineering",
+    "joining_date": "20-04-2024",
+    "employee_code": "EMP0326",
+    "email": "gdelacruz@yahoo.com"
+  },
+  {
+    "emp_id": 327,
+    "full_name": "Brian Jackson",
+    "designation": "Operations Coordinator",
+    "department": "Marketing",
+    "joining_date": "17-05-2023",
+    "employee_code": "EMP0327",
+    "email": "walter03@yahoo.com"
+  },
+  {
+    "emp_id": 328,
+    "full_name": "Ann Barnes",
+    "designation": "Data Scientist",
+    "department": "Sales",
+    "joining_date": "05-05-2021",
+    "employee_code": "EMP0328",
+    "email": "umartin@harper.biz"
+  },
+  {
+    "emp_id": 329,
+    "full_name": "Steven Cox",
+    "designation": "Software Engineer",
+    "department": "Engineering",
+    "joining_date": "04-04-2018",
+    "employee_code": "EMP0329",
+    "email": "bellronnie@gmail.com"
+  },
+  {
+    "emp_id": 330,
+    "full_name": "Deborah Potts",
+    "designation": "Software Engineer",
+    "department": "Operations",
+    "joining_date": "25-10-2023",
+    "employee_code": "EMP0330",
+    "email": "cindy51@morgan.net"
+  },
+  {
+    "emp_id": 331,
+    "full_name": "Angel Webb",
+    "designation": "HR Manager",
+    "department": "Marketing",
+    "joining_date": "12-08-2020",
+    "employee_code": "EMP0331",
+    "email": "olopez@hotmail.com"
+  },
+  {
+    "emp_id": 332,
+    "full_name": "Jessica West",
+    "designation": "HR Manager",
+    "department": "Product",
+    "joining_date": "04-12-2016",
+    "employee_code": "EMP0332",
+    "email": "kkane@jenkins.com"
+  },
+  {
+    "emp_id": 333,
+    "full_name": "Patrick Estrada",
+    "designation": "Marketing Specialist",
+    "department": "Finance",
+    "joining_date": "19-05-2017",
+    "employee_code": "EMP0333",
+    "email": "newmanpatrick@hotmail.com"
+  },
+  {
+    "emp_id": 334,
+    "full_name": "Tina Butler",
+    "designation": "Data Scientist",
+    "department": "Sales",
+    "joining_date": "22-02-2025",
+    "employee_code": "EMP0334",
+    "email": "krush@ali.biz"
+  },
+  {
+    "emp_id": 335,
+    "full_name": "Tara Valdez",
+    "designation": "Sales Manager",
+    "department": "HR",
+    "joining_date": "15-04-2016",
+    "employee_code": "EMP0335",
+    "email": "smithwilliam@hotmail.com"
+  },
+  {
+    "emp_id": 336,
+    "full_name": "Gina Hill",
+    "designation": "Product Manager",
+    "department": "Sales",
+    "joining_date": "08-07-2024",
+    "employee_code": "EMP0336",
+    "email": "jesse40@gmail.com"
+  },
+  {
+    "emp_id": 337,
+    "full_name": "Brenda Brown",
+    "designation": "Admin Officer",
+    "department": "Operations",
+    "joining_date": "04-01-2023",
+    "employee_code": "EMP0337",
+    "email": "matthew95@gmail.com"
+  },
+  {
+    "emp_id": 338,
+    "full_name": "Harry Clark",
+    "designation": "Data Scientist",
+    "department": "Finance",
+    "joining_date": "21-07-2025",
+    "employee_code": "EMP0338",
+    "email": "michelle18@gmail.com"
+  },
+  {
+    "emp_id": 339,
+    "full_name": "Eric Payne",
+    "designation": "Data Scientist",
+    "department": "IT",
+    "joining_date": "15-10-2015",
+    "employee_code": "EMP0339",
+    "email": "gfox@knox.com"
+  },
+  {
+    "emp_id": 340,
+    "full_name": "Timothy Harvey",
+    "designation": "Operations Coordinator",
+    "department": "Engineering",
+    "joining_date": "02-07-2022",
+    "employee_code": "EMP0340",
+    "email": "sheiladelacruz@bailey-patton.info"
+  },
+  {
+    "emp_id": 341,
+    "full_name": "Joseph Lewis",
+    "designation": "Software Engineer",
+    "department": "Engineering",
+    "joining_date": "16-11-2023",
+    "employee_code": "EMP0341",
+    "email": "samantha74@gmail.com"
+  },
+  {
+    "emp_id": 342,
+    "full_name": "Eric Garza",
+    "designation": "Software Engineer",
+    "department": "Engineering",
+    "joining_date": "03-01-2023",
+    "employee_code": "EMP0342",
+    "email": "sheilacortez@fisher-white.com"
+  },
+  {
+    "emp_id": 343,
+    "full_name": "Kimberly Blevins",
+    "designation": "Software Engineer",
+    "department": "IT",
+    "joining_date": "06-09-2018",
+    "employee_code": "EMP0343",
+    "email": "scottellis@munoz.com"
+  },
+  {
+    "emp_id": 344,
+    "full_name": "Micheal Beltran",
+    "designation": "Marketing Specialist",
+    "department": "Admin",
+    "joining_date": "06-04-2024",
+    "employee_code": "EMP0344",
+    "email": "ryanglover@gmail.com"
+  },
+  {
+    "emp_id": 345,
+    "full_name": "Joseph Gilbert",
+    "designation": "Product Manager",
+    "department": "Engineering",
+    "joining_date": "09-04-2022",
+    "employee_code": "EMP0345",
+    "email": "psanders@gmail.com"
+  },
+  {
+    "emp_id": 346,
+    "full_name": "Elaine Ware",
+    "designation": "Data Scientist",
+    "department": "Admin",
+    "joining_date": "04-03-2017",
+    "employee_code": "EMP0346",
+    "email": "brian96@williams.org"
+  },
+  {
+    "emp_id": 347,
+    "full_name": "Shelley Ford",
+    "designation": "Customer Support Executive",
+    "department": "IT",
+    "joining_date": "29-12-2015",
+    "employee_code": "EMP0347",
+    "email": "gabrielmartin@yahoo.com"
+  },
+  {
+    "emp_id": 348,
+    "full_name": "Anthony Romero",
+    "designation": "Customer Support Executive",
+    "department": "IT",
+    "joining_date": "07-04-2020",
+    "employee_code": "EMP0348",
+    "email": "reginaldhooper@gmail.com"
+  },
+  {
+    "emp_id": 349,
+    "full_name": "Christopher Pena",
+    "designation": "Sales Manager",
+    "department": "Admin",
+    "joining_date": "30-06-2017",
+    "employee_code": "EMP0349",
+    "email": "lesterjessica@kemp.com"
+  },
+  {
+    "emp_id": 350,
+    "full_name": "Diane Hammond",
+    "designation": "Marketing Specialist",
+    "department": "Marketing",
+    "joining_date": "25-12-2024",
+    "employee_code": "EMP0350",
+    "email": "harrisjeremy@hotmail.com"
+  },
+  {
+    "emp_id": 351,
+    "full_name": "Gerald Mcgee",
+    "designation": "Product Manager",
+    "department": "Sales",
+    "joining_date": "07-12-2018",
+    "employee_code": "EMP0351",
+    "email": "ethanlove@taylor.com"
+  },
+  {
+    "emp_id": 352,
+    "full_name": "Blake Mills DVM",
+    "designation": "Product Manager",
+    "department": "Sales",
+    "joining_date": "30-09-2015",
+    "employee_code": "EMP0352",
+    "email": "edgar21@burnett-kim.biz"
+  },
+  {
+    "emp_id": 353,
+    "full_name": "Elizabeth Ward",
+    "designation": "Customer Support Executive",
+    "department": "Engineering",
+    "joining_date": "13-10-2019",
+    "employee_code": "EMP0353",
+    "email": "matthewcantu@yahoo.com"
+  },
+  {
+    "emp_id": 354,
+    "full_name": "Valerie Allen",
+    "designation": "Customer Support Executive",
+    "department": "Marketing",
+    "joining_date": "15-05-2016",
+    "employee_code": "EMP0354",
+    "email": "jeff96@mcknight-jones.net"
+  },
+  {
+    "emp_id": 355,
+    "full_name": "Theresa Mitchell",
+    "designation": "Finance Executive",
+    "department": "Admin",
+    "joining_date": "28-10-2024",
+    "employee_code": "EMP0355",
+    "email": "johnsonpamela@fields-warren.com"
+  },
+  {
+    "emp_id": 356,
+    "full_name": "Claire Perez",
+    "designation": "Admin Officer",
+    "department": "Product",
+    "joining_date": "06-08-2021",
+    "employee_code": "EMP0356",
+    "email": "smcfarland@yahoo.com"
+  },
+  {
+    "emp_id": 357,
+    "full_name": "Jennifer Martin",
+    "designation": "Customer Support Executive",
+    "department": "Operations",
+    "joining_date": "13-07-2024",
+    "employee_code": "EMP0357",
+    "email": "joseph80@ellison.com"
+  },
+  {
+    "emp_id": 358,
+    "full_name": "Frank Johnson",
+    "designation": "Operations Coordinator",
+    "department": "Operations",
+    "joining_date": "14-02-2025",
+    "employee_code": "EMP0358",
+    "email": "kyle00@herman.biz"
+  },
+  {
+    "emp_id": 359,
+    "full_name": "Tammy Parker",
+    "designation": "Product Manager",
+    "department": "Engineering",
+    "joining_date": "07-11-2021",
+    "employee_code": "EMP0359",
+    "email": "jason71@white.com"
+  },
+  {
+    "emp_id": 360,
+    "full_name": "Tracy Bailey",
+    "designation": "Customer Support Executive",
+    "department": "Admin",
+    "joining_date": "25-08-2016",
+    "employee_code": "EMP0360",
+    "email": "moyerjorge@webb.com"
+  },
+  {
+    "emp_id": 361,
+    "full_name": "Tiffany Rosario",
+    "designation": "Product Manager",
+    "department": "Admin",
+    "joining_date": "25-03-2018",
+    "employee_code": "EMP0361",
+    "email": "michaelwolf@perry.com"
+  },
+  {
+    "emp_id": 362,
+    "full_name": "Wendy Palmer",
+    "designation": "Customer Support Executive",
+    "department": "Finance",
+    "joining_date": "11-12-2020",
+    "employee_code": "EMP0362",
+    "email": "prattdaniel@griffin-davenport.com"
+  },
+  {
+    "emp_id": 363,
+    "full_name": "Thomas Dominguez",
+    "designation": "Finance Executive",
+    "department": "Engineering",
+    "joining_date": "26-04-2019",
+    "employee_code": "EMP0363",
+    "email": "kevinfrederick@richards.com"
+  },
+  {
+    "emp_id": 364,
+    "full_name": "Laura Calhoun",
+    "designation": "Product Manager",
+    "department": "IT",
+    "joining_date": "10-02-2025",
+    "employee_code": "EMP0364",
+    "email": "katielowery@chen-sexton.net"
+  },
+  {
+    "emp_id": 365,
+    "full_name": "Kristin Roberts",
+    "designation": "HR Manager",
+    "department": "Product",
+    "joining_date": "03-10-2020",
+    "employee_code": "EMP0365",
+    "email": "stoneconnie@hebert.com"
+  },
+  {
+    "emp_id": 366,
+    "full_name": "Ashley Simmons",
+    "designation": "Operations Coordinator",
+    "department": "Engineering",
+    "joining_date": "13-02-2017",
+    "employee_code": "EMP0366",
+    "email": "ruizveronica@yahoo.com"
+  },
+  {
+    "emp_id": 367,
+    "full_name": "Joseph Lopez",
+    "designation": "Software Engineer",
+    "department": "Marketing",
+    "joining_date": "05-06-2017",
+    "employee_code": "EMP0367",
+    "email": "riceashley@gilmore.biz"
+  },
+  {
+    "emp_id": 368,
+    "full_name": "Kathy Wilson",
+    "designation": "Operations Coordinator",
+    "department": "IT",
+    "joining_date": "29-04-2024",
+    "employee_code": "EMP0368",
+    "email": "charles97@yahoo.com"
+  },
+  {
+    "emp_id": 369,
+    "full_name": "Troy Wilson",
+    "designation": "Product Manager",
+    "department": "IT",
+    "joining_date": "10-02-2021",
+    "employee_code": "EMP0369",
+    "email": "sacosta@yahoo.com"
+  },
+  {
+    "emp_id": 370,
+    "full_name": "Heidi Anderson",
+    "designation": "Sales Manager",
+    "department": "IT",
+    "joining_date": "27-05-2023",
+    "employee_code": "EMP0370",
+    "email": "youngdustin@yahoo.com"
+  },
+  {
+    "emp_id": 371,
+    "full_name": "Pamela Mclaughlin",
+    "designation": "Software Engineer",
+    "department": "Marketing",
+    "joining_date": "18-01-2017",
+    "employee_code": "EMP0371",
+    "email": "timothybenitez@yahoo.com"
+  },
+  {
+    "emp_id": 372,
+    "full_name": "Megan Brown",
+    "designation": "Sales Manager",
+    "department": "Finance",
+    "joining_date": "10-11-2015",
+    "employee_code": "EMP0372",
+    "email": "carpentersamantha@hotmail.com"
+  },
+  {
+    "emp_id": 373,
+    "full_name": "Jason Turner",
+    "designation": "Finance Executive",
+    "department": "Engineering",
+    "joining_date": "08-10-2021",
+    "employee_code": "EMP0373",
+    "email": "gordonjacob@hotmail.com"
+  },
+  {
+    "emp_id": 374,
+    "full_name": "Hector Allen",
+    "designation": "HR Manager",
+    "department": "Finance",
+    "joining_date": "19-01-2017",
+    "employee_code": "EMP0374",
+    "email": "hollowaystephanie@foley-harrington.com"
+  },
+  {
+    "emp_id": 375,
+    "full_name": "William Fritz",
+    "designation": "Operations Coordinator",
+    "department": "Finance",
+    "joining_date": "13-02-2021",
+    "employee_code": "EMP0375",
+    "email": "ubrooks@yahoo.com"
+  },
+  {
+    "emp_id": 376,
+    "full_name": "Jessica Davis",
+    "designation": "Software Engineer",
+    "department": "Sales",
+    "joining_date": "20-05-2021",
+    "employee_code": "EMP0376",
+    "email": "eric09@cortez.com"
+  },
+  {
+    "emp_id": 377,
+    "full_name": "James Hess",
+    "designation": "Finance Executive",
+    "department": "HR",
+    "joining_date": "22-05-2016",
+    "employee_code": "EMP0377",
+    "email": "jlewis@gmail.com"
+  },
+  {
+    "emp_id": 378,
+    "full_name": "Kimberly Townsend",
+    "designation": "Marketing Specialist",
+    "department": "Marketing",
+    "joining_date": "24-05-2016",
+    "employee_code": "EMP0378",
+    "email": "kbuchanan@wilson-stewart.net"
+  },
+  {
+    "emp_id": 379,
+    "full_name": "James Lewis",
+    "designation": "HR Manager",
+    "department": "IT",
+    "joining_date": "02-02-2019",
+    "employee_code": "EMP0379",
+    "email": "frenchbenjamin@stokes.com"
+  },
+  {
+    "emp_id": 380,
+    "full_name": "Phillip Mendoza",
+    "designation": "Software Engineer",
+    "department": "IT",
+    "joining_date": "18-11-2018",
+    "employee_code": "EMP0380",
+    "email": "tony09@boyd.com"
+  },
+  {
+    "emp_id": 381,
+    "full_name": "Patrick Ross",
+    "designation": "HR Manager",
+    "department": "HR",
+    "joining_date": "08-04-2023",
+    "employee_code": "EMP0381",
+    "email": "cooleyandrew@lee-ortiz.org"
+  },
+  {
+    "emp_id": 382,
+    "full_name": "Allison Moyer",
+    "designation": "Sales Manager",
+    "department": "Sales",
+    "joining_date": "11-08-2015",
+    "employee_code": "EMP0382",
+    "email": "kellyraven@turner-clark.com"
+  },
+  {
+    "emp_id": 383,
+    "full_name": "Gary Dunn",
+    "designation": "Customer Support Executive",
+    "department": "Admin",
+    "joining_date": "06-10-2021",
+    "employee_code": "EMP0383",
+    "email": "garciakatelyn@smith.info"
+  },
+  {
+    "emp_id": 384,
+    "full_name": "John Brown",
+    "designation": "Finance Executive",
+    "department": "Operations",
+    "joining_date": "07-09-2022",
+    "employee_code": "EMP0384",
+    "email": "gregoryduran@yahoo.com"
+  },
+  {
+    "emp_id": 385,
+    "full_name": "Carol Ramirez",
+    "designation": "Operations Coordinator",
+    "department": "Customer Support",
+    "joining_date": "29-03-2022",
+    "employee_code": "EMP0385",
+    "email": "laurenporter@hotmail.com"
+  },
+  {
+    "emp_id": 386,
+    "full_name": "Candace Shea",
+    "designation": "Sales Manager",
+    "department": "Customer Support",
+    "joining_date": "08-07-2022",
+    "employee_code": "EMP0386",
+    "email": "garzarobin@yahoo.com"
+  },
+  {
+    "emp_id": 387,
+    "full_name": "Samantha Boyd",
+    "designation": "Software Engineer",
+    "department": "Sales",
+    "joining_date": "16-03-2023",
+    "employee_code": "EMP0387",
+    "email": "terryjennifer@ray.info"
+  },
+  {
+    "emp_id": 388,
+    "full_name": "Shannon Mooney",
+    "designation": "Sales Manager",
+    "department": "IT",
+    "joining_date": "28-06-2023",
+    "employee_code": "EMP0388",
+    "email": "harrisjoseph@yahoo.com"
+  },
+  {
+    "emp_id": 389,
+    "full_name": "Tracey Miller",
+    "designation": "Finance Executive",
+    "department": "HR",
+    "joining_date": "24-05-2016",
+    "employee_code": "EMP0389",
+    "email": "rlara@yahoo.com"
+  },
+  {
+    "emp_id": 390,
+    "full_name": "Melissa Johnson",
+    "designation": "Software Engineer",
+    "department": "Customer Support",
+    "joining_date": "04-05-2021",
+    "employee_code": "EMP0390",
+    "email": "barrettchristina@hotmail.com"
+  },
+  {
+    "emp_id": 391,
+    "full_name": "Mary Evans",
+    "designation": "Product Manager",
+    "department": "Sales",
+    "joining_date": "12-04-2025",
+    "employee_code": "EMP0391",
+    "email": "candacelucas@hotmail.com"
+  },
+  {
+    "emp_id": 392,
+    "full_name": "Curtis Phillips",
+    "designation": "Customer Support Executive",
+    "department": "Marketing",
+    "joining_date": "23-10-2015",
+    "employee_code": "EMP0392",
+    "email": "jroberts@gmail.com"
+  },
+  {
+    "emp_id": 393,
+    "full_name": "Dale Bolton",
+    "designation": "Finance Executive",
+    "department": "Engineering",
+    "joining_date": "05-02-2025",
+    "employee_code": "EMP0393",
+    "email": "roberttownsend@yahoo.com"
+  },
+  {
+    "emp_id": 394,
+    "full_name": "Mary Vang",
+    "designation": "Data Scientist",
+    "department": "Operations",
+    "joining_date": "14-01-2023",
+    "employee_code": "EMP0394",
+    "email": "rsanders@hotmail.com"
+  },
+  {
+    "emp_id": 395,
+    "full_name": "Marc Davis",
+    "designation": "Operations Coordinator",
+    "department": "IT",
+    "joining_date": "08-02-2019",
+    "employee_code": "EMP0395",
+    "email": "ronalddurham@lucas-velazquez.com"
+  },
+  {
+    "emp_id": 396,
+    "full_name": "Kayla Jones",
+    "designation": "Software Engineer",
+    "department": "IT",
+    "joining_date": "29-03-2017",
+    "employee_code": "EMP0396",
+    "email": "destiny85@cox.com"
+  },
+  {
+    "emp_id": 397,
+    "full_name": "Henry Gross",
+    "designation": "Customer Support Executive",
+    "department": "IT",
+    "joining_date": "09-09-2022",
+    "employee_code": "EMP0397",
+    "email": "benjamincooper@smith.com"
+  },
+  {
+    "emp_id": 398,
+    "full_name": "Mark Kelley",
+    "designation": "Data Scientist",
+    "department": "Admin",
+    "joining_date": "25-07-2018",
+    "employee_code": "EMP0398",
+    "email": "rosejeremy@bauer-johnson.com"
+  },
+  {
+    "emp_id": 399,
+    "full_name": "Daniel Thomas",
+    "designation": "Product Manager",
+    "department": "Finance",
+    "joining_date": "07-01-2023",
+    "employee_code": "EMP0399",
+    "email": "sierradavis@ramos-turner.com"
+  },
+  {
+    "emp_id": 400,
+    "full_name": "Cynthia Miller",
+    "designation": "Sales Manager",
+    "department": "Product",
+    "joining_date": "11-03-2022",
+    "employee_code": "EMP0400",
+    "email": "otodd@anderson-tapia.com"
+  },
+  {
+    "emp_id": 401,
+    "full_name": "Natalie Stephenson",
+    "designation": "Finance Executive",
+    "department": "Engineering",
+    "joining_date": "03-05-2017",
+    "employee_code": "EMP0401",
+    "email": "ystokes@gmail.com"
+  },
+  {
+    "emp_id": 402,
+    "full_name": "Thomas Mann",
+    "designation": "Data Scientist",
+    "department": "Customer Support",
+    "joining_date": "02-03-2024",
+    "employee_code": "EMP0402",
+    "email": "ponceamy@kelley-green.org"
+  },
+  {
+    "emp_id": 403,
+    "full_name": "Douglas Mccoy",
+    "designation": "Sales Manager",
+    "department": "Finance",
+    "joining_date": "24-12-2017",
+    "employee_code": "EMP0403",
+    "email": "buckcraig@hotmail.com"
+  },
+  {
+    "emp_id": 404,
+    "full_name": "Brianna Brown",
+    "designation": "Customer Support Executive",
+    "department": "Customer Support",
+    "joining_date": "11-11-2018",
+    "employee_code": "EMP0404",
+    "email": "xwilliams@sanders.net"
+  },
+  {
+    "emp_id": 405,
+    "full_name": "Ryan Powers",
+    "designation": "Operations Coordinator",
+    "department": "Product",
+    "joining_date": "28-06-2025",
+    "employee_code": "EMP0405",
+    "email": "matthew58@yahoo.com"
+  },
+  {
+    "emp_id": 406,
+    "full_name": "Lisa Brown",
+    "designation": "Customer Support Executive",
+    "department": "IT",
+    "joining_date": "23-10-2016",
+    "employee_code": "EMP0406",
+    "email": "briggsjulie@gmail.com"
+  },
+  {
+    "emp_id": 407,
+    "full_name": "Gina Smith",
+    "designation": "Finance Executive",
+    "department": "Product",
+    "joining_date": "29-06-2023",
+    "employee_code": "EMP0407",
+    "email": "kristen75@hotmail.com"
+  },
+  {
+    "emp_id": 408,
+    "full_name": "Debra Faulkner",
+    "designation": "Marketing Specialist",
+    "department": "Admin",
+    "joining_date": "30-09-2019",
+    "employee_code": "EMP0408",
+    "email": "thomascurtis@cox-rosales.biz"
+  },
+  {
+    "emp_id": 409,
+    "full_name": "John Walker",
+    "designation": "Finance Executive",
+    "department": "Marketing",
+    "joining_date": "04-11-2019",
+    "employee_code": "EMP0409",
+    "email": "qpittman@gmail.com"
+  },
+  {
+    "emp_id": 410,
+    "full_name": "Colleen Bishop",
+    "designation": "Marketing Specialist",
+    "department": "Admin",
+    "joining_date": "24-05-2022",
+    "employee_code": "EMP0410",
+    "email": "kgardner@ellis.net"
+  },
+  {
+    "emp_id": 411,
+    "full_name": "Paul Daniels",
+    "designation": "Data Scientist",
+    "department": "Engineering",
+    "joining_date": "20-10-2023",
+    "employee_code": "EMP0411",
+    "email": "cmorgan@lam-reed.net"
+  },
+  {
+    "emp_id": 412,
+    "full_name": "Maria Ewing",
+    "designation": "Software Engineer",
+    "department": "Admin",
+    "joining_date": "24-02-2018",
+    "employee_code": "EMP0412",
+    "email": "kjordan@odom-mitchell.net"
+  },
+  {
+    "emp_id": 413,
+    "full_name": "Benjamin Peterson",
+    "designation": "Product Manager",
+    "department": "Product",
+    "joining_date": "03-07-2022",
+    "employee_code": "EMP0413",
+    "email": "sheri17@hotmail.com"
+  },
+  {
+    "emp_id": 414,
+    "full_name": "Alan Schmidt",
+    "designation": "Marketing Specialist",
+    "department": "Finance",
+    "joining_date": "16-04-2025",
+    "employee_code": "EMP0414",
+    "email": "mcdowellsusan@ramos-schwartz.info"
+  },
+  {
+    "emp_id": 415,
+    "full_name": "Brandy Weber",
+    "designation": "Data Scientist",
+    "department": "Product",
+    "joining_date": "23-12-2020",
+    "employee_code": "EMP0415",
+    "email": "floresjulie@yahoo.com"
+  },
+  {
+    "emp_id": 416,
+    "full_name": "Brian Walters",
+    "designation": "Data Scientist",
+    "department": "HR",
+    "joining_date": "06-10-2019",
+    "employee_code": "EMP0416",
+    "email": "jonesalexandria@yahoo.com"
+  },
+  {
+    "emp_id": 417,
+    "full_name": "John Mccarthy",
+    "designation": "Sales Manager",
+    "department": "Engineering",
+    "joining_date": "05-06-2021",
+    "employee_code": "EMP0417",
+    "email": "vincenterica@banks.org"
+  },
+  {
+    "emp_id": 418,
+    "full_name": "Lisa Mendez",
+    "designation": "Data Scientist",
+    "department": "Customer Support",
+    "joining_date": "07-03-2017",
+    "employee_code": "EMP0418",
+    "email": "reevesbradley@hotmail.com"
+  },
+  {
+    "emp_id": 419,
+    "full_name": "Jacob Chen",
+    "designation": "Sales Manager",
+    "department": "Finance",
+    "joining_date": "18-01-2025",
+    "employee_code": "EMP0419",
+    "email": "zcole@schneider-smith.com"
+  },
+  {
+    "emp_id": 420,
+    "full_name": "Christine Santana",
+    "designation": "Product Manager",
+    "department": "HR",
+    "joining_date": "14-02-2022",
+    "employee_code": "EMP0420",
+    "email": "erin05@dominguez-greene.org"
+  },
+  {
+    "emp_id": 421,
+    "full_name": "Lindsey Lester",
+    "designation": "Sales Manager",
+    "department": "Marketing",
+    "joining_date": "27-07-2023",
+    "employee_code": "EMP0421",
+    "email": "kbrown@hotmail.com"
+  },
+  {
+    "emp_id": 422,
+    "full_name": "Carolyn Hoover",
+    "designation": "Data Scientist",
+    "department": "Product",
+    "joining_date": "08-04-2019",
+    "employee_code": "EMP0422",
+    "email": "justinsutton@yahoo.com"
+  },
+  {
+    "emp_id": 423,
+    "full_name": "William Lee",
+    "designation": "Software Engineer",
+    "department": "Product",
+    "joining_date": "04-08-2023",
+    "employee_code": "EMP0423",
+    "email": "mitchell68@dennis-morris.biz"
+  },
+  {
+    "emp_id": 424,
+    "full_name": "Jeremy Thomas",
+    "designation": "Admin Officer",
+    "department": "HR",
+    "joining_date": "07-05-2017",
+    "employee_code": "EMP0424",
+    "email": "sheppardashley@hotmail.com"
+  },
+  {
+    "emp_id": 425,
+    "full_name": "Jean Martinez",
+    "designation": "Software Engineer",
+    "department": "Operations",
+    "joining_date": "30-07-2022",
+    "employee_code": "EMP0425",
+    "email": "pittsstephanie@hotmail.com"
+  },
+  {
+    "emp_id": 426,
+    "full_name": "Jason Williams",
+    "designation": "Customer Support Executive",
+    "department": "Marketing",
+    "joining_date": "01-09-2016",
+    "employee_code": "EMP0426",
+    "email": "aduran@ellis-armstrong.net"
+  },
+  {
+    "emp_id": 427,
+    "full_name": "Kelly Bartlett",
+    "designation": "HR Manager",
+    "department": "Engineering",
+    "joining_date": "04-04-2016",
+    "employee_code": "EMP0427",
+    "email": "rodriguezbrandy@miranda-rodriguez.info"
+  },
+  {
+    "emp_id": 428,
+    "full_name": "Larry Brown",
+    "designation": "Admin Officer",
+    "department": "Engineering",
+    "joining_date": "16-09-2024",
+    "employee_code": "EMP0428",
+    "email": "burnsvictoria@hotmail.com"
+  },
+  {
+    "emp_id": 429,
+    "full_name": "Gabrielle Garcia",
+    "designation": "Software Engineer",
+    "department": "Operations",
+    "joining_date": "05-01-2019",
+    "employee_code": "EMP0429",
+    "email": "brooksjulie@boyer.com"
+  },
+  {
+    "emp_id": 430,
+    "full_name": "Ashley Nguyen",
+    "designation": "Data Scientist",
+    "department": "Customer Support",
+    "joining_date": "05-04-2019",
+    "employee_code": "EMP0430",
+    "email": "luis17@hotmail.com"
+  },
+  {
+    "emp_id": 431,
+    "full_name": "Jennifer Davis",
+    "designation": "Admin Officer",
+    "department": "Engineering",
+    "joining_date": "24-05-2023",
+    "employee_code": "EMP0431",
+    "email": "edwardgarcia@little.net"
+  },
+  {
+    "emp_id": 432,
+    "full_name": "Christopher Farley",
+    "designation": "Operations Coordinator",
+    "department": "Customer Support",
+    "joining_date": "29-08-2015",
+    "employee_code": "EMP0432",
+    "email": "sheadavid@gmail.com"
+  },
+  {
+    "emp_id": 433,
+    "full_name": "Teresa Moran DDS",
+    "designation": "Product Manager",
+    "department": "HR",
+    "joining_date": "01-09-2015",
+    "employee_code": "EMP0433",
+    "email": "qsolomon@hall-delacruz.com"
+  },
+  {
+    "emp_id": 434,
+    "full_name": "Jennifer Alexander",
+    "designation": "Product Manager",
+    "department": "Product",
+    "joining_date": "27-07-2023",
+    "employee_code": "EMP0434",
+    "email": "christopher58@le-cook.org"
+  },
+  {
+    "emp_id": 435,
+    "full_name": "Omar Santiago",
+    "designation": "Operations Coordinator",
+    "department": "Marketing",
+    "joining_date": "31-12-2018",
+    "employee_code": "EMP0435",
+    "email": "morganevans@hotmail.com"
+  },
+  {
+    "emp_id": 436,
+    "full_name": "Mary Zavala",
+    "designation": "Sales Manager",
+    "department": "Marketing",
+    "joining_date": "14-07-2021",
+    "employee_code": "EMP0436",
+    "email": "moralesdanielle@hotmail.com"
+  },
+  {
+    "emp_id": 437,
+    "full_name": "Christopher Chaney",
+    "designation": "Finance Executive",
+    "department": "Finance",
+    "joining_date": "03-01-2024",
+    "employee_code": "EMP0437",
+    "email": "amy76@anderson.com"
+  },
+  {
+    "emp_id": 438,
+    "full_name": "Holly Clarke",
+    "designation": "Product Manager",
+    "department": "Operations",
+    "joining_date": "12-06-2019",
+    "employee_code": "EMP0438",
+    "email": "sullivanjoyce@washington-davis.com"
+  },
+  {
+    "emp_id": 439,
+    "full_name": "Alexander Hodges",
+    "designation": "Admin Officer",
+    "department": "Operations",
+    "joining_date": "08-07-2024",
+    "employee_code": "EMP0439",
+    "email": "mackxavier@yahoo.com"
+  },
+  {
+    "emp_id": 440,
+    "full_name": "Cameron Aguirre",
+    "designation": "Sales Manager",
+    "department": "Marketing",
+    "joining_date": "02-02-2021",
+    "employee_code": "EMP0440",
+    "email": "brent69@woods.info"
+  },
+  {
+    "emp_id": 441,
+    "full_name": "Timothy Morales",
+    "designation": "Operations Coordinator",
+    "department": "Marketing",
+    "joining_date": "29-12-2017",
+    "employee_code": "EMP0441",
+    "email": "agonzalez@powell-mueller.com"
+  },
+  {
+    "emp_id": 442,
+    "full_name": "Levi Hensley",
+    "designation": "Customer Support Executive",
+    "department": "Finance",
+    "joining_date": "24-03-2023",
+    "employee_code": "EMP0442",
+    "email": "christopher69@hotmail.com"
+  },
+  {
+    "emp_id": 443,
+    "full_name": "Yolanda Johnson",
+    "designation": "Software Engineer",
+    "department": "Operations",
+    "joining_date": "11-09-2023",
+    "employee_code": "EMP0443",
+    "email": "dayers@roberts-nash.org"
+  },
+  {
+    "emp_id": 444,
+    "full_name": "Joann Richmond",
+    "designation": "Sales Manager",
+    "department": "Sales",
+    "joining_date": "17-09-2021",
+    "employee_code": "EMP0444",
+    "email": "brandonjones@hotmail.com"
+  },
+  {
+    "emp_id": 445,
+    "full_name": "Patricia Ingram",
+    "designation": "Customer Support Executive",
+    "department": "Admin",
+    "joining_date": "15-10-2022",
+    "employee_code": "EMP0445",
+    "email": "karenconley@king.biz"
+  },
+  {
+    "emp_id": 446,
+    "full_name": "Connor Perry",
+    "designation": "Data Scientist",
+    "department": "Admin",
+    "joining_date": "02-10-2019",
+    "employee_code": "EMP0446",
+    "email": "belindamoyer@gamble.com"
+  },
+  {
+    "emp_id": 447,
+    "full_name": "Michaela Myers",
+    "designation": "Operations Coordinator",
+    "department": "HR",
+    "joining_date": "15-03-2023",
+    "employee_code": "EMP0447",
+    "email": "ffox@hotmail.com"
+  },
+  {
+    "emp_id": 448,
+    "full_name": "Henry Freeman",
+    "designation": "Admin Officer",
+    "department": "Marketing",
+    "joining_date": "21-10-2015",
+    "employee_code": "EMP0448",
+    "email": "aaguilar@yahoo.com"
+  },
+  {
+    "emp_id": 449,
+    "full_name": "Melissa Ballard",
+    "designation": "Operations Coordinator",
+    "department": "Marketing",
+    "joining_date": "23-01-2017",
+    "employee_code": "EMP0449",
+    "email": "hudsonjeffrey@gmail.com"
+  },
+  {
+    "emp_id": 450,
+    "full_name": "Cindy Thompson",
+    "designation": "Product Manager",
+    "department": "Product",
+    "joining_date": "20-10-2018",
+    "employee_code": "EMP0450",
+    "email": "sandra45@johnson.com"
+  },
+  {
+    "emp_id": 451,
+    "full_name": "Edward Rivera",
+    "designation": "Sales Manager",
+    "department": "IT",
+    "joining_date": "08-05-2023",
+    "employee_code": "EMP0451",
+    "email": "millerrobert@hotmail.com"
+  },
+  {
+    "emp_id": 452,
+    "full_name": "Erin Miller",
+    "designation": "HR Manager",
+    "department": "Product",
+    "joining_date": "22-08-2017",
+    "employee_code": "EMP0452",
+    "email": "bowendiana@black.info"
+  },
+  {
+    "emp_id": 453,
+    "full_name": "Nathan Nichols",
+    "designation": "Marketing Specialist",
+    "department": "IT",
+    "joining_date": "03-05-2023",
+    "employee_code": "EMP0453",
+    "email": "tamarasmith@bruce-cole.info"
+  },
+  {
+    "emp_id": 454,
+    "full_name": "Lisa Molina",
+    "designation": "Marketing Specialist",
+    "department": "Operations",
+    "joining_date": "24-06-2023",
+    "employee_code": "EMP0454",
+    "email": "andrewswendy@yahoo.com"
+  },
+  {
+    "emp_id": 455,
+    "full_name": "Gary Dixon",
+    "designation": "Operations Coordinator",
+    "department": "Finance",
+    "joining_date": "27-10-2018",
+    "employee_code": "EMP0455",
+    "email": "brandon57@hotmail.com"
+  },
+  {
+    "emp_id": 456,
+    "full_name": "Robert Nichols",
+    "designation": "Marketing Specialist",
+    "department": "Product",
+    "joining_date": "29-04-2018",
+    "employee_code": "EMP0456",
+    "email": "lambmathew@gmail.com"
+  },
+  {
+    "emp_id": 457,
+    "full_name": "Paula Todd",
+    "designation": "HR Manager",
+    "department": "Engineering",
+    "joining_date": "03-11-2019",
+    "employee_code": "EMP0457",
+    "email": "dawn60@yahoo.com"
+  },
+  {
+    "emp_id": 458,
+    "full_name": "Denise Wong",
+    "designation": "Operations Coordinator",
+    "department": "IT",
+    "joining_date": "12-01-2019",
+    "employee_code": "EMP0458",
+    "email": "heather84@gmail.com"
+  },
+  {
+    "emp_id": 459,
+    "full_name": "Jason Frederick",
+    "designation": "Operations Coordinator",
+    "department": "Sales",
+    "joining_date": "24-12-2021",
+    "employee_code": "EMP0459",
+    "email": "hannah16@krueger.biz"
+  },
+  {
+    "emp_id": 460,
+    "full_name": "Sarah Miller",
+    "designation": "Finance Executive",
+    "department": "Admin",
+    "joining_date": "26-08-2023",
+    "employee_code": "EMP0460",
+    "email": "makayla42@hotmail.com"
+  },
+  {
+    "emp_id": 461,
+    "full_name": "Valerie Doyle",
+    "designation": "Operations Coordinator",
+    "department": "Operations",
+    "joining_date": "14-07-2019",
+    "employee_code": "EMP0461",
+    "email": "kingkimberly@wilson-harris.biz"
+  },
+  {
+    "emp_id": 462,
+    "full_name": "Mark Potter",
+    "designation": "Sales Manager",
+    "department": "HR",
+    "joining_date": "09-03-2017",
+    "employee_code": "EMP0462",
+    "email": "daniel27@yahoo.com"
+  },
+  {
+    "emp_id": 463,
+    "full_name": "Peter Snyder",
+    "designation": "HR Manager",
+    "department": "Marketing",
+    "joining_date": "16-03-2022",
+    "employee_code": "EMP0463",
+    "email": "msmith@hotmail.com"
+  },
+  {
+    "emp_id": 464,
+    "full_name": "Scott Wheeler",
+    "designation": "Operations Coordinator",
+    "department": "Operations",
+    "joining_date": "22-12-2018",
+    "employee_code": "EMP0464",
+    "email": "charles63@hotmail.com"
+  },
+  {
+    "emp_id": 465,
+    "full_name": "Chad Burns",
+    "designation": "Admin Officer",
+    "department": "Admin",
+    "joining_date": "26-05-2016",
+    "employee_code": "EMP0465",
+    "email": "loganwilliam@gmail.com"
+  },
+  {
+    "emp_id": 466,
+    "full_name": "Christina Castro",
+    "designation": "Finance Executive",
+    "department": "HR",
+    "joining_date": "02-08-2020",
+    "employee_code": "EMP0466",
+    "email": "randallsilva@gmail.com"
+  },
+  {
+    "emp_id": 467,
+    "full_name": "Margaret Mejia",
+    "designation": "Customer Support Executive",
+    "department": "Admin",
+    "joining_date": "25-03-2023",
+    "employee_code": "EMP0467",
+    "email": "rdoyle@hotmail.com"
+  },
+  {
+    "emp_id": 468,
+    "full_name": "Michael Martinez",
+    "designation": "Finance Executive",
+    "department": "Sales",
+    "joining_date": "18-01-2016",
+    "employee_code": "EMP0468",
+    "email": "dgonzalez@richardson-martinez.com"
+  },
+  {
+    "emp_id": 469,
+    "full_name": "Linda Wood",
+    "designation": "Sales Manager",
+    "department": "Marketing",
+    "joining_date": "03-08-2021",
+    "employee_code": "EMP0469",
+    "email": "carrierichardson@yahoo.com"
+  },
+  {
+    "emp_id": 470,
+    "full_name": "Jeffrey Pearson",
+    "designation": "Operations Coordinator",
+    "department": "HR",
+    "joining_date": "30-05-2025",
+    "employee_code": "EMP0470",
+    "email": "craigpowell@scott-maynard.net"
+  },
+  {
+    "emp_id": 471,
+    "full_name": "Janet Bentley",
+    "designation": "Sales Manager",
+    "department": "Marketing",
+    "joining_date": "04-04-2020",
+    "employee_code": "EMP0471",
+    "email": "nmccarty@morrison.com"
+  },
+  {
+    "emp_id": 472,
+    "full_name": "Kimberly Noble",
+    "designation": "Finance Executive",
+    "department": "Sales",
+    "joining_date": "29-05-2019",
+    "employee_code": "EMP0472",
+    "email": "aimeewilliams@gmail.com"
+  },
+  {
+    "emp_id": 473,
+    "full_name": "Heidi Knox",
+    "designation": "Sales Manager",
+    "department": "IT",
+    "joining_date": "08-02-2025",
+    "employee_code": "EMP0473",
+    "email": "mtran@odom.com"
+  },
+  {
+    "emp_id": 474,
+    "full_name": "Matthew White",
+    "designation": "Software Engineer",
+    "department": "IT",
+    "joining_date": "19-06-2019",
+    "employee_code": "EMP0474",
+    "email": "veronicagarza@morris.com"
+  },
+  {
+    "emp_id": 475,
+    "full_name": "Heather Allison",
+    "designation": "Customer Support Executive",
+    "department": "IT",
+    "joining_date": "11-06-2017",
+    "employee_code": "EMP0475",
+    "email": "qjames@gmail.com"
+  },
+  {
+    "emp_id": 476,
+    "full_name": "Matthew Stewart",
+    "designation": "Finance Executive",
+    "department": "HR",
+    "joining_date": "20-05-2025",
+    "employee_code": "EMP0476",
+    "email": "christopher08@hotmail.com"
+  },
+  {
+    "emp_id": 477,
+    "full_name": "Paula Lopez",
+    "designation": "Software Engineer",
+    "department": "Finance",
+    "joining_date": "21-07-2020",
+    "employee_code": "EMP0477",
+    "email": "thomasmisty@gmail.com"
+  },
+  {
+    "emp_id": 478,
+    "full_name": "Caitlyn Harris",
+    "designation": "Customer Support Executive",
+    "department": "Operations",
+    "joining_date": "11-01-2024",
+    "employee_code": "EMP0478",
+    "email": "sampsonmichael@gmail.com"
+  },
+  {
+    "emp_id": 479,
+    "full_name": "Steven Marshall",
+    "designation": "Operations Coordinator",
+    "department": "Customer Support",
+    "joining_date": "31-12-2019",
+    "employee_code": "EMP0479",
+    "email": "duffywilliam@burch-taylor.com"
+  },
+  {
+    "emp_id": 480,
+    "full_name": "Patricia Li",
+    "designation": "Product Manager",
+    "department": "Customer Support",
+    "joining_date": "27-08-2018",
+    "employee_code": "EMP0480",
+    "email": "crussell@white-lucero.org"
+  },
+  {
+    "emp_id": 481,
+    "full_name": "Fernando Lopez",
+    "designation": "Finance Executive",
+    "department": "Sales",
+    "joining_date": "29-06-2016",
+    "employee_code": "EMP0481",
+    "email": "zschroeder@lopez.biz"
+  },
+  {
+    "emp_id": 482,
+    "full_name": "Philip Johnston",
+    "designation": "Operations Coordinator",
+    "department": "Customer Support",
+    "joining_date": "17-06-2019",
+    "employee_code": "EMP0482",
+    "email": "jessicamiller@baxter-kim.net"
+  },
+  {
+    "emp_id": 483,
+    "full_name": "Eric Coleman",
+    "designation": "Product Manager",
+    "department": "IT",
+    "joining_date": "13-08-2020",
+    "employee_code": "EMP0483",
+    "email": "weberrachael@yahoo.com"
+  },
+  {
+    "emp_id": 484,
+    "full_name": "Ryan Davis",
+    "designation": "Data Scientist",
+    "department": "Engineering",
+    "joining_date": "04-11-2019",
+    "employee_code": "EMP0484",
+    "email": "eric57@mercer-martin.biz"
+  },
+  {
+    "emp_id": 485,
+    "full_name": "Pamela Owen",
+    "designation": "Admin Officer",
+    "department": "Operations",
+    "joining_date": "13-02-2021",
+    "employee_code": "EMP0485",
+    "email": "rickyevans@hotmail.com"
+  },
+  {
+    "emp_id": 486,
+    "full_name": "Kevin Terry",
+    "designation": "Finance Executive",
+    "department": "Marketing",
+    "joining_date": "15-01-2016",
+    "employee_code": "EMP0486",
+    "email": "xrodriguez@gmail.com"
+  },
+  {
+    "emp_id": 487,
+    "full_name": "Samuel Carey",
+    "designation": "Software Engineer",
+    "department": "Marketing",
+    "joining_date": "01-08-2023",
+    "employee_code": "EMP0487",
+    "email": "lynn15@mack.com"
+  },
+  {
+    "emp_id": 488,
+    "full_name": "Mrs. Angela Sanchez",
+    "designation": "Product Manager",
+    "department": "Product",
+    "joining_date": "27-10-2020",
+    "employee_code": "EMP0488",
+    "email": "stephenstephenson@yahoo.com"
+  },
+  {
+    "emp_id": 489,
+    "full_name": "Thomas Harris",
+    "designation": "Product Manager",
+    "department": "HR",
+    "joining_date": "24-08-2020",
+    "employee_code": "EMP0489",
+    "email": "brewerkimberly@berry-ortiz.com"
+  },
+  {
+    "emp_id": 490,
+    "full_name": "Carrie Bowman",
+    "designation": "Data Scientist",
+    "department": "Operations",
+    "joining_date": "14-10-2023",
+    "employee_code": "EMP0490",
+    "email": "qgriffin@hotmail.com"
+  },
+  {
+    "emp_id": 491,
+    "full_name": "James Lane",
+    "designation": "Finance Executive",
+    "department": "Product",
+    "joining_date": "05-02-2020",
+    "employee_code": "EMP0491",
+    "email": "pamela71@long.info"
+  },
+  {
+    "emp_id": 492,
+    "full_name": "Kimberly Caldwell",
+    "designation": "Product Manager",
+    "department": "Sales",
+    "joining_date": "28-04-2020",
+    "employee_code": "EMP0492",
+    "email": "rwhitaker@gmail.com"
+  },
+  {
+    "emp_id": 493,
+    "full_name": "Erica Chandler",
+    "designation": "Operations Coordinator",
+    "department": "Product",
+    "joining_date": "22-10-2020",
+    "employee_code": "EMP0493",
+    "email": "robinsonyolanda@yahoo.com"
+  },
+  {
+    "emp_id": 494,
+    "full_name": "Roy Hawkins",
+    "designation": "Data Scientist",
+    "department": "HR",
+    "joining_date": "15-08-2017",
+    "employee_code": "EMP0494",
+    "email": "daniel66@yahoo.com"
+  },
+  {
+    "emp_id": 495,
+    "full_name": "Joseph Patterson",
+    "designation": "Admin Officer",
+    "department": "Admin",
+    "joining_date": "24-11-2023",
+    "employee_code": "EMP0495",
+    "email": "rachellogan@barron.com"
+  },
+  {
+    "emp_id": 496,
+    "full_name": "George Rivera",
+    "designation": "Customer Support Executive",
+    "department": "Operations",
+    "joining_date": "24-09-2016",
+    "employee_code": "EMP0496",
+    "email": "mcgeesteven@saunders.com"
+  },
+  {
+    "emp_id": 497,
+    "full_name": "Leonard Dawson",
+    "designation": "Sales Manager",
+    "department": "Marketing",
+    "joining_date": "14-10-2023",
+    "employee_code": "EMP0497",
+    "email": "karenclark@yahoo.com"
+  },
+  {
+    "emp_id": 498,
+    "full_name": "Luis Thompson",
+    "designation": "Admin Officer",
+    "department": "Sales",
+    "joining_date": "03-03-2023",
+    "employee_code": "EMP0498",
+    "email": "madisonmendez@yahoo.com"
+  },
+  {
+    "emp_id": 499,
+    "full_name": "Shannon Hernandez",
+    "designation": "Operations Coordinator",
+    "department": "Customer Support",
+    "joining_date": "03-06-2025",
+    "employee_code": "EMP0499",
+    "email": "mjohnson@webb.com"
+  },
+  {
+    "emp_id": 500,
+    "full_name": "Angela Perkins",
+    "designation": "Admin Officer",
+    "department": "Engineering",
+    "joining_date": "29-08-2017",
+    "employee_code": "EMP0500",
+    "email": "kayla76@barker-morris.com"
+  },
+  {
+    "emp_id": 501,
+    "full_name": "Mariah Ballard",
+    "designation": "Finance Executive",
+    "department": "Sales",
+    "joining_date": "07-02-2022",
+    "employee_code": "EMP0501",
+    "email": "aknight@andrews-spears.net"
+  },
+  {
+    "emp_id": 502,
+    "full_name": "Thomas Butler",
+    "designation": "Marketing Specialist",
+    "department": "Product",
+    "joining_date": "24-05-2021",
+    "employee_code": "EMP0502",
+    "email": "jacksonmichael@yahoo.com"
+  },
+  {
+    "emp_id": 503,
+    "full_name": "Tyler Williams",
+    "designation": "Customer Support Executive",
+    "department": "Engineering",
+    "joining_date": "21-02-2018",
+    "employee_code": "EMP0503",
+    "email": "steven65@garrett.org"
+  },
+  {
+    "emp_id": 504,
+    "full_name": "Lori Banks",
+    "designation": "Admin Officer",
+    "department": "Finance",
+    "joining_date": "10-12-2016",
+    "employee_code": "EMP0504",
+    "email": "amy68@gmail.com"
+  }
+]
