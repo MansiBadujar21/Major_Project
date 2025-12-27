@@ -1,8 +1,8 @@
-# Reliance Jio Infotech Solutions - AI-Powered HR Assistant
+# AI-Powered HR Assistant
 
 ## 🚀 Project Overview
 
-An advanced AI-powered HR assistant chatbot built as a college major project by a team of talented students. This comprehensive solution combines modern web technologies with cutting-edge AI to provide intelligent HR support, document processing, and certificate generation for Reliance Jio Infotech Solutions.
+An advanced AI-powered HR assistant chatbot built as a college major project by a team of talented students. This comprehensive solution combines modern web technologies with cutting-edge AI to provide intelligent HR support, document processing, and certificate generation. **Fully configurable for any organization** through environment variables.
 
 ## 📸 Screenshots
 
@@ -47,9 +47,11 @@ An advanced AI-powered HR assistant chatbot built as a college major project by 
 ### 🔐 **Security & Authentication**
 - **OTP-based Login**: Secure email-based authentication system
 - **Session Management**: Robust session handling with automatic logout
+- **Same-User Document Generation**: Users can ONLY generate documents for themselves (403 Forbidden otherwise)
 - **Input Validation**: Comprehensive security measures
 - **Content Filtering**: Bad language detection and moderation
 - **Middleware Protection**: Route-level authentication enforcement
+- **Audit Logging**: Comprehensive security event logging
 
 ## 🏗️ Architecture
 
@@ -291,13 +293,36 @@ npm run dev:backend
 
 ### Environment Variables
 
-#### Frontend (.env.local)
+⚠️ **Important**: This application is fully configurable via environment variables. Copy `env.example` to `.env` and configure for your organization.
+
+#### Company Branding Configuration (Backend)
 ```bash
+# Configure your organization's branding and contact details
+# These values will appear in the UI, generated documents, and email communications
+COMPANY_NAME=TechCorp Solutions
+APP_NAME=TechCorp HR Assistant
+COMPANY_SUBTITLE=Enterprise Software & HR Solutions Provider
+COMPANY_ADDRESS=123 Business Park, Tech District, Mumbai - 400001
+COMPANY_PHONE=+91-22-1234-5678
+COMPANY_EMAIL=hr@techcorp.com
+COMPANY_WEBSITE=www.techcorp.com
+COMPANY_CIN=                    # Optional: Corporate Identity Number
+COMPANY_GST=                    # Optional: GST Number
+```
+
+#### Frontend Configuration (.env.local or .env)
+```bash
+# Company branding for frontend (must be prefixed with NEXT_PUBLIC_)
+NEXT_PUBLIC_COMPANY_NAME=TechCorp Solutions
+NEXT_PUBLIC_APP_NAME=TechCorp HR Assistant
+
+# API URL (for connecting frontend to backend)
+NEXT_PUBLIC_API_URL=http://localhost:8000
 NEXT_PUBLIC_BACKEND_URL=http://localhost:8000
 NODE_ENV=development
 ```
 
-#### Backend (.env)
+#### Backend (.env).
 ```bash
 # Google Gemini AI Configuration
 GOOGLE_GEMINI_API_KEY=your-gemini-api-key-here
@@ -318,7 +343,55 @@ MONGODB_URI=mongodb+srv://username:password@cluster.mongodb.net/hr_assistant?ret
 
 # Optional Configuration
 DISABLE_AUTH=false
-ORG_NAME="Reliance Jio Infotech Solutions"
+
+# DEPRECATED: Use COMPANY_NAME instead (maintained for backward compatibility)
+# ORG_NAME will be ignored if COMPANY_NAME is set
+```
+
+## 🔒 Security Model
+
+### Document Generation Security
+
+**Important**: This application enforces strict security for document generation:
+
+1. **Same-User Restriction**: 
+   - Authenticated users can ONLY generate documents for themselves
+   - Any attempt to generate documents for other users returns `403 Forbidden`
+   - Employee ID and name fields are auto-filled and locked to the authenticated user
+
+2. **Backend Validation**:
+   - All document generation endpoints require authentication
+   - Backend validates that `current_user.emp_id` matches the requested `employeeId`
+   - Comprehensive security logging for all document generation attempts
+
+3. **Frontend Protection**:
+   - Document form auto-fills with current user's data
+   - Employee search functionality removed (users cannot search for others)
+   - Core employee fields (name, ID, designation, department, joining date) are read-only
+
+4. **Audit Trail**:
+   - All document generation requests are logged with:
+     - Timestamp
+     - Authenticated user ID
+     - Requested employee ID
+     - Success/failure status
+     - Rejection reason (if applicable)
+
+### Testing Security
+
+**Test Case 1: Valid Request (Should Succeed)**
+```bash
+# User A (emp_id=1) generates document for themselves
+# Expected: 200 OK, document generated successfully
+```
+
+**Test Case 2: Invalid Request (Should Fail)**
+```bash
+# User A (emp_id=1) attempts to generate document for User B (emp_id=2)
+# Expected: 403 Forbidden with error message
+```
+
+For complete security documentation, see [SECURITY.md](./SECURITY.md)
 ```
 
 ## 📋 API Endpoints
@@ -449,16 +522,16 @@ The system uses a sophisticated hybrid approach combining:
 ## 👥 Development Team
 
 ### Team Members
-1. **Devyani Suresh Deore** - Brand Manager (Marketing)
-   - Frontend Development, UI/UX Design, Project Management
+1. **Devyani Suresh Deore** - Project Lead (IT)
+   - Technical Project Lead, Project Management, Team Leadership
 
-2. **Ashwini Anil Nikumbh** - Account Executive (Finance)
+2. **Ashwini Anil Nikumbh** - Backend Developer (IT)
    - Backend Development, Database Design, API Development
 
-3. **Khushbu Arun Jain** - HR Specialist (Human Resources)
-   - AI Integration, Business Logic, Testing
+3. **Khushbu Arun Jain** - Frontend Developer (IT)
+   - Frontend Development, UI/UX Design, React & Next.js
 
-4. **Mansi Anil Badgujar** - Software Engineer (IT)
+4. **Mansi Anil Badgujar** - Full Stack Developer (IT)
    - Full Stack Development, DevOps, System Architecture
 
 ### Project Scope
@@ -575,7 +648,7 @@ For technical support or questions:
 *Advanced AI-Powered Document Processing & HR Q&A System*
 
 **Team Members:**
-- **Devyani Suresh Deore** - Brand Manager (Marketing)
-- **Ashwini Anil Nikumbh** - Account Executive (Finance) 
-- **Khushbu Arun Jain** - HR Specialist (Human Resources)
-- **Mansi Anil Badgujar** - Software Engineer (IT)
+- **Devyani Suresh Deore** - Project Lead (IT)
+- **Ashwini Anil Nikumbh** - Backend Developer (IT) 
+- **Khushbu Arun Jain** - Frontend Developer (IT)
+- **Mansi Anil Badgujar** - Full Stack Developer (IT)
